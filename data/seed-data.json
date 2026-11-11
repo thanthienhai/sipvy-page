@@ -1,0 +1,3654 @@
+{
+  "categories": [
+    {
+      "slug": "tra-shan-tuyet",
+      "name": "Trà Shan Tuyết"
+    },
+    {
+      "slug": "tra-xanh",
+      "name": "Trà Xanh"
+    },
+    {
+      "slug": "tra-o-long",
+      "name": "Trà Ô Long"
+    },
+    {
+      "slug": "tra-sen",
+      "name": "Trà Sen"
+    },
+    {
+      "slug": "tra-thao-moc",
+      "name": "Trà Thảo Mộc"
+    },
+    {
+      "slug": "phu-kien-tra",
+      "name": "Phụ Kiện Trà Đạo"
+    }
+  ],
+  "products": [
+    {
+      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 1",
+      "slug": "tra-tra-shan-tuyet-1",
+      "categoryId": "tra-shan-tuyet",
+      "categoryName": "Trà Shan Tuyết",
+      "price": 270000,
+      "originalPrice": 330000,
+      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Shan Tuyết Cổ Thụ Thượng Hạng Số 1\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Shan Tuyết Cổ Thụ Thượng Hạng Số 1 | SIPVY Tea",
+      "seoDesc": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 270000
+        },
+        {
+          "weight": "200g",
+          "price": 513000
+        },
+        {
+          "weight": "500g",
+          "price": 1215000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 2",
+      "slug": "tra-tra-shan-tuyet-2",
+      "categoryId": "tra-shan-tuyet",
+      "categoryName": "Trà Shan Tuyết",
+      "price": 250000,
+      "originalPrice": 300000,
+      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Shan Tuyết Cổ Thụ Thượng Hạng Số 2\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Shan Tuyết Cổ Thụ Thượng Hạng Số 2 | SIPVY Tea",
+      "seoDesc": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 250000
+        },
+        {
+          "weight": "200g",
+          "price": 475000
+        },
+        {
+          "weight": "500g",
+          "price": 1125000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 3",
+      "slug": "tra-tra-shan-tuyet-3",
+      "categoryId": "tra-shan-tuyet",
+      "categoryName": "Trà Shan Tuyết",
+      "price": 240000,
+      "originalPrice": 300000,
+      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Shan Tuyết Cổ Thụ Thượng Hạng Số 3\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Shan Tuyết Cổ Thụ Thượng Hạng Số 3 | SIPVY Tea",
+      "seoDesc": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 240000
+        },
+        {
+          "weight": "200g",
+          "price": 456000
+        },
+        {
+          "weight": "500g",
+          "price": 1080000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 4",
+      "slug": "tra-tra-shan-tuyet-4",
+      "categoryId": "tra-shan-tuyet",
+      "categoryName": "Trà Shan Tuyết",
+      "price": 760000,
+      "originalPrice": 800000,
+      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Shan Tuyết Cổ Thụ Thượng Hạng Số 4\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Shan Tuyết Cổ Thụ Thượng Hạng Số 4 | SIPVY Tea",
+      "seoDesc": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 760000
+        },
+        {
+          "weight": "200g",
+          "price": 1444000
+        },
+        {
+          "weight": "500g",
+          "price": 3420000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 5",
+      "slug": "tra-tra-shan-tuyet-5",
+      "categoryId": "tra-shan-tuyet",
+      "categoryName": "Trà Shan Tuyết",
+      "price": 680000,
+      "originalPrice": 740000,
+      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Shan Tuyết Cổ Thụ Thượng Hạng Số 5\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Shan Tuyết Cổ Thụ Thượng Hạng Số 5 | SIPVY Tea",
+      "seoDesc": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 680000
+        },
+        {
+          "weight": "200g",
+          "price": 1292000
+        },
+        {
+          "weight": "500g",
+          "price": 3060000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 6",
+      "slug": "tra-tra-shan-tuyet-6",
+      "categoryId": "tra-shan-tuyet",
+      "categoryName": "Trà Shan Tuyết",
+      "price": 160000,
+      "originalPrice": 230000,
+      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Shan Tuyết Cổ Thụ Thượng Hạng Số 6\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Shan Tuyết Cổ Thụ Thượng Hạng Số 6 | SIPVY Tea",
+      "seoDesc": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 160000
+        },
+        {
+          "weight": "200g",
+          "price": 304000
+        },
+        {
+          "weight": "500g",
+          "price": 720000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 7",
+      "slug": "tra-tra-shan-tuyet-7",
+      "categoryId": "tra-shan-tuyet",
+      "categoryName": "Trà Shan Tuyết",
+      "price": 200000,
+      "originalPrice": 270000,
+      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Shan Tuyết Cổ Thụ Thượng Hạng Số 7\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Shan Tuyết Cổ Thụ Thượng Hạng Số 7 | SIPVY Tea",
+      "seoDesc": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 200000
+        },
+        {
+          "weight": "200g",
+          "price": 380000
+        },
+        {
+          "weight": "500g",
+          "price": 900000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 8",
+      "slug": "tra-tra-shan-tuyet-8",
+      "categoryId": "tra-shan-tuyet",
+      "categoryName": "Trà Shan Tuyết",
+      "price": 370000,
+      "originalPrice": 390000,
+      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Shan Tuyết Cổ Thụ Thượng Hạng Số 8\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Shan Tuyết Cổ Thụ Thượng Hạng Số 8 | SIPVY Tea",
+      "seoDesc": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 370000
+        },
+        {
+          "weight": "200g",
+          "price": 703000
+        },
+        {
+          "weight": "500g",
+          "price": 1665000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 9",
+      "slug": "tra-tra-shan-tuyet-9",
+      "categoryId": "tra-shan-tuyet",
+      "categoryName": "Trà Shan Tuyết",
+      "price": 650000,
+      "originalPrice": 680000,
+      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Shan Tuyết Cổ Thụ Thượng Hạng Số 9\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Shan Tuyết Cổ Thụ Thượng Hạng Số 9 | SIPVY Tea",
+      "seoDesc": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 650000
+        },
+        {
+          "weight": "200g",
+          "price": 1235000
+        },
+        {
+          "weight": "500g",
+          "price": 2925000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 10",
+      "slug": "tra-tra-shan-tuyet-10",
+      "categoryId": "tra-shan-tuyet",
+      "categoryName": "Trà Shan Tuyết",
+      "price": 350000,
+      "originalPrice": 420000,
+      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Shan Tuyết Cổ Thụ Thượng Hạng Số 10\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Shan Tuyết Cổ Thụ Thượng Hạng Số 10 | SIPVY Tea",
+      "seoDesc": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 350000
+        },
+        {
+          "weight": "200g",
+          "price": 665000
+        },
+        {
+          "weight": "500g",
+          "price": 1575000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Xanh Tân Cương Thượng Hạng Số 11",
+      "slug": "tra-tra-xanh-11",
+      "categoryId": "tra-xanh",
+      "categoryName": "Trà Xanh",
+      "price": 180000,
+      "originalPrice": 250000,
+      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thượng Hạng Số 11\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Xanh Tân Cương Thượng Hạng Số 11 | SIPVY Tea",
+      "seoDesc": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9",
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 180000
+        },
+        {
+          "weight": "200g",
+          "price": 342000
+        },
+        {
+          "weight": "500g",
+          "price": 810000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Xanh Tân Cương Thượng Hạng Số 12",
+      "slug": "tra-tra-xanh-12",
+      "categoryId": "tra-xanh",
+      "categoryName": "Trà Xanh",
+      "price": 410000,
+      "originalPrice": 490000,
+      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thượng Hạng Số 12\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Xanh Tân Cương Thượng Hạng Số 12 | SIPVY Tea",
+      "seoDesc": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 410000
+        },
+        {
+          "weight": "200g",
+          "price": 779000
+        },
+        {
+          "weight": "500g",
+          "price": 1845000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Xanh Tân Cương Thượng Hạng Số 13",
+      "slug": "tra-tra-xanh-13",
+      "categoryId": "tra-xanh",
+      "categoryName": "Trà Xanh",
+      "price": 690000,
+      "originalPrice": 760000,
+      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thượng Hạng Số 13\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Xanh Tân Cương Thượng Hạng Số 13 | SIPVY Tea",
+      "seoDesc": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 690000
+        },
+        {
+          "weight": "200g",
+          "price": 1311000
+        },
+        {
+          "weight": "500g",
+          "price": 3105000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Xanh Tân Cương Thượng Hạng Số 14",
+      "slug": "tra-tra-xanh-14",
+      "categoryId": "tra-xanh",
+      "categoryName": "Trà Xanh",
+      "price": 660000,
+      "originalPrice": 750000,
+      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thượng Hạng Số 14\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Xanh Tân Cương Thượng Hạng Số 14 | SIPVY Tea",
+      "seoDesc": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97",
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 660000
+        },
+        {
+          "weight": "200g",
+          "price": 1254000
+        },
+        {
+          "weight": "500g",
+          "price": 2970000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Xanh Tân Cương Thượng Hạng Số 15",
+      "slug": "tra-tra-xanh-15",
+      "categoryId": "tra-xanh",
+      "categoryName": "Trà Xanh",
+      "price": 190000,
+      "originalPrice": 250000,
+      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thượng Hạng Số 15\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Xanh Tân Cương Thượng Hạng Số 15 | SIPVY Tea",
+      "seoDesc": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 190000
+        },
+        {
+          "weight": "200g",
+          "price": 361000
+        },
+        {
+          "weight": "500g",
+          "price": 855000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Xanh Tân Cương Thượng Hạng Số 16",
+      "slug": "tra-tra-xanh-16",
+      "categoryId": "tra-xanh",
+      "categoryName": "Trà Xanh",
+      "price": 580000,
+      "originalPrice": 640000,
+      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thượng Hạng Số 16\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Xanh Tân Cương Thượng Hạng Số 16 | SIPVY Tea",
+      "seoDesc": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 580000
+        },
+        {
+          "weight": "200g",
+          "price": 1102000
+        },
+        {
+          "weight": "500g",
+          "price": 2610000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Xanh Tân Cương Thượng Hạng Số 17",
+      "slug": "tra-tra-xanh-17",
+      "categoryId": "tra-xanh",
+      "categoryName": "Trà Xanh",
+      "price": 450000,
+      "originalPrice": 510000,
+      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thượng Hạng Số 17\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Xanh Tân Cương Thượng Hạng Số 17 | SIPVY Tea",
+      "seoDesc": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 450000
+        },
+        {
+          "weight": "200g",
+          "price": 855000
+        },
+        {
+          "weight": "500g",
+          "price": 2025000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Xanh Tân Cương Thượng Hạng Số 18",
+      "slug": "tra-tra-xanh-18",
+      "categoryId": "tra-xanh",
+      "categoryName": "Trà Xanh",
+      "price": 240000,
+      "originalPrice": 330000,
+      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thượng Hạng Số 18\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Xanh Tân Cương Thượng Hạng Số 18 | SIPVY Tea",
+      "seoDesc": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 240000
+        },
+        {
+          "weight": "200g",
+          "price": 456000
+        },
+        {
+          "weight": "500g",
+          "price": 1080000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Xanh Tân Cương Thượng Hạng Số 19",
+      "slug": "tra-tra-xanh-19",
+      "categoryId": "tra-xanh",
+      "categoryName": "Trà Xanh",
+      "price": 450000,
+      "originalPrice": 530000,
+      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thượng Hạng Số 19\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Xanh Tân Cương Thượng Hạng Số 19 | SIPVY Tea",
+      "seoDesc": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 450000
+        },
+        {
+          "weight": "200g",
+          "price": 855000
+        },
+        {
+          "weight": "500g",
+          "price": 2025000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Xanh Tân Cương Thượng Hạng Số 20",
+      "slug": "tra-tra-xanh-20",
+      "categoryId": "tra-xanh",
+      "categoryName": "Trà Xanh",
+      "price": 630000,
+      "originalPrice": 680000,
+      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thượng Hạng Số 20\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Xanh Tân Cương Thượng Hạng Số 20 | SIPVY Tea",
+      "seoDesc": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97",
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 630000
+        },
+        {
+          "weight": "200g",
+          "price": 1197000
+        },
+        {
+          "weight": "500g",
+          "price": 2835000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 21",
+      "slug": "tra-tra-o-long-21",
+      "categoryId": "tra-o-long",
+      "categoryName": "Trà Ô Long",
+      "price": 200000,
+      "originalPrice": 290000,
+      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long Cao Cấp Thượng Hạng Số 21\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Ô Long Cao Cấp Thượng Hạng Số 21 | SIPVY Tea",
+      "seoDesc": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 200000
+        },
+        {
+          "weight": "200g",
+          "price": 380000
+        },
+        {
+          "weight": "500g",
+          "price": 900000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 22",
+      "slug": "tra-tra-o-long-22",
+      "categoryId": "tra-o-long",
+      "categoryName": "Trà Ô Long",
+      "price": 580000,
+      "originalPrice": 650000,
+      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long Cao Cấp Thượng Hạng Số 22\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Ô Long Cao Cấp Thượng Hạng Số 22 | SIPVY Tea",
+      "seoDesc": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 580000
+        },
+        {
+          "weight": "200g",
+          "price": 1102000
+        },
+        {
+          "weight": "500g",
+          "price": 2610000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 23",
+      "slug": "tra-tra-o-long-23",
+      "categoryId": "tra-o-long",
+      "categoryName": "Trà Ô Long",
+      "price": 290000,
+      "originalPrice": 380000,
+      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long Cao Cấp Thượng Hạng Số 23\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Ô Long Cao Cấp Thượng Hạng Số 23 | SIPVY Tea",
+      "seoDesc": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 290000
+        },
+        {
+          "weight": "200g",
+          "price": 551000
+        },
+        {
+          "weight": "500g",
+          "price": 1305000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 24",
+      "slug": "tra-tra-o-long-24",
+      "categoryId": "tra-o-long",
+      "categoryName": "Trà Ô Long",
+      "price": 670000,
+      "originalPrice": 740000,
+      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long Cao Cấp Thượng Hạng Số 24\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Ô Long Cao Cấp Thượng Hạng Số 24 | SIPVY Tea",
+      "seoDesc": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 670000
+        },
+        {
+          "weight": "200g",
+          "price": 1273000
+        },
+        {
+          "weight": "500g",
+          "price": 3015000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 25",
+      "slug": "tra-tra-o-long-25",
+      "categoryId": "tra-o-long",
+      "categoryName": "Trà Ô Long",
+      "price": 550000,
+      "originalPrice": 620000,
+      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long Cao Cấp Thượng Hạng Số 25\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Ô Long Cao Cấp Thượng Hạng Số 25 | SIPVY Tea",
+      "seoDesc": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97",
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 550000
+        },
+        {
+          "weight": "200g",
+          "price": 1045000
+        },
+        {
+          "weight": "500g",
+          "price": 2475000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 26",
+      "slug": "tra-tra-o-long-26",
+      "categoryId": "tra-o-long",
+      "categoryName": "Trà Ô Long",
+      "price": 370000,
+      "originalPrice": 430000,
+      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long Cao Cấp Thượng Hạng Số 26\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Ô Long Cao Cấp Thượng Hạng Số 26 | SIPVY Tea",
+      "seoDesc": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 370000
+        },
+        {
+          "weight": "200g",
+          "price": 703000
+        },
+        {
+          "weight": "500g",
+          "price": 1665000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 27",
+      "slug": "tra-tra-o-long-27",
+      "categoryId": "tra-o-long",
+      "categoryName": "Trà Ô Long",
+      "price": 340000,
+      "originalPrice": 400000,
+      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long Cao Cấp Thượng Hạng Số 27\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Ô Long Cao Cấp Thượng Hạng Số 27 | SIPVY Tea",
+      "seoDesc": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 340000
+        },
+        {
+          "weight": "200g",
+          "price": 646000
+        },
+        {
+          "weight": "500g",
+          "price": 1530000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 28",
+      "slug": "tra-tra-o-long-28",
+      "categoryId": "tra-o-long",
+      "categoryName": "Trà Ô Long",
+      "price": 590000,
+      "originalPrice": 650000,
+      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long Cao Cấp Thượng Hạng Số 28\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Ô Long Cao Cấp Thượng Hạng Số 28 | SIPVY Tea",
+      "seoDesc": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 590000
+        },
+        {
+          "weight": "200g",
+          "price": 1121000
+        },
+        {
+          "weight": "500g",
+          "price": 2655000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 29",
+      "slug": "tra-tra-sen-29",
+      "categoryId": "tra-sen",
+      "categoryName": "Trà Sen",
+      "price": 610000,
+      "originalPrice": 700000,
+      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen Tây Hồ / Huế Thượng Hạng Số 29\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 29 | SIPVY Tea",
+      "seoDesc": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 610000
+        },
+        {
+          "weight": "200g",
+          "price": 1159000
+        },
+        {
+          "weight": "500g",
+          "price": 2745000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 30",
+      "slug": "tra-tra-sen-30",
+      "categoryId": "tra-sen",
+      "categoryName": "Trà Sen",
+      "price": 750000,
+      "originalPrice": 780000,
+      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen Tây Hồ / Huế Thượng Hạng Số 30\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 30 | SIPVY Tea",
+      "seoDesc": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 750000
+        },
+        {
+          "weight": "200g",
+          "price": 1425000
+        },
+        {
+          "weight": "500g",
+          "price": 3375000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 31",
+      "slug": "tra-tra-sen-31",
+      "categoryId": "tra-sen",
+      "categoryName": "Trà Sen",
+      "price": 780000,
+      "originalPrice": 850000,
+      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen Tây Hồ / Huế Thượng Hạng Số 31\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 31 | SIPVY Tea",
+      "seoDesc": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 780000
+        },
+        {
+          "weight": "200g",
+          "price": 1482000
+        },
+        {
+          "weight": "500g",
+          "price": 3510000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 32",
+      "slug": "tra-tra-sen-32",
+      "categoryId": "tra-sen",
+      "categoryName": "Trà Sen",
+      "price": 790000,
+      "originalPrice": 820000,
+      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen Tây Hồ / Huế Thượng Hạng Số 32\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 32 | SIPVY Tea",
+      "seoDesc": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 790000
+        },
+        {
+          "weight": "200g",
+          "price": 1501000
+        },
+        {
+          "weight": "500g",
+          "price": 3555000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 33",
+      "slug": "tra-tra-sen-33",
+      "categoryId": "tra-sen",
+      "categoryName": "Trà Sen",
+      "price": 230000,
+      "originalPrice": 300000,
+      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen Tây Hồ / Huế Thượng Hạng Số 33\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 33 | SIPVY Tea",
+      "seoDesc": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d",
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 230000
+        },
+        {
+          "weight": "200g",
+          "price": 437000
+        },
+        {
+          "weight": "500g",
+          "price": 1035000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 34",
+      "slug": "tra-tra-sen-34",
+      "categoryId": "tra-sen",
+      "categoryName": "Trà Sen",
+      "price": 470000,
+      "originalPrice": 550000,
+      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen Tây Hồ / Huế Thượng Hạng Số 34\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 34 | SIPVY Tea",
+      "seoDesc": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 470000
+        },
+        {
+          "weight": "200g",
+          "price": 893000
+        },
+        {
+          "weight": "500g",
+          "price": 2115000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 35",
+      "slug": "tra-tra-thao-moc-35",
+      "categoryId": "tra-thao-moc",
+      "categoryName": "Trà Thảo Mộc",
+      "price": 490000,
+      "originalPrice": 510000,
+      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 35\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 35 | SIPVY Tea",
+      "seoDesc": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9",
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 490000
+        },
+        {
+          "weight": "200g",
+          "price": 931000
+        },
+        {
+          "weight": "500g",
+          "price": 2205000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 36",
+      "slug": "tra-tra-thao-moc-36",
+      "categoryId": "tra-thao-moc",
+      "categoryName": "Trà Thảo Mộc",
+      "price": 520000,
+      "originalPrice": 560000,
+      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 36\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 36 | SIPVY Tea",
+      "seoDesc": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 520000
+        },
+        {
+          "weight": "200g",
+          "price": 988000
+        },
+        {
+          "weight": "500g",
+          "price": 2340000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 37",
+      "slug": "tra-tra-thao-moc-37",
+      "categoryId": "tra-thao-moc",
+      "categoryName": "Trà Thảo Mộc",
+      "price": 250000,
+      "originalPrice": 330000,
+      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 37\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 37 | SIPVY Tea",
+      "seoDesc": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1594631252845-29fc4cc8cfa9",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1576091160550-2173dba9994d"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 250000
+        },
+        {
+          "weight": "200g",
+          "price": 475000
+        },
+        {
+          "weight": "500g",
+          "price": 1125000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 38",
+      "slug": "tra-tra-thao-moc-38",
+      "categoryId": "tra-thao-moc",
+      "categoryName": "Trà Thảo Mộc",
+      "price": 520000,
+      "originalPrice": 600000,
+      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 38\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 38 | SIPVY Tea",
+      "seoDesc": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1544787219-1b7c2c4e5f5f"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 520000
+        },
+        {
+          "weight": "200g",
+          "price": 988000
+        },
+        {
+          "weight": "500g",
+          "price": 2340000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 39",
+      "slug": "tra-tra-thao-moc-39",
+      "categoryId": "tra-thao-moc",
+      "categoryName": "Trà Thảo Mộc",
+      "price": 500000,
+      "originalPrice": 550000,
+      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 39\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 39 | SIPVY Tea",
+      "seoDesc": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e",
+        "https://images.unsplash.com/photo-1582793988951-9aed5509eb97"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 500000
+        },
+        {
+          "weight": "200g",
+          "price": 950000
+        },
+        {
+          "weight": "500g",
+          "price": 2250000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 40",
+      "slug": "tra-tra-thao-moc-40",
+      "categoryId": "tra-thao-moc",
+      "categoryName": "Trà Thảo Mộc",
+      "price": 340000,
+      "originalPrice": 390000,
+      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 40\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 40 | SIPVY Tea",
+      "seoDesc": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
+        "https://images.unsplash.com/photo-1627492275510-911e86a0b2dc",
+        "https://images.unsplash.com/photo-1615485737567-2c6c5c6e5e5e"
+      ],
+      "weights": [
+        {
+          "weight": "100g",
+          "price": 340000
+        },
+        {
+          "weight": "200g",
+          "price": 646000
+        },
+        {
+          "weight": "500g",
+          "price": 1530000
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam"
+        },
+        {
+          "label": "Hương vị",
+          "value": "Thanh mát, hậu ngọt sâu"
+        },
+        {
+          "label": "Thành phần",
+          "value": "100% trà tự nhiên"
+        },
+        {
+          "label": "Bảo quản",
+          "value": "Nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+        }
+      ],
+      "brewingInstructions": [
+        {
+          "step": 1,
+          "instruction": "Tráng ấm chén bằng nước sôi để làm nóng.",
+          "temperature": "100°C",
+          "time": "30s"
+        },
+        {
+          "step": 2,
+          "instruction": "Cho lượng trà vừa đủ vào ấm (khoảng 5-8g).",
+          "temperature": null,
+          "time": null
+        },
+        {
+          "step": 3,
+          "instruction": "Đánh thức trà: Rót một ít nước nóng vào ấm, lắc nhẹ rồi đổ nước đi.",
+          "temperature": "80-85°C",
+          "time": "10s"
+        },
+        {
+          "step": 4,
+          "instruction": "Hãm trà: Rót nước nóng vào ấm, đậy nắp và đợi.",
+          "temperature": "80-85°C",
+          "time": "1-2 phút"
+        },
+        {
+          "step": 5,
+          "instruction": "Rót trà ra chén tống rồi chia ra các chén quân và thưởng thức.",
+          "temperature": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 1",
+      "slug": "phu-kien-1",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 560000,
+      "originalPrice": 660000,
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 1\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 1 | Phụ Kiện SIPVY",
+      "seoDesc": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1",
+        "https://images.unsplash.com/photo-1555093769-63ff0d5c0e18"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 2",
+      "slug": "phu-kien-2",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 440000,
+      "originalPrice": 610000,
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 2\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 2 | Phụ Kiện SIPVY",
+      "seoDesc": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1",
+        "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 3",
+      "slug": "phu-kien-3",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 1150000,
+      "originalPrice": 1270000,
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 3\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 3 | Phụ Kiện SIPVY",
+      "seoDesc": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1555093769-63ff0d5c0e18",
+        "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 4",
+      "slug": "phu-kien-4",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 2360000,
+      "originalPrice": 2480000,
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 4\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 4 | Phụ Kiện SIPVY",
+      "seoDesc": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1555093769-63ff0d5c0e18",
+        "https://images.unsplash.com/photo-1583417319070-4a13d5e4c5e5"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 5",
+      "slug": "phu-kien-5",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 340000,
+      "originalPrice": 460000,
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 5\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 5 | Phụ Kiện SIPVY",
+      "seoDesc": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1",
+        "https://images.unsplash.com/photo-1583417319070-4a13d5e4c5e5"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 6",
+      "slug": "phu-kien-6",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 1400000,
+      "originalPrice": 1580000,
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 6\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 6 | Phụ Kiện SIPVY",
+      "seoDesc": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1583417319070-4a13d5e4c5e5",
+        "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 7",
+      "slug": "phu-kien-7",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 1840000,
+      "originalPrice": 1980000,
+      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 7\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 7 | Phụ Kiện SIPVY",
+      "seoDesc": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1",
+        "https://images.unsplash.com/photo-1583417319070-4a13d5e4c5e5"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 8",
+      "slug": "phu-kien-8",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 960000,
+      "originalPrice": 1040000,
+      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 8\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 8 | Phụ Kiện SIPVY",
+      "seoDesc": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1",
+        "https://images.unsplash.com/photo-1555093769-63ff0d5c0e18"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 9",
+      "slug": "phu-kien-9",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 1550000,
+      "originalPrice": 1690000,
+      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 9\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 9 | Phụ Kiện SIPVY",
+      "seoDesc": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1555093769-63ff0d5c0e18",
+        "https://images.unsplash.com/photo-1583417319070-4a13d5e4c5e5"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 10",
+      "slug": "phu-kien-10",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 1300000,
+      "originalPrice": 1370000,
+      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 10\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 10 | Phụ Kiện SIPVY",
+      "seoDesc": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1583417319070-4a13d5e4c5e5",
+        "https://images.unsplash.com/photo-1555093769-63ff0d5c0e18"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 11",
+      "slug": "phu-kien-11",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 1930000,
+      "originalPrice": 2020000,
+      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 11\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 11 | Phụ Kiện SIPVY",
+      "seoDesc": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1583417319070-4a13d5e4c5e5",
+        "https://images.unsplash.com/photo-1583417319070-4a13d5e4c5e5"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    },
+    {
+      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 12",
+      "slug": "phu-kien-12",
+      "categoryId": "phu-kien-tra",
+      "categoryName": "Phụ Kiện Trà Đạo",
+      "price": 850000,
+      "originalPrice": 940000,
+      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":2},\"content\":[{\"type\":\"text\",\"text\":\"Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 12\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Sản phẩm được lựa chọn kỹ lưỡng từ những vùng nguyên liệu tốt nhất Việt Nam. Trải qua quá trình chế biến thủ công truyền thống, giữ lại trọn vẹn hương vị tự nhiên và dưỡng chất quý giá. Thưởng thức một chén trà không chỉ là một thức uống mà còn là một nghệ thuật thư giãn tâm hồn.\"}]}]}",
+      "seoTitle": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 12 | Phụ Kiện SIPVY",
+      "seoDesc": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Mua ngay tại SIPVY.",
+      "images": [
+        "https://images.unsplash.com/photo-1563822249548-9a72b6353cd1",
+        "https://images.unsplash.com/photo-1555093769-63ff0d5c0e18"
+      ],
+      "weights": [],
+      "specifications": [
+        {
+          "label": "Chất liệu",
+          "value": "Gốm sứ cao cấp/Tử sa"
+        },
+        {
+          "label": "Xuất xứ",
+          "value": "Việt Nam/Nghi Hưng"
+        },
+        {
+          "label": "Chế tác",
+          "value": "Thủ công mỹ nghệ"
+        }
+      ],
+      "brewingInstructions": []
+    }
+  ]
+}

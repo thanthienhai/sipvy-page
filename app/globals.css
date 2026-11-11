@@ -1,0 +1,335 @@
+@import "tailwindcss";
+@config "../tailwind.config.ts";
+
+/* Custom animations for authentication forms */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+.animate-scale-in {
+  animation: scaleIn 0.4s ease-out;
+}
+
+/* Enhanced focus styles for better accessibility */
+.focus-enhanced:focus-visible {
+  outline: 2px solid #10b981;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(16, 185, 129, 0.1);
+}
+
+/* Header specific animations */
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes bounceIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 0.3s ease-out;
+}
+
+.animate-bounce-in {
+  animation: bounceIn 0.6s ease-out;
+}
+
+@layer base {
+  :root {
+    font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+    --background: 0 0% 100%;
+    --foreground: 20 14.3% 4.1%;
+    --card: 0 0% 100%;
+    --card-foreground: 20 14.3% 4.1%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 20 14.3% 4.1%;
+    --primary: 35 95% 55%;
+    --primary-foreground: 60 9.1% 97.8%;
+    --secondary: 152 45% 50%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 60 4.8% 95.9%;
+    --muted-foreground: 25 5.3% 44.7%;
+    --accent: 35 100% 95%;
+    --accent-foreground: 24 9.8% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 60 9.1% 97.8%;
+    --border: 20 5.9% 90%;
+    --input: 20 5.9% 90%;
+    --ring: 35 95% 55%;
+    --radius: 0.5rem;
+    --storefront-content-max: 80rem;
+    --storefront-gutter: 1rem;
+    --storefront-section-space: 3rem;
+    --storefront-compact-header-height: 3.5rem;
+    --storefront-header-height: var(--storefront-compact-header-height);
+    --storefront-section-y: var(--storefront-section-space);
+    --header-offset: calc(var(--storefront-compact-header-height) + 1rem);
+    --storefront-floating-action-gap: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    :root {
+      --storefront-gutter: 1.5rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    :root {
+      --storefront-gutter: 2rem;
+      --storefront-section-space: 4rem;
+    }
+  }
+
+  @media (min-width: 1280px) {
+    :root {
+      --storefront-section-space: 5rem;
+    }
+  }
+
+  .dark {
+    --background: 20 14.3% 4.1%;
+    --foreground: 60 9.1% 97.8%;
+    --card: 20 14.3% 4.1%;
+    --card-foreground: 60 9.1% 97.8%;
+    --popover: 20 14.3% 4.1%;
+    --popover-foreground: 60 9.1% 97.8%;
+    --primary: 35 95% 55%;
+    --primary-foreground: 60 9.1% 97.8%;
+    --secondary: 152 45% 50%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 12 6.5% 15.1%;
+    --muted-foreground: 24 5.4% 63.9%;
+    --accent: 35 100% 95%;
+    --accent-foreground: 24 9.8% 10%;
+    --destructive: 0 72.2% 50.6%;
+    --destructive-foreground: 60 9.1% 97.8%;
+    --border: 12 6.5% 15.1%;
+    --input: 12 6.5% 15.1%;
+    --ring: 35 95% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: calc(var(--storefront-compact-header-height) + 1rem);
+  }
+
+  :where(a, button, input, select, textarea, summary, [role="button"], [role="tab"], [tabindex="0"]):focus-visible {
+    outline: 3px solid #166534;
+    outline-offset: 3px;
+    box-shadow: 0 0 0 1px #ffffff;
+  }
+
+  /* Dark surfaces (e.g. footer): the dark-green ring is invisible there. */
+  .on-dark :where(a, button, input, select, textarea, summary, [role="button"], [role="tab"], [tabindex="0"]):focus-visible {
+    outline-color: #ffffff;
+    box-shadow: 0 0 0 1px #14532d;
+  }
+
+  /*
+   * 44px touch targets are a storefront rule only. Scoped via body:has() so that
+   * portaled storefront overlays (sheets, dialogs) are covered too, while the
+   * admin UI (no .storefront-shell) keeps its compact controls. Controls whose
+   * size is intentional (checkbox / switch / radio) are excluded.
+   */
+  body:has(.storefront-shell)
+    :where(button, [role="button"]):not(
+      [role="checkbox"],
+      [role="switch"],
+      [role="radio"],
+      [data-slot],
+      [data-touch-exempt]
+    ) {
+    min-height: 2.75rem;
+    min-width: 2.75rem;
+  }
+
+  body:has(.storefront-shell)
+    :where(input, select, textarea):not(
+      [type="checkbox"],
+      [type="radio"],
+      [type="range"],
+      [type="hidden"],
+      [data-touch-exempt]
+    ) {
+    min-height: 2.75rem;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  /* Skip link: fixed + translated off-screen until focused, so it never shifts layout. */
+  .skip-link {
+    position: fixed;
+    left: 1rem;
+    top: 1rem;
+    z-index: 100;
+    transform: translateY(-250%);
+  }
+
+  .skip-link:focus,
+  .skip-link:focus-visible {
+    transform: none;
+  }
+
+  .storefront-shell {
+    font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  }
+
+  .storefront-readable {
+    max-width: 70ch;
+    line-height: 1.75;
+  }
+
+  .storefront-section {
+    padding-block: var(--storefront-section-space);
+  }
+
+  .floating-action {
+    bottom: calc(var(--storefront-floating-action-gap) + env(safe-area-inset-bottom));
+    right: max(var(--storefront-gutter), env(safe-area-inset-right));
+    z-index: 50;
+  }
+
+  /* Persistent mobile purchase/checkout bars occupy the bottom safe area. */
+  @media (max-width: 767px) {
+    .storefront-shell:has(.storefront-bottom-bar) .floating-action {
+      bottom: calc(5.5rem + env(safe-area-inset-bottom));
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .storefront-shell:has(.storefront-bottom-bar--cart) .floating-action {
+      bottom: calc(5.5rem + env(safe-area-inset-bottom));
+    }
+  }
+
+  .article-content :is(h2, h3, h4) {
+    scroll-margin-top: var(--header-offset);
+  }
+}
+
+/* Custom color variables */
+:root {
+  --tea-green: #4ade80;
+  --tea-green-light: #86efac;
+  --tea-green-dark: #22c55e;
+  --tea-amber: #f59e0b;
+  --tea-amber-light: #fbbf24;
+  --tea-amber-bright: #f97316;
+  --tea-amber-dark: #d97706;
+  --tea-teal: #14b8a6;
+  --tea-teal-light: #5eead4;
+}
+
+/* Responsive utilities */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Improved touch targets for mobile */
+  .touch-target {
+    @apply min-h-11 min-w-11 p-2;
+  }
+
+  /* Hide scrollbar but allow scrolling */
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Button pulse animation */
+  .btn-pulse {
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0% {
+      box-shadow: 0 0 0 0 rgba(249, 115, 22, 0.4);
+    }
+    70% {
+      box-shadow: 0 0 0 10px rgba(249, 115, 22, 0);
+    }
+    100% {
+      box-shadow: 0 0 0 0 rgba(249, 115, 22, 0);
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html,
+  .scroll-smooth {
+    scroll-behavior: auto !important;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  button:active,
+  [role="button"]:active {
+    transform: none !important;
+  }
+}
+
