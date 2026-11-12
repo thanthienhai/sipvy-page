@@ -1,4 +1,3 @@
-import { LogoMark } from "@/components/brand/logo-mark"
 import Image from "next/image"
 import Link from "next/link"
 import {
@@ -52,8 +51,14 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-4">
             <Link href="/" className="inline-flex items-center gap-2.5 mb-4">
-              <LogoMark className="h-10 w-10 ring-2 ring-white/30 rounded-[34%]" />
-              <span className="text-3xl font-extrabold lowercase tracking-tight text-white">sipvy</span>
+              <Image
+                src="/logo.png"
+                alt=""
+                width={40}
+                height={40}
+                className="h-10 w-10 rounded-full bg-white p-1.5"
+              />
+              <span className="text-2xl font-bold tracking-tight text-white">SIPVY</span>
             </Link>
 
             <p className="text-sm text-green-100/90 leading-relaxed mb-5 max-w-sm">

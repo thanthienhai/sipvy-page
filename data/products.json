@@ -45,7 +45,7 @@
       "images": [
         {
           "id": "tra-tra-shan-tuyet-1:img0",
-          "url": "/art/cat-shan-tuyet-v2.svg",
+          "url": "/san-pham-noi-bat/co-thu.jpg",
           "alt": "Shan Tuyết Cổ Thụ — Loại 1",
           "isPrimary": true
         }
@@ -197,7 +197,7 @@
       "images": [
         {
           "id": "tra-tra-shan-tuyet-2:img0",
-          "url": "/art/cat-shan-tuyet-v3.svg",
+          "url": "/san-pham-noi-bat/co-thu.jpg",
           "alt": "Shan Tuyết Cổ Thụ — Loại 2",
           "isPrimary": true
         }
@@ -349,7 +349,7 @@
       "images": [
         {
           "id": "tra-tra-shan-tuyet-3:img0",
-          "url": "/art/cat-shan-tuyet-v4.svg",
+          "url": "/san-pham-noi-bat/co-thu.jpg",
           "alt": "Shan Tuyết Cổ Thụ — Loại 3",
           "isPrimary": true
         }
@@ -501,7 +501,7 @@
       "images": [
         {
           "id": "tra-tra-shan-tuyet-4:img0",
-          "url": "/art/cat-shan-tuyet-v1.svg",
+          "url": "/san-pham-noi-bat/co-thu.jpg",
           "alt": "Shan Tuyết Cổ Thụ — Loại 4",
           "isPrimary": true
         }
@@ -653,7 +653,7 @@
       "images": [
         {
           "id": "tra-tra-shan-tuyet-5:img0",
-          "url": "/art/cat-shan-tuyet-v2.svg",
+          "url": "/san-pham-noi-bat/co-thu.jpg",
           "alt": "Shan Tuyết Cổ Thụ — Loại 5",
           "isPrimary": true
         }
@@ -805,7 +805,7 @@
       "images": [
         {
           "id": "tra-tra-shan-tuyet-6:img0",
-          "url": "/art/cat-shan-tuyet-v3.svg",
+          "url": "/san-pham-noi-bat/co-thu.jpg",
           "alt": "Shan Tuyết Cổ Thụ — Loại 6",
           "isPrimary": true
         }
@@ -957,7 +957,7 @@
       "images": [
         {
           "id": "tra-tra-shan-tuyet-7:img0",
-          "url": "/art/cat-shan-tuyet-v4.svg",
+          "url": "/san-pham-noi-bat/co-thu.jpg",
           "alt": "Shan Tuyết Cổ Thụ — Loại 7",
           "isPrimary": true
         }
@@ -1109,7 +1109,7 @@
       "images": [
         {
           "id": "tra-tra-shan-tuyet-8:img0",
-          "url": "/art/cat-shan-tuyet-v1.svg",
+          "url": "/san-pham-noi-bat/co-thu.jpg",
           "alt": "Shan Tuyết Cổ Thụ — Loại 8",
           "isPrimary": true
         }
@@ -1261,7 +1261,7 @@
       "images": [
         {
           "id": "tra-tra-shan-tuyet-9:img0",
-          "url": "/art/cat-shan-tuyet-v2.svg",
+          "url": "/san-pham-noi-bat/co-thu.jpg",
           "alt": "Shan Tuyết Cổ Thụ — Loại 9",
           "isPrimary": true
         }
@@ -1413,7 +1413,7 @@
       "images": [
         {
           "id": "tra-tra-shan-tuyet-10:img0",
-          "url": "/art/cat-shan-tuyet-v3.svg",
+          "url": "/san-pham-noi-bat/co-thu.jpg",
           "alt": "Shan Tuyết Cổ Thụ — Loại 10",
           "isPrimary": true
         }
@@ -1565,7 +1565,7 @@
       "images": [
         {
           "id": "tra-tra-xanh-11:img0",
-          "url": "/art/cat-xanh-v4.svg",
+          "url": "/san-pham-noi-bat/tra-lai.jpg",
           "alt": "Trà Xanh Tân Cương — Loại 11",
           "isPrimary": true
         }
@@ -1717,7 +1717,7 @@
       "images": [
         {
           "id": "tra-tra-xanh-12:img0",
-          "url": "/art/cat-xanh-v1.svg",
+          "url": "/san-pham-noi-bat/tra-lai.jpg",
           "alt": "Trà Xanh Tân Cương — Loại 12",
           "isPrimary": true
         }
@@ -1869,7 +1869,7 @@
       "images": [
         {
           "id": "tra-tra-xanh-13:img0",
-          "url": "/art/cat-xanh-v2.svg",
+          "url": "/san-pham-noi-bat/tra-lai.jpg",
           "alt": "Trà Xanh Tân Cương — Loại 13",
           "isPrimary": true
         }
@@ -2021,7 +2021,7 @@
       "images": [
         {
           "id": "tra-tra-xanh-14:img0",
-          "url": "/art/cat-xanh-v3.svg",
+          "url": "/san-pham-noi-bat/tra-lai.jpg",
           "alt": "Trà Xanh Tân Cương — Loại 14",
           "isPrimary": true
         }
@@ -2173,7 +2173,7 @@
       "images": [
         {
           "id": "tra-tra-xanh-15:img0",
-          "url": "/art/cat-xanh-v4.svg",
+          "url": "/san-pham-noi-bat/tra-lai.jpg",
           "alt": "Trà Xanh Tân Cương — Loại 15",
           "isPrimary": true
         }
@@ -2325,7 +2325,7 @@
       "images": [
         {
           "id": "tra-tra-xanh-16:img0",
-          "url": "/art/cat-xanh-v1.svg",
+          "url": "/san-pham-noi-bat/tra-lai.jpg",
           "alt": "Trà Xanh Tân Cương — Loại 16",
           "isPrimary": true
         }
@@ -2477,7 +2477,7 @@
       "images": [
         {
           "id": "tra-tra-xanh-17:img0",
-          "url": "/art/cat-xanh-v2.svg",
+          "url": "/san-pham-noi-bat/tra-lai.jpg",
           "alt": "Trà Xanh Tân Cương — Loại 17",
           "isPrimary": true
         }
@@ -2629,7 +2629,7 @@
       "images": [
         {
           "id": "tra-tra-xanh-18:img0",
-          "url": "/art/cat-xanh-v3.svg",
+          "url": "/san-pham-noi-bat/tra-lai.jpg",
           "alt": "Trà Xanh Tân Cương — Loại 18",
           "isPrimary": true
         }
@@ -2781,7 +2781,7 @@
       "images": [
         {
           "id": "tra-tra-xanh-19:img0",
-          "url": "/art/cat-xanh-v4.svg",
+          "url": "/san-pham-noi-bat/tra-lai.jpg",
           "alt": "Trà Xanh Tân Cương — Loại 19",
           "isPrimary": true
         }
@@ -2933,7 +2933,7 @@
       "images": [
         {
           "id": "tra-tra-xanh-20:img0",
-          "url": "/art/cat-xanh-v1.svg",
+          "url": "/san-pham-noi-bat/tra-lai.jpg",
           "alt": "Trà Xanh Tân Cương — Loại 20",
           "isPrimary": true
         }
@@ -3085,7 +3085,7 @@
       "images": [
         {
           "id": "tra-tra-o-long-21:img0",
-          "url": "/art/cat-o-long-v2.svg",
+          "url": "/san-pham-noi-bat/o-long.jpg",
           "alt": "Trà Ô Long — Loại 21",
           "isPrimary": true
         }
@@ -3237,7 +3237,7 @@
       "images": [
         {
           "id": "tra-tra-o-long-22:img0",
-          "url": "/art/cat-o-long-v3.svg",
+          "url": "/san-pham-noi-bat/o-long.jpg",
           "alt": "Trà Ô Long — Loại 22",
           "isPrimary": true
         }
@@ -3389,7 +3389,7 @@
       "images": [
         {
           "id": "tra-tra-o-long-23:img0",
-          "url": "/art/cat-o-long-v4.svg",
+          "url": "/san-pham-noi-bat/o-long.jpg",
           "alt": "Trà Ô Long — Loại 23",
           "isPrimary": true
         }
@@ -3541,7 +3541,7 @@
       "images": [
         {
           "id": "tra-tra-o-long-24:img0",
-          "url": "/art/cat-o-long-v1.svg",
+          "url": "/san-pham-noi-bat/o-long.jpg",
           "alt": "Trà Ô Long — Loại 24",
           "isPrimary": true
         }
@@ -3693,7 +3693,7 @@
       "images": [
         {
           "id": "tra-tra-o-long-25:img0",
-          "url": "/art/cat-o-long-v2.svg",
+          "url": "/san-pham-noi-bat/o-long.jpg",
           "alt": "Trà Ô Long — Loại 25",
           "isPrimary": true
         }
@@ -3845,7 +3845,7 @@
       "images": [
         {
           "id": "tra-tra-o-long-26:img0",
-          "url": "/art/cat-o-long-v3.svg",
+          "url": "/san-pham-noi-bat/o-long.jpg",
           "alt": "Trà Ô Long — Loại 26",
           "isPrimary": true
         }
@@ -3997,7 +3997,7 @@
       "images": [
         {
           "id": "tra-tra-o-long-27:img0",
-          "url": "/art/cat-o-long-v4.svg",
+          "url": "/san-pham-noi-bat/o-long.jpg",
           "alt": "Trà Ô Long — Loại 27",
           "isPrimary": true
         }
@@ -4149,7 +4149,7 @@
       "images": [
         {
           "id": "tra-tra-o-long-28:img0",
-          "url": "/art/cat-o-long-v1.svg",
+          "url": "/san-pham-noi-bat/o-long.jpg",
           "alt": "Trà Ô Long — Loại 28",
           "isPrimary": true
         }
@@ -4301,7 +4301,7 @@
       "images": [
         {
           "id": "tra-tra-sen-29:img0",
-          "url": "/art/cat-sen-v2.svg",
+          "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
           "alt": "Trà Sen Tây Hồ / Huế — Loại 29",
           "isPrimary": true
         }
@@ -4453,7 +4453,7 @@
       "images": [
         {
           "id": "tra-tra-sen-30:img0",
-          "url": "/art/cat-sen-v3.svg",
+          "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
           "alt": "Trà Sen Tây Hồ / Huế — Loại 30",
           "isPrimary": true
         }
@@ -4605,7 +4605,7 @@
       "images": [
         {
           "id": "tra-tra-sen-31:img0",
-          "url": "/art/cat-sen-v4.svg",
+          "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
           "alt": "Trà Sen Tây Hồ / Huế — Loại 31",
           "isPrimary": true
         }
@@ -4757,7 +4757,7 @@
       "images": [
         {
           "id": "tra-tra-sen-32:img0",
-          "url": "/art/cat-sen-v1.svg",
+          "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
           "alt": "Trà Sen Tây Hồ / Huế — Loại 32",
           "isPrimary": true
         }
@@ -4909,7 +4909,7 @@
       "images": [
         {
           "id": "tra-tra-sen-33:img0",
-          "url": "/art/cat-sen-v2.svg",
+          "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
           "alt": "Trà Sen Tây Hồ / Huế — Loại 33",
           "isPrimary": true
         }
@@ -5061,7 +5061,7 @@
       "images": [
         {
           "id": "tra-tra-sen-34:img0",
-          "url": "/art/cat-sen-v3.svg",
+          "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
           "alt": "Trà Sen Tây Hồ / Huế — Loại 34",
           "isPrimary": true
         }
@@ -5213,7 +5213,7 @@
       "images": [
         {
           "id": "tra-tra-thao-moc-35:img0",
-          "url": "/art/cat-thao-moc-v4.svg",
+          "url": "/banner/hieu-ve-tra.jpg",
           "alt": "Trà Thảo Mộc Tự Nhiên — Loại 35",
           "isPrimary": true
         }
@@ -5365,7 +5365,7 @@
       "images": [
         {
           "id": "tra-tra-thao-moc-36:img0",
-          "url": "/art/cat-thao-moc-v1.svg",
+          "url": "/banner/hieu-ve-tra.jpg",
           "alt": "Trà Thảo Mộc Tự Nhiên — Loại 36",
           "isPrimary": true
         }
@@ -5517,7 +5517,7 @@
       "images": [
         {
           "id": "tra-tra-thao-moc-37:img0",
-          "url": "/art/cat-thao-moc-v2.svg",
+          "url": "/banner/hieu-ve-tra.jpg",
           "alt": "Trà Thảo Mộc Tự Nhiên — Loại 37",
           "isPrimary": true
         }
@@ -5669,7 +5669,7 @@
       "images": [
         {
           "id": "tra-tra-thao-moc-38:img0",
-          "url": "/art/cat-thao-moc-v3.svg",
+          "url": "/banner/hieu-ve-tra.jpg",
           "alt": "Trà Thảo Mộc Tự Nhiên — Loại 38",
           "isPrimary": true
         }
@@ -5821,7 +5821,7 @@
       "images": [
         {
           "id": "tra-tra-thao-moc-39:img0",
-          "url": "/art/cat-thao-moc-v4.svg",
+          "url": "/banner/hieu-ve-tra.jpg",
           "alt": "Trà Thảo Mộc Tự Nhiên — Loại 39",
           "isPrimary": true
         }
@@ -5973,7 +5973,7 @@
       "images": [
         {
           "id": "tra-tra-thao-moc-40:img0",
-          "url": "/art/cat-thao-moc-v1.svg",
+          "url": "/banner/hieu-ve-tra.jpg",
           "alt": "Trà Thảo Mộc Tự Nhiên — Loại 40",
           "isPrimary": true
         }
@@ -6124,7 +6124,7 @@
       "images": [
         {
           "id": "phu-kien-1:img0",
-          "url": "/art/cat-phu-kien-v2.svg",
+          "url": "/placeholder.jpg",
           "alt": "Ấm Tử Sa Nghi Hưng Mẫu 1",
           "isPrimary": true
         }
@@ -6196,7 +6196,7 @@
       "images": [
         {
           "id": "phu-kien-2:img0",
-          "url": "/art/cat-phu-kien-v3.svg",
+          "url": "/placeholder.jpg",
           "alt": "Ấm Tử Sa Nghi Hưng Mẫu 2",
           "isPrimary": true
         }
@@ -6268,7 +6268,7 @@
       "images": [
         {
           "id": "phu-kien-3:img0",
-          "url": "/art/cat-phu-kien-v4.svg",
+          "url": "/placeholder.jpg",
           "alt": "Ấm Tử Sa Nghi Hưng Mẫu 3",
           "isPrimary": true
         }
@@ -6340,7 +6340,7 @@
       "images": [
         {
           "id": "phu-kien-4:img0",
-          "url": "/art/cat-phu-kien-v1.svg",
+          "url": "/placeholder.jpg",
           "alt": "Ấm Tử Sa Nghi Hưng Mẫu 4",
           "isPrimary": true
         }
@@ -6412,7 +6412,7 @@
       "images": [
         {
           "id": "phu-kien-5:img0",
-          "url": "/art/cat-phu-kien-v2.svg",
+          "url": "/placeholder.jpg",
           "alt": "Ấm Tử Sa Nghi Hưng Mẫu 5",
           "isPrimary": true
         }
@@ -6484,7 +6484,7 @@
       "images": [
         {
           "id": "phu-kien-6:img0",
-          "url": "/art/cat-phu-kien-v3.svg",
+          "url": "/placeholder.jpg",
           "alt": "Ấm Tử Sa Nghi Hưng Mẫu 6",
           "isPrimary": true
         }
@@ -6556,7 +6556,7 @@
       "images": [
         {
           "id": "phu-kien-7:img0",
-          "url": "/art/cat-phu-kien-v4.svg",
+          "url": "/placeholder.jpg",
           "alt": "Bộ Chén Tống Trà Đạo Mẫu 7",
           "isPrimary": true
         }
@@ -6628,7 +6628,7 @@
       "images": [
         {
           "id": "phu-kien-8:img0",
-          "url": "/art/cat-phu-kien-v1.svg",
+          "url": "/placeholder.jpg",
           "alt": "Bộ Chén Tống Trà Đạo Mẫu 8",
           "isPrimary": true
         }
@@ -6700,7 +6700,7 @@
       "images": [
         {
           "id": "phu-kien-9:img0",
-          "url": "/art/cat-phu-kien-v2.svg",
+          "url": "/placeholder.jpg",
           "alt": "Bộ Chén Tống Trà Đạo Mẫu 9",
           "isPrimary": true
         }
@@ -6772,7 +6772,7 @@
       "images": [
         {
           "id": "phu-kien-10:img0",
-          "url": "/art/cat-phu-kien-v3.svg",
+          "url": "/placeholder.jpg",
           "alt": "Bộ Chén Tống Trà Đạo Mẫu 10",
           "isPrimary": true
         }
@@ -6844,7 +6844,7 @@
       "images": [
         {
           "id": "phu-kien-11:img0",
-          "url": "/art/cat-phu-kien-v4.svg",
+          "url": "/placeholder.jpg",
           "alt": "Bộ Chén Tống Trà Đạo Mẫu 11",
           "isPrimary": true
         }
@@ -6916,7 +6916,7 @@
       "images": [
         {
           "id": "phu-kien-12:img0",
-          "url": "/art/cat-phu-kien-v1.svg",
+          "url": "/placeholder.jpg",
           "alt": "Bộ Chén Tống Trà Đạo Mẫu 12",
           "isPrimary": true
         }

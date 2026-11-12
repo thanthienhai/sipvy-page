@@ -29,6 +29,11 @@ export const metadata: Metadata = {
   creator: "SIPVY",
   publisher: "SIPVY",
   applicationName: "SIPVY",
+  icons: {
+    icon: [{ url: withBase("/logo.png"), sizes: "any" }],
+    apple: withBase("/logo.png"),
+    shortcut: withBase("/logo.png"),
+  },
   openGraph: {
     type: "website",
     locale: "vi_VN",

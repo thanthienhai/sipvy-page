@@ -10,20 +10,15 @@ const NOW = "2026-01-01T00:00:00.000Z"
 // Khi có ảnh sản phẩm thật: bỏ ảnh vào public/products/ rồi sửa trường images trong data/seed-data.json
 // thành "/products/ten-anh.jpg" (đường dẫn bắt đầu bằng "/" được giữ nguyên).
 const FALLBACK_BY_CATEGORY = {
-  "tra-shan-tuyet": "/art/cat-shan-tuyet.svg",
-  "tra-o-long": "/art/cat-o-long.svg",
-  "tra-sen": "/art/cat-sen.svg",
-  "tra-xanh": "/art/cat-xanh.svg",
-  "tra-thao-moc": "/art/cat-thao-moc.svg",
-  "phu-kien-tra": "/art/cat-phu-kien.svg",
+  "tra-shan-tuyet": "/san-pham-noi-bat/co-thu.jpg",
+  "tra-o-long": "/san-pham-noi-bat/o-long.jpg",
+  "tra-sen": "/san-pham-noi-bat/sen-tay-ho.jpeg",
+  "tra-xanh": "/san-pham-noi-bat/tra-lai.jpg",
+  "tra-thao-moc": "/banner/hieu-ve-tra.jpg",
+  "phu-kien-tra": "/placeholder.jpg",
 }
-// Mỗi danh mục có 4 biến thể minh hoạ (public/art/cat-*-v1..v4.svg); chọn theo số thứ tự trong slug để lưới không lặp.
-const fixImage = (url, categoryId, slug = "") => {
-  if (!url.includes("images.unsplash.com")) return url
-  const base = FALLBACK_BY_CATEGORY[categoryId]
-  const n = Number(String(slug).match(/(\d+)$/)?.[1] ?? 0)
-  return base.replace(/\.svg$/, `-v${(n % 4) + 1}.svg`)
-}
+const fixImage = (url, categoryId) =>
+  url.includes("images.unsplash.com") ? FALLBACK_BY_CATEGORY[categoryId] : url
 
 
 // ---- Định vị "trà cho người trẻ": bỏ từ so sánh tuyệt đối, công dụng sức khỏe (xem docs/brand-guideline.md).
@@ -85,7 +80,7 @@ const products = seed.products.map((p) => {
     origin: spec(["Xuất xứ"]),
     shelfLife: spec(["Hạn sử dụng", "HSD"]),
     storageInstructions: spec(["Bảo quản"]),
-    images: [...new Set(p.images.map((url) => fixImage(url, p.categoryId, p.slug)))].map((url, i) => ({
+    images: [...new Set(p.images.map((url) => fixImage(url, p.categoryId)))].map((url, i) => ({
       id: `${p.slug}:img${i}`,
       url,
       alt: cleanName(p.name),

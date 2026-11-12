@@ -83,7 +83,7 @@ export default function TetGiftsPage() {
       <EditorialHero contained={false} className="bg-stone-900 text-stone-100">
         <div className="absolute inset-0 opacity-30">
           <Image
-            src="/art/hero.svg"
+            src="/banner/banner_tra-1600.webp"
             alt=""
             fill
             priority

@@ -98,3 +98,5 @@ Tên "SIPVY" gợi chữ "sip" (nhấp một ngụm): nhẹ, thong thả, không
 - **Logo:** dấu hiệu giọt trà + lá (`components/brand/logo-mark.tsx`, `public/logo.svg`) và chữ `sipvy` viết thường, đậm. Favicon `app/icon.svg`, `app/apple-icon.png`, ảnh chia sẻ `public/og.png`.
 - **Ảnh:** hiện là **minh hoạ phẳng** vẽ bằng SVG (`public/art/`), mỗi danh mục có 4 biến thể. Không phải ảnh chụp sản phẩm. Tái tạo bằng `node scripts/make-brand-assets.mjs`, rồi `npm run build:data`.
 - **Khi có ảnh thật:** bỏ vào `public/products/`, trỏ `images` của từng sản phẩm tới đó (đường dẫn bắt đầu bằng `/` được giữ nguyên). Phong cách ảnh nên là: ánh sáng tự nhiên, ly/túi trà trên bàn làm việc hoặc cầm tay, màu nền pastel, không dùng ảnh đồi chè cổ điển.
+
+**Cập nhật v1.2:** giữ **logo gốc** (`public/logo.png`, chữ SIPVY) và **ảnh có sẵn** (`public/banner/`, `public/san-pham-noi-bat/`) cho banner, danh mục và sản phẩm. Phần "Logo" và "Ảnh" ở trên chỉ còn áp dụng cho ảnh chia sẻ `public/og.png` (ghép logo gốc) và ảnh minh hoạ `public/art/` ở trang "Trà cho người trẻ", nơi chưa có ảnh phù hợp. Màu và font mới vẫn giữ.

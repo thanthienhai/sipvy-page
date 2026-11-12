@@ -1,4 +1,4 @@
-// Tạo ảnh minh hoạ + logo + favicon + ảnh chia sẻ (OG) cho nhận diện "trà cho người trẻ".
+// Tạo ảnh minh hoạ + ảnh chia sẻ (OG). Logo gốc public/logo.png được giữ nguyên.
 // Chạy: node scripts/make-brand-assets.mjs   (cần sharp, có sẵn cùng Next.js)
 // Ảnh là minh hoạ phẳng, thay bằng ảnh chụp thật khi có (xem docs/brand-guideline.md).
 import fs from "node:fs"
@@ -114,41 +114,15 @@ art["hero"] = svg(1600, 900, C.mist, [
 
 for (const [name, content] of Object.entries(art)) fs.writeFileSync(out("public/art", `${name}.svg`), content)
 
-// 4 biến thể mỗi danh mục (đổi nền, lật, xoay nhẹ) để lưới sản phẩm không lặp một hình
-const BG_ALT = [null, C.sand, C.butter, C.blush, C.mist, C.soft]
-const TWEAK = [
-  { flip: false, rot: 0, scale: 1 },
-  { flip: true, rot: -7, scale: 1.08 },
-  { flip: false, rot: 8, scale: 1.04 },
-  { flip: true, rot: 5, scale: 1.12 },
-]
-for (const [name, content] of Object.entries(art)) {
-  if (!name.startsWith("cat-")) continue
-  const m = content.match(/^(<svg[^>]*>)<rect width="1000" height="1000" fill="(#[0-9a-f]+)"\/>([\s\S]*)<\/svg>$/i)
-  if (!m) continue
-  TWEAK.forEach((t, i) => {
-    const bg = i === 0 ? m[2] : BG_ALT[(i * 2 + name.length) % BG_ALT.length] ?? m[2]
-    const tf = `translate(500 500) rotate(${t.rot}) scale(${t.flip ? -t.scale : t.scale} ${t.scale}) translate(-500 -500)`
-    fs.writeFileSync(out("public/art", `${name}-v${i + 1}.svg`), `${m[1]}<rect width="1000" height="1000" fill="${bg}"/><g transform="${tf}">${m[3]}</g></svg>`)
-  })
-}
-
-// ---------- Logo (dấu hiệu: giọt trà + lá) ----------
-const mark = (size = 128) => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="${size}" height="${size}"><rect width="128" height="128" rx="34" fill="${C.deep}"/><path d="M30 78C30 46 54 28 92 30C94 66 76 94 46 94C38 94 30 90 30 78Z" fill="${C.lime}"/><path d="M40 86C54 70 68 56 84 44" stroke="${C.deep}" stroke-width="5" stroke-linecap="round" fill="none"/><circle cx="92" cy="92" r="13" fill="${C.peach}"/></svg>`
-fs.writeFileSync(out("public/logo.svg"), mark())
-fs.writeFileSync(out("app/icon.svg"), mark())
-await sharp(Buffer.from(mark(512))).png().toFile(out("public/logo.png"))
-await sharp(Buffer.from(mark(180))).png().toFile(out("app/apple-icon.png"))
-
 // ---------- Ảnh chia sẻ 1200x630 ----------
 const og = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><rect width="1200" height="630" fill="${C.deep}"/>
 <circle cx="1040" cy="120" r="260" fill="${C.dark}"/><circle cx="1100" cy="560" r="170" fill="${C.mid}" opacity=".7"/>
 <g transform="translate(840 140) scale(1.05)">${leaf(0, 200, -150, 1.4, C.lime, C.deep)}${leaf(60, 190, -30, 1.4, C.soft, C.deep)}${leaf(20, 100, -120, 1.1, C.mid, C.deep)}<circle cx="170" cy="250" r="22" fill="${C.peach}"/></g>
-<g transform="translate(80 110)"><g transform="scale(.85)">${mark(128).replace(/<svg[^>]*>|<\/svg>/g, "")}</g>
-<text x="130" y="80" font-family="Arial,Helvetica,sans-serif" font-size="84" font-weight="800" fill="#fff">sipvy</text></g>
+<g transform="translate(80 110)"><text x="130" y="80" font-family="Arial,Helvetica,sans-serif" font-size="84" font-weight="800" fill="#fff">sipvy</text></g>
 <text x="80" y="360" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" fill="#fff">Trà Việt cho người trẻ</text>
 <text x="80" y="430" font-family="Arial,Helvetica,sans-serif" font-size="34" fill="${C.soft}">Dễ pha, dễ uống, hợp nhịp sống mỗi ngày</text>
 <rect x="80" y="490" width="250" height="56" rx="28" fill="${C.peach}"/><text x="205" y="528" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" fill="${C.ink}">sipvy.shop</text></svg>`
-await sharp(Buffer.from(og)).png().toFile(out("public/og.png"))
+const logo = await sharp(out("public/logo.png")).resize(96, 96).png().toBuffer()
+await sharp(Buffer.from(og)).composite([{ input: logo, left: 80, top: 100 }]).png().toFile(out("public/og.png"))
 
-console.log("OK:", Object.keys(art).length, "ảnh minh hoạ + logo + favicon + og.png")
+console.log("OK:", Object.keys(art).length, "ảnh minh hoạ + og.png (logo gốc giữ nguyên)")

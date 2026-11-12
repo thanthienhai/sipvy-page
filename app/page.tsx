@@ -66,10 +66,10 @@ export const metadata: Metadata = {
 
 
 const FALLBACK_CATEGORY_IMG: Record<string, string> = {
-  "tra-shan-tuyet": "/art/cat-shan-tuyet.svg",
-  "tra-o-long": "/art/cat-o-long.svg",
-  "tra-sen": "/art/cat-sen.svg",
-  "tra-xanh": "/art/cat-xanh.svg",
+  "tra-shan-tuyet": "/san-pham-noi-bat/co-thu.jpg",
+  "tra-o-long": "/san-pham-noi-bat/o-long.jpg",
+  "tra-sen": "/san-pham-noi-bat/sen-tay-ho.jpeg",
+  "tra-xanh": "/san-pham-noi-bat/tra-lai.jpg",
 }
 
 const trustBadges = [
@@ -150,9 +150,9 @@ export default function Home() {
 
       {/* ============ 1. HERO (the page's only H1) ============ */}
       <EditorialHero contained={false} className="bg-gradient-to-br from-stone-50 via-white to-stone-50">
-        <div className="absolute inset-0">
+        <div className="absolute inset-0 opacity-30">
           <Image
-            src="/art/hero.svg"
+            src="/banner/banner_tra-1600.webp"
             alt=""
             fill
             priority
@@ -160,7 +160,7 @@ export default function Home() {
             sizes="100vw"
           />
         </div>
-        <div className="absolute inset-0 bg-gradient-to-b from-white/60 via-white/20 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-r from-white via-white/85 to-transparent" />
 
         <StorefrontContainer className="relative flex min-h-[60svh] items-center justify-center py-12 md:min-h-[65svh] md:py-20 lg:min-h-[70svh] lg:py-24">
           <div className="relative w-full max-w-3xl text-center">
@@ -212,13 +212,13 @@ export default function Home() {
                     className="group relative block aspect-[4/5] overflow-hidden rounded-2xl bg-green-100 shadow-sm transition-all duration-300 hover:shadow-xl"
                   >
                     <Image
-                      src={FALLBACK_CATEGORY_IMG[cat.slug] || "/art/cat-xanh.svg"}
+                      src={FALLBACK_CATEGORY_IMG[cat.slug] || "/banner/banner_tra-768.webp"}
                       alt=""
                       fill
                       sizes="(max-width: 768px) 50vw, 25vw"
                       className="object-cover transition-transform duration-500 group-hover:scale-105 motion-reduce:transition-none motion-reduce:group-hover:scale-100"
                     />
-                    <div className="absolute inset-0 bg-gradient-to-t from-green-950/70 via-green-950/10 to-transparent" />
+                    <div className="absolute inset-0 bg-gradient-to-t from-green-900/80 via-green-900/30 to-transparent" />
                     <div className="absolute bottom-0 left-0 right-0 p-4 text-white md:p-5">
                       <h3 className="mb-1 text-lg font-semibold md:text-xl">{cat.name}</h3>
                       <span className="flex items-center gap-1 text-xs transition-all group-hover:gap-2 md:text-sm">
@@ -354,8 +354,8 @@ export default function Home() {
             <div className="order-1 md:order-2">
               <div className="relative aspect-[4/5] overflow-hidden rounded-2xl shadow-md md:aspect-[3/4]">
                 <Image
-                  src="/art/story.svg"
-                  alt="Ly trà đá cam với lá trà"
+                  src="/banner/hieu-ve-tra.jpg"
+                  alt="Đồi trà xanh"
                   fill
                   sizes="(max-width: 768px) 100vw, 50vw"
                   className="object-cover"
@@ -407,7 +407,7 @@ export default function Home() {
             </div>
             <div className="relative hidden md:block">
               <div className="relative aspect-[4/3] overflow-hidden rounded-2xl shadow-lg">
-                <Image src="/art/story.svg" alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" />
+                <Image src="/banner/hieu-ve-tra.jpg" alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" />
               </div>
               <div className="absolute -bottom-4 -left-4 max-w-[200px] rounded-xl bg-white p-4 shadow-lg">
                 <p className="text-2xl font-bold text-amber-800">Đặt sớm</p>

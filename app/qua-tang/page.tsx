@@ -92,7 +92,7 @@ export default function GiftPage() {
       <EditorialHero contained={false} className="border-b border-stone-200 bg-stone-50">
         <div className="absolute right-0 top-0 h-full w-1/2 opacity-25">
           <Image
-            src="/art/hero.svg"
+            src="/banner/banner_tra-1600.webp"
             alt=""
             fill
             className="object-cover"
