@@ -34,10 +34,10 @@
   "products": [
     {
       "id": "tra-tra-shan-tuyet-1",
-      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 1",
+      "name": "Shan Tuyết Cổ Thụ — Loại 1",
       "slug": "tra-tra-shan-tuyet-1",
-      "description": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+      "shortDescription": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
       "price": 270000,
       "originalPrice": 330000,
       "origin": "Việt Nam",
@@ -46,7 +46,7 @@
         {
           "id": "tra-tra-shan-tuyet-1:img0",
           "url": "/san-pham-noi-bat/co-thu.jpg",
-          "alt": "Shan Tuyết Cổ Thụ Thượng Hạng Số 1",
+          "alt": "Shan Tuyết Cổ Thụ — Loại 1",
           "isPrimary": true
         }
       ],
@@ -138,7 +138,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -186,10 +186,10 @@
     },
     {
       "id": "tra-tra-shan-tuyet-2",
-      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 2",
+      "name": "Shan Tuyết Cổ Thụ — Loại 2",
       "slug": "tra-tra-shan-tuyet-2",
-      "description": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+      "shortDescription": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
       "price": 250000,
       "originalPrice": 300000,
       "origin": "Việt Nam",
@@ -198,7 +198,7 @@
         {
           "id": "tra-tra-shan-tuyet-2:img0",
           "url": "/san-pham-noi-bat/co-thu.jpg",
-          "alt": "Shan Tuyết Cổ Thụ Thượng Hạng Số 2",
+          "alt": "Shan Tuyết Cổ Thụ — Loại 2",
           "isPrimary": true
         }
       ],
@@ -290,7 +290,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -338,10 +338,10 @@
     },
     {
       "id": "tra-tra-shan-tuyet-3",
-      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 3",
+      "name": "Shan Tuyết Cổ Thụ — Loại 3",
       "slug": "tra-tra-shan-tuyet-3",
-      "description": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+      "shortDescription": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
       "price": 240000,
       "originalPrice": 300000,
       "origin": "Việt Nam",
@@ -350,7 +350,7 @@
         {
           "id": "tra-tra-shan-tuyet-3:img0",
           "url": "/san-pham-noi-bat/co-thu.jpg",
-          "alt": "Shan Tuyết Cổ Thụ Thượng Hạng Số 3",
+          "alt": "Shan Tuyết Cổ Thụ — Loại 3",
           "isPrimary": true
         }
       ],
@@ -442,7 +442,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -490,10 +490,10 @@
     },
     {
       "id": "tra-tra-shan-tuyet-4",
-      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 4",
+      "name": "Shan Tuyết Cổ Thụ — Loại 4",
       "slug": "tra-tra-shan-tuyet-4",
-      "description": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+      "shortDescription": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
       "price": 760000,
       "originalPrice": 800000,
       "origin": "Việt Nam",
@@ -502,7 +502,7 @@
         {
           "id": "tra-tra-shan-tuyet-4:img0",
           "url": "/san-pham-noi-bat/co-thu.jpg",
-          "alt": "Shan Tuyết Cổ Thụ Thượng Hạng Số 4",
+          "alt": "Shan Tuyết Cổ Thụ — Loại 4",
           "isPrimary": true
         }
       ],
@@ -594,7 +594,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -642,10 +642,10 @@
     },
     {
       "id": "tra-tra-shan-tuyet-5",
-      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 5",
+      "name": "Shan Tuyết Cổ Thụ — Loại 5",
       "slug": "tra-tra-shan-tuyet-5",
-      "description": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+      "shortDescription": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
       "price": 680000,
       "originalPrice": 740000,
       "origin": "Việt Nam",
@@ -654,7 +654,7 @@
         {
           "id": "tra-tra-shan-tuyet-5:img0",
           "url": "/san-pham-noi-bat/co-thu.jpg",
-          "alt": "Shan Tuyết Cổ Thụ Thượng Hạng Số 5",
+          "alt": "Shan Tuyết Cổ Thụ — Loại 5",
           "isPrimary": true
         }
       ],
@@ -746,7 +746,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -794,10 +794,10 @@
     },
     {
       "id": "tra-tra-shan-tuyet-6",
-      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 6",
+      "name": "Shan Tuyết Cổ Thụ — Loại 6",
       "slug": "tra-tra-shan-tuyet-6",
-      "description": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+      "shortDescription": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
       "price": 160000,
       "originalPrice": 230000,
       "origin": "Việt Nam",
@@ -806,7 +806,7 @@
         {
           "id": "tra-tra-shan-tuyet-6:img0",
           "url": "/san-pham-noi-bat/co-thu.jpg",
-          "alt": "Shan Tuyết Cổ Thụ Thượng Hạng Số 6",
+          "alt": "Shan Tuyết Cổ Thụ — Loại 6",
           "isPrimary": true
         }
       ],
@@ -898,7 +898,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -946,10 +946,10 @@
     },
     {
       "id": "tra-tra-shan-tuyet-7",
-      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 7",
+      "name": "Shan Tuyết Cổ Thụ — Loại 7",
       "slug": "tra-tra-shan-tuyet-7",
-      "description": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+      "shortDescription": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
       "price": 200000,
       "originalPrice": 270000,
       "origin": "Việt Nam",
@@ -958,7 +958,7 @@
         {
           "id": "tra-tra-shan-tuyet-7:img0",
           "url": "/san-pham-noi-bat/co-thu.jpg",
-          "alt": "Shan Tuyết Cổ Thụ Thượng Hạng Số 7",
+          "alt": "Shan Tuyết Cổ Thụ — Loại 7",
           "isPrimary": true
         }
       ],
@@ -1050,7 +1050,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -1098,10 +1098,10 @@
     },
     {
       "id": "tra-tra-shan-tuyet-8",
-      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 8",
+      "name": "Shan Tuyết Cổ Thụ — Loại 8",
       "slug": "tra-tra-shan-tuyet-8",
-      "description": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+      "shortDescription": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
       "price": 370000,
       "originalPrice": 390000,
       "origin": "Việt Nam",
@@ -1110,7 +1110,7 @@
         {
           "id": "tra-tra-shan-tuyet-8:img0",
           "url": "/san-pham-noi-bat/co-thu.jpg",
-          "alt": "Shan Tuyết Cổ Thụ Thượng Hạng Số 8",
+          "alt": "Shan Tuyết Cổ Thụ — Loại 8",
           "isPrimary": true
         }
       ],
@@ -1202,7 +1202,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -1250,10 +1250,10 @@
     },
     {
       "id": "tra-tra-shan-tuyet-9",
-      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 9",
+      "name": "Shan Tuyết Cổ Thụ — Loại 9",
       "slug": "tra-tra-shan-tuyet-9",
-      "description": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+      "shortDescription": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
       "price": 650000,
       "originalPrice": 680000,
       "origin": "Việt Nam",
@@ -1262,7 +1262,7 @@
         {
           "id": "tra-tra-shan-tuyet-9:img0",
           "url": "/san-pham-noi-bat/co-thu.jpg",
-          "alt": "Shan Tuyết Cổ Thụ Thượng Hạng Số 9",
+          "alt": "Shan Tuyết Cổ Thụ — Loại 9",
           "isPrimary": true
         }
       ],
@@ -1354,7 +1354,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -1402,10 +1402,10 @@
     },
     {
       "id": "tra-tra-shan-tuyet-10",
-      "name": "Shan Tuyết Cổ Thụ Thượng Hạng Số 10",
+      "name": "Shan Tuyết Cổ Thụ — Loại 10",
       "slug": "tra-tra-shan-tuyet-10",
-      "description": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Shan Tuyết cổ thụ hái từ những cây chè hàng trăm năm tuổi trên núi cao Tây Bắc. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+      "shortDescription": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
       "price": 350000,
       "originalPrice": 420000,
       "origin": "Việt Nam",
@@ -1414,7 +1414,7 @@
         {
           "id": "tra-tra-shan-tuyet-10:img0",
           "url": "/san-pham-noi-bat/co-thu.jpg",
-          "alt": "Shan Tuyết Cổ Thụ Thượng Hạng Số 10",
+          "alt": "Shan Tuyết Cổ Thụ — Loại 10",
           "isPrimary": true
         }
       ],
@@ -1506,7 +1506,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -1554,10 +1554,10 @@
     },
     {
       "id": "tra-tra-xanh-11",
-      "name": "Trà Xanh Tân Cương Thượng Hạng Số 11",
+      "name": "Trà Xanh Tân Cương — Loại 11",
       "slug": "tra-tra-xanh-11",
-      "description": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+      "shortDescription": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
       "price": 180000,
       "originalPrice": 250000,
       "origin": "Việt Nam",
@@ -1566,7 +1566,7 @@
         {
           "id": "tra-tra-xanh-11:img0",
           "url": "/san-pham-noi-bat/tra-lai.jpg",
-          "alt": "Trà Xanh Tân Cương Thượng Hạng Số 11",
+          "alt": "Trà Xanh Tân Cương — Loại 11",
           "isPrimary": true
         }
       ],
@@ -1658,7 +1658,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -1706,10 +1706,10 @@
     },
     {
       "id": "tra-tra-xanh-12",
-      "name": "Trà Xanh Tân Cương Thượng Hạng Số 12",
+      "name": "Trà Xanh Tân Cương — Loại 12",
       "slug": "tra-tra-xanh-12",
-      "description": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+      "shortDescription": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
       "price": 410000,
       "originalPrice": 490000,
       "origin": "Việt Nam",
@@ -1718,7 +1718,7 @@
         {
           "id": "tra-tra-xanh-12:img0",
           "url": "/san-pham-noi-bat/tra-lai.jpg",
-          "alt": "Trà Xanh Tân Cương Thượng Hạng Số 12",
+          "alt": "Trà Xanh Tân Cương — Loại 12",
           "isPrimary": true
         }
       ],
@@ -1810,7 +1810,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -1858,10 +1858,10 @@
     },
     {
       "id": "tra-tra-xanh-13",
-      "name": "Trà Xanh Tân Cương Thượng Hạng Số 13",
+      "name": "Trà Xanh Tân Cương — Loại 13",
       "slug": "tra-tra-xanh-13",
-      "description": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+      "shortDescription": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
       "price": 690000,
       "originalPrice": 760000,
       "origin": "Việt Nam",
@@ -1870,7 +1870,7 @@
         {
           "id": "tra-tra-xanh-13:img0",
           "url": "/san-pham-noi-bat/tra-lai.jpg",
-          "alt": "Trà Xanh Tân Cương Thượng Hạng Số 13",
+          "alt": "Trà Xanh Tân Cương — Loại 13",
           "isPrimary": true
         }
       ],
@@ -1962,7 +1962,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -2010,10 +2010,10 @@
     },
     {
       "id": "tra-tra-xanh-14",
-      "name": "Trà Xanh Tân Cương Thượng Hạng Số 14",
+      "name": "Trà Xanh Tân Cương — Loại 14",
       "slug": "tra-tra-xanh-14",
-      "description": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+      "shortDescription": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
       "price": 660000,
       "originalPrice": 750000,
       "origin": "Việt Nam",
@@ -2022,7 +2022,7 @@
         {
           "id": "tra-tra-xanh-14:img0",
           "url": "/san-pham-noi-bat/tra-lai.jpg",
-          "alt": "Trà Xanh Tân Cương Thượng Hạng Số 14",
+          "alt": "Trà Xanh Tân Cương — Loại 14",
           "isPrimary": true
         }
       ],
@@ -2114,7 +2114,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -2162,10 +2162,10 @@
     },
     {
       "id": "tra-tra-xanh-15",
-      "name": "Trà Xanh Tân Cương Thượng Hạng Số 15",
+      "name": "Trà Xanh Tân Cương — Loại 15",
       "slug": "tra-tra-xanh-15",
-      "description": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+      "shortDescription": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
       "price": 190000,
       "originalPrice": 250000,
       "origin": "Việt Nam",
@@ -2174,7 +2174,7 @@
         {
           "id": "tra-tra-xanh-15:img0",
           "url": "/san-pham-noi-bat/tra-lai.jpg",
-          "alt": "Trà Xanh Tân Cương Thượng Hạng Số 15",
+          "alt": "Trà Xanh Tân Cương — Loại 15",
           "isPrimary": true
         }
       ],
@@ -2266,7 +2266,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -2314,10 +2314,10 @@
     },
     {
       "id": "tra-tra-xanh-16",
-      "name": "Trà Xanh Tân Cương Thượng Hạng Số 16",
+      "name": "Trà Xanh Tân Cương — Loại 16",
       "slug": "tra-tra-xanh-16",
-      "description": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+      "shortDescription": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
       "price": 580000,
       "originalPrice": 640000,
       "origin": "Việt Nam",
@@ -2326,7 +2326,7 @@
         {
           "id": "tra-tra-xanh-16:img0",
           "url": "/san-pham-noi-bat/tra-lai.jpg",
-          "alt": "Trà Xanh Tân Cương Thượng Hạng Số 16",
+          "alt": "Trà Xanh Tân Cương — Loại 16",
           "isPrimary": true
         }
       ],
@@ -2418,7 +2418,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -2466,10 +2466,10 @@
     },
     {
       "id": "tra-tra-xanh-17",
-      "name": "Trà Xanh Tân Cương Thượng Hạng Số 17",
+      "name": "Trà Xanh Tân Cương — Loại 17",
       "slug": "tra-tra-xanh-17",
-      "description": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+      "shortDescription": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
       "price": 450000,
       "originalPrice": 510000,
       "origin": "Việt Nam",
@@ -2478,7 +2478,7 @@
         {
           "id": "tra-tra-xanh-17:img0",
           "url": "/san-pham-noi-bat/tra-lai.jpg",
-          "alt": "Trà Xanh Tân Cương Thượng Hạng Số 17",
+          "alt": "Trà Xanh Tân Cương — Loại 17",
           "isPrimary": true
         }
       ],
@@ -2570,7 +2570,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -2618,10 +2618,10 @@
     },
     {
       "id": "tra-tra-xanh-18",
-      "name": "Trà Xanh Tân Cương Thượng Hạng Số 18",
+      "name": "Trà Xanh Tân Cương — Loại 18",
       "slug": "tra-tra-xanh-18",
-      "description": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+      "shortDescription": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
       "price": 240000,
       "originalPrice": 330000,
       "origin": "Việt Nam",
@@ -2630,7 +2630,7 @@
         {
           "id": "tra-tra-xanh-18:img0",
           "url": "/san-pham-noi-bat/tra-lai.jpg",
-          "alt": "Trà Xanh Tân Cương Thượng Hạng Số 18",
+          "alt": "Trà Xanh Tân Cương — Loại 18",
           "isPrimary": true
         }
       ],
@@ -2722,7 +2722,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -2770,10 +2770,10 @@
     },
     {
       "id": "tra-tra-xanh-19",
-      "name": "Trà Xanh Tân Cương Thượng Hạng Số 19",
+      "name": "Trà Xanh Tân Cương — Loại 19",
       "slug": "tra-tra-xanh-19",
-      "description": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+      "shortDescription": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
       "price": 450000,
       "originalPrice": 530000,
       "origin": "Việt Nam",
@@ -2782,7 +2782,7 @@
         {
           "id": "tra-tra-xanh-19:img0",
           "url": "/san-pham-noi-bat/tra-lai.jpg",
-          "alt": "Trà Xanh Tân Cương Thượng Hạng Số 19",
+          "alt": "Trà Xanh Tân Cương — Loại 19",
           "isPrimary": true
         }
       ],
@@ -2874,7 +2874,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -2922,10 +2922,10 @@
     },
     {
       "id": "tra-tra-xanh-20",
-      "name": "Trà Xanh Tân Cương Thượng Hạng Số 20",
+      "name": "Trà Xanh Tân Cương — Loại 20",
       "slug": "tra-tra-xanh-20",
-      "description": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Xanh Tân Cương Thái Nguyên nổi tiếng với hương cốm non đặc trưng và vị tiền chát hậu ngọt. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+      "shortDescription": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
       "price": 630000,
       "originalPrice": 680000,
       "origin": "Việt Nam",
@@ -2934,7 +2934,7 @@
         {
           "id": "tra-tra-xanh-20:img0",
           "url": "/san-pham-noi-bat/tra-lai.jpg",
-          "alt": "Trà Xanh Tân Cương Thượng Hạng Số 20",
+          "alt": "Trà Xanh Tân Cương — Loại 20",
           "isPrimary": true
         }
       ],
@@ -3026,7 +3026,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -3074,10 +3074,10 @@
     },
     {
       "id": "tra-tra-o-long-21",
-      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 21",
+      "name": "Trà Ô Long — Loại 21",
       "slug": "tra-tra-o-long-21",
-      "description": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
+      "shortDescription": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
       "price": 200000,
       "originalPrice": 290000,
       "origin": "Việt Nam",
@@ -3086,7 +3086,7 @@
         {
           "id": "tra-tra-o-long-21:img0",
           "url": "/san-pham-noi-bat/o-long.jpg",
-          "alt": "Trà Ô Long Cao Cấp Thượng Hạng Số 21",
+          "alt": "Trà Ô Long — Loại 21",
           "isPrimary": true
         }
       ],
@@ -3178,7 +3178,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -3226,10 +3226,10 @@
     },
     {
       "id": "tra-tra-o-long-22",
-      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 22",
+      "name": "Trà Ô Long — Loại 22",
       "slug": "tra-tra-o-long-22",
-      "description": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
+      "shortDescription": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
       "price": 580000,
       "originalPrice": 650000,
       "origin": "Việt Nam",
@@ -3238,7 +3238,7 @@
         {
           "id": "tra-tra-o-long-22:img0",
           "url": "/san-pham-noi-bat/o-long.jpg",
-          "alt": "Trà Ô Long Cao Cấp Thượng Hạng Số 22",
+          "alt": "Trà Ô Long — Loại 22",
           "isPrimary": true
         }
       ],
@@ -3330,7 +3330,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -3378,10 +3378,10 @@
     },
     {
       "id": "tra-tra-o-long-23",
-      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 23",
+      "name": "Trà Ô Long — Loại 23",
       "slug": "tra-tra-o-long-23",
-      "description": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
+      "shortDescription": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
       "price": 290000,
       "originalPrice": 380000,
       "origin": "Việt Nam",
@@ -3390,7 +3390,7 @@
         {
           "id": "tra-tra-o-long-23:img0",
           "url": "/san-pham-noi-bat/o-long.jpg",
-          "alt": "Trà Ô Long Cao Cấp Thượng Hạng Số 23",
+          "alt": "Trà Ô Long — Loại 23",
           "isPrimary": true
         }
       ],
@@ -3482,7 +3482,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -3530,10 +3530,10 @@
     },
     {
       "id": "tra-tra-o-long-24",
-      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 24",
+      "name": "Trà Ô Long — Loại 24",
       "slug": "tra-tra-o-long-24",
-      "description": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
+      "shortDescription": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
       "price": 670000,
       "originalPrice": 740000,
       "origin": "Việt Nam",
@@ -3542,7 +3542,7 @@
         {
           "id": "tra-tra-o-long-24:img0",
           "url": "/san-pham-noi-bat/o-long.jpg",
-          "alt": "Trà Ô Long Cao Cấp Thượng Hạng Số 24",
+          "alt": "Trà Ô Long — Loại 24",
           "isPrimary": true
         }
       ],
@@ -3634,7 +3634,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -3682,10 +3682,10 @@
     },
     {
       "id": "tra-tra-o-long-25",
-      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 25",
+      "name": "Trà Ô Long — Loại 25",
       "slug": "tra-tra-o-long-25",
-      "description": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
+      "shortDescription": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
       "price": 550000,
       "originalPrice": 620000,
       "origin": "Việt Nam",
@@ -3694,7 +3694,7 @@
         {
           "id": "tra-tra-o-long-25:img0",
           "url": "/san-pham-noi-bat/o-long.jpg",
-          "alt": "Trà Ô Long Cao Cấp Thượng Hạng Số 25",
+          "alt": "Trà Ô Long — Loại 25",
           "isPrimary": true
         }
       ],
@@ -3786,7 +3786,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -3834,10 +3834,10 @@
     },
     {
       "id": "tra-tra-o-long-26",
-      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 26",
+      "name": "Trà Ô Long — Loại 26",
       "slug": "tra-tra-o-long-26",
-      "description": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
+      "shortDescription": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
       "price": 370000,
       "originalPrice": 430000,
       "origin": "Việt Nam",
@@ -3846,7 +3846,7 @@
         {
           "id": "tra-tra-o-long-26:img0",
           "url": "/san-pham-noi-bat/o-long.jpg",
-          "alt": "Trà Ô Long Cao Cấp Thượng Hạng Số 26",
+          "alt": "Trà Ô Long — Loại 26",
           "isPrimary": true
         }
       ],
@@ -3938,7 +3938,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -3986,10 +3986,10 @@
     },
     {
       "id": "tra-tra-o-long-27",
-      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 27",
+      "name": "Trà Ô Long — Loại 27",
       "slug": "tra-tra-o-long-27",
-      "description": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
+      "shortDescription": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
       "price": 340000,
       "originalPrice": 400000,
       "origin": "Việt Nam",
@@ -3998,7 +3998,7 @@
         {
           "id": "tra-tra-o-long-27:img0",
           "url": "/san-pham-noi-bat/o-long.jpg",
-          "alt": "Trà Ô Long Cao Cấp Thượng Hạng Số 27",
+          "alt": "Trà Ô Long — Loại 27",
           "isPrimary": true
         }
       ],
@@ -4090,7 +4090,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -4138,10 +4138,10 @@
     },
     {
       "id": "tra-tra-o-long-28",
-      "name": "Trà Ô Long Cao Cấp Thượng Hạng Số 28",
+      "name": "Trà Ô Long — Loại 28",
       "slug": "tra-tra-o-long-28",
-      "description": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Ô Long được lên men bán phần, mang đến hương thơm hoa cỏ tinh tế và vị ngọt dịu nhẹ. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
+      "shortDescription": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
       "price": 590000,
       "originalPrice": 650000,
       "origin": "Việt Nam",
@@ -4150,7 +4150,7 @@
         {
           "id": "tra-tra-o-long-28:img0",
           "url": "/san-pham-noi-bat/o-long.jpg",
-          "alt": "Trà Ô Long Cao Cấp Thượng Hạng Số 28",
+          "alt": "Trà Ô Long — Loại 28",
           "isPrimary": true
         }
       ],
@@ -4242,7 +4242,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -4290,10 +4290,10 @@
     },
     {
       "id": "tra-tra-sen-29",
-      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 29",
+      "name": "Trà Sen Tây Hồ / Huế — Loại 29",
       "slug": "tra-tra-sen-29",
-      "description": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
+      "shortDescription": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
       "price": 610000,
       "originalPrice": 700000,
       "origin": "Việt Nam",
@@ -4302,7 +4302,7 @@
         {
           "id": "tra-tra-sen-29:img0",
           "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
-          "alt": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 29",
+          "alt": "Trà Sen Tây Hồ / Huế — Loại 29",
           "isPrimary": true
         }
       ],
@@ -4394,7 +4394,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -4442,10 +4442,10 @@
     },
     {
       "id": "tra-tra-sen-30",
-      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 30",
+      "name": "Trà Sen Tây Hồ / Huế — Loại 30",
       "slug": "tra-tra-sen-30",
-      "description": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
+      "shortDescription": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
       "price": 750000,
       "originalPrice": 780000,
       "origin": "Việt Nam",
@@ -4454,7 +4454,7 @@
         {
           "id": "tra-tra-sen-30:img0",
           "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
-          "alt": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 30",
+          "alt": "Trà Sen Tây Hồ / Huế — Loại 30",
           "isPrimary": true
         }
       ],
@@ -4546,7 +4546,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -4594,10 +4594,10 @@
     },
     {
       "id": "tra-tra-sen-31",
-      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 31",
+      "name": "Trà Sen Tây Hồ / Huế — Loại 31",
       "slug": "tra-tra-sen-31",
-      "description": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
+      "shortDescription": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
       "price": 780000,
       "originalPrice": 850000,
       "origin": "Việt Nam",
@@ -4606,7 +4606,7 @@
         {
           "id": "tra-tra-sen-31:img0",
           "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
-          "alt": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 31",
+          "alt": "Trà Sen Tây Hồ / Huế — Loại 31",
           "isPrimary": true
         }
       ],
@@ -4698,7 +4698,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -4746,10 +4746,10 @@
     },
     {
       "id": "tra-tra-sen-32",
-      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 32",
+      "name": "Trà Sen Tây Hồ / Huế — Loại 32",
       "slug": "tra-tra-sen-32",
-      "description": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
+      "shortDescription": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
       "price": 790000,
       "originalPrice": 820000,
       "origin": "Việt Nam",
@@ -4758,7 +4758,7 @@
         {
           "id": "tra-tra-sen-32:img0",
           "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
-          "alt": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 32",
+          "alt": "Trà Sen Tây Hồ / Huế — Loại 32",
           "isPrimary": true
         }
       ],
@@ -4850,7 +4850,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -4898,10 +4898,10 @@
     },
     {
       "id": "tra-tra-sen-33",
-      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 33",
+      "name": "Trà Sen Tây Hồ / Huế — Loại 33",
       "slug": "tra-tra-sen-33",
-      "description": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
+      "shortDescription": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
       "price": 230000,
       "originalPrice": 300000,
       "origin": "Việt Nam",
@@ -4910,7 +4910,7 @@
         {
           "id": "tra-tra-sen-33:img0",
           "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
-          "alt": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 33",
+          "alt": "Trà Sen Tây Hồ / Huế — Loại 33",
           "isPrimary": true
         }
       ],
@@ -5002,7 +5002,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -5050,10 +5050,10 @@
     },
     {
       "id": "tra-tra-sen-34",
-      "name": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 34",
+      "name": "Trà Sen Tây Hồ / Huế — Loại 34",
       "slug": "tra-tra-sen-34",
-      "description": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Trà Sen được ướp thủ công tỉ mỉ với những đóa sen tươi, hòa quyện hương sen thanh khiết. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
+      "shortDescription": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
       "price": 470000,
       "originalPrice": 550000,
       "origin": "Việt Nam",
@@ -5062,7 +5062,7 @@
         {
           "id": "tra-tra-sen-34:img0",
           "url": "/san-pham-noi-bat/sen-tay-ho.jpeg",
-          "alt": "Trà Sen Tây Hồ / Huế Thượng Hạng Số 34",
+          "alt": "Trà Sen Tây Hồ / Huế — Loại 34",
           "isPrimary": true
         }
       ],
@@ -5154,7 +5154,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -5202,10 +5202,10 @@
     },
     {
       "id": "tra-tra-thao-moc-35",
-      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 35",
+      "name": "Trà Thảo Mộc Tự Nhiên — Loại 35",
       "slug": "tra-tra-thao-moc-35",
-      "description": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
+      "shortDescription": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
       "price": 490000,
       "originalPrice": 510000,
       "origin": "Việt Nam",
@@ -5214,7 +5214,7 @@
         {
           "id": "tra-tra-thao-moc-35:img0",
           "url": "/banner/hieu-ve-tra.jpg",
-          "alt": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 35",
+          "alt": "Trà Thảo Mộc Tự Nhiên — Loại 35",
           "isPrimary": true
         }
       ],
@@ -5306,7 +5306,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -5354,10 +5354,10 @@
     },
     {
       "id": "tra-tra-thao-moc-36",
-      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 36",
+      "name": "Trà Thảo Mộc Tự Nhiên — Loại 36",
       "slug": "tra-tra-thao-moc-36",
-      "description": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
+      "shortDescription": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
       "price": 520000,
       "originalPrice": 560000,
       "origin": "Việt Nam",
@@ -5366,7 +5366,7 @@
         {
           "id": "tra-tra-thao-moc-36:img0",
           "url": "/banner/hieu-ve-tra.jpg",
-          "alt": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 36",
+          "alt": "Trà Thảo Mộc Tự Nhiên — Loại 36",
           "isPrimary": true
         }
       ],
@@ -5458,7 +5458,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -5506,10 +5506,10 @@
     },
     {
       "id": "tra-tra-thao-moc-37",
-      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 37",
+      "name": "Trà Thảo Mộc Tự Nhiên — Loại 37",
       "slug": "tra-tra-thao-moc-37",
-      "description": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
+      "shortDescription": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
       "price": 250000,
       "originalPrice": 330000,
       "origin": "Việt Nam",
@@ -5518,7 +5518,7 @@
         {
           "id": "tra-tra-thao-moc-37:img0",
           "url": "/banner/hieu-ve-tra.jpg",
-          "alt": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 37",
+          "alt": "Trà Thảo Mộc Tự Nhiên — Loại 37",
           "isPrimary": true
         }
       ],
@@ -5610,7 +5610,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -5658,10 +5658,10 @@
     },
     {
       "id": "tra-tra-thao-moc-38",
-      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 38",
+      "name": "Trà Thảo Mộc Tự Nhiên — Loại 38",
       "slug": "tra-tra-thao-moc-38",
-      "description": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
+      "shortDescription": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
       "price": 520000,
       "originalPrice": 600000,
       "origin": "Việt Nam",
@@ -5670,7 +5670,7 @@
         {
           "id": "tra-tra-thao-moc-38:img0",
           "url": "/banner/hieu-ve-tra.jpg",
-          "alt": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 38",
+          "alt": "Trà Thảo Mộc Tự Nhiên — Loại 38",
           "isPrimary": true
         }
       ],
@@ -5762,7 +5762,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -5810,10 +5810,10 @@
     },
     {
       "id": "tra-tra-thao-moc-39",
-      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 39",
+      "name": "Trà Thảo Mộc Tự Nhiên — Loại 39",
       "slug": "tra-tra-thao-moc-39",
-      "description": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
+      "shortDescription": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
       "price": 500000,
       "originalPrice": 550000,
       "origin": "Việt Nam",
@@ -5822,7 +5822,7 @@
         {
           "id": "tra-tra-thao-moc-39:img0",
           "url": "/banner/hieu-ve-tra.jpg",
-          "alt": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 39",
+          "alt": "Trà Thảo Mộc Tự Nhiên — Loại 39",
           "isPrimary": true
         }
       ],
@@ -5914,7 +5914,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -5962,10 +5962,10 @@
     },
     {
       "id": "tra-tra-thao-moc-40",
-      "name": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 40",
+      "name": "Trà Thảo Mộc Tự Nhiên — Loại 40",
       "slug": "tra-tra-thao-moc-40",
-      "description": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
-      "shortDescription": "Sự kết hợp hoàn hảo của các loại thảo mộc tự nhiên mang lại cảm giác thư thái và tốt cho sức khỏe. Phẩm chất tuyệt hảo cho người sành trà.",
+      "description": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
+      "shortDescription": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
       "price": 340000,
       "originalPrice": 390000,
       "origin": "Việt Nam",
@@ -5974,7 +5974,7 @@
         {
           "id": "tra-tra-thao-moc-40:img0",
           "url": "/banner/hieu-ve-tra.jpg",
-          "alt": "Trà Thảo Mộc Tự Nhiên Thượng Hạng Số 40",
+          "alt": "Trà Thảo Mộc Tự Nhiên — Loại 40",
           "isPrimary": true
         }
       ],
@@ -6066,7 +6066,7 @@
         },
         {
           "label": "Thành phần",
-          "value": "100% trà tự nhiên"
+          "value": "trà tự nhiên"
         },
         {
           "label": "Bảo quản",
@@ -6114,10 +6114,10 @@
     },
     {
       "id": "phu-kien-1",
-      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 1",
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu 1",
       "slug": "phu-kien-1",
-      "description": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
       "price": 560000,
       "originalPrice": 660000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6125,7 +6125,7 @@
         {
           "id": "phu-kien-1:img0",
           "url": "/placeholder.jpg",
-          "alt": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 1",
+          "alt": "Ấm Tử Sa Nghi Hưng Mẫu 1",
           "isPrimary": true
         }
       ],
@@ -6165,7 +6165,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6186,10 +6186,10 @@
     },
     {
       "id": "phu-kien-2",
-      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 2",
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu 2",
       "slug": "phu-kien-2",
-      "description": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
       "price": 440000,
       "originalPrice": 610000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6197,7 +6197,7 @@
         {
           "id": "phu-kien-2:img0",
           "url": "/placeholder.jpg",
-          "alt": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 2",
+          "alt": "Ấm Tử Sa Nghi Hưng Mẫu 2",
           "isPrimary": true
         }
       ],
@@ -6237,7 +6237,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6258,10 +6258,10 @@
     },
     {
       "id": "phu-kien-3",
-      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 3",
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu 3",
       "slug": "phu-kien-3",
-      "description": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
       "price": 1150000,
       "originalPrice": 1270000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6269,7 +6269,7 @@
         {
           "id": "phu-kien-3:img0",
           "url": "/placeholder.jpg",
-          "alt": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 3",
+          "alt": "Ấm Tử Sa Nghi Hưng Mẫu 3",
           "isPrimary": true
         }
       ],
@@ -6309,7 +6309,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6330,10 +6330,10 @@
     },
     {
       "id": "phu-kien-4",
-      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 4",
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu 4",
       "slug": "phu-kien-4",
-      "description": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
       "price": 2360000,
       "originalPrice": 2480000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6341,7 +6341,7 @@
         {
           "id": "phu-kien-4:img0",
           "url": "/placeholder.jpg",
-          "alt": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 4",
+          "alt": "Ấm Tử Sa Nghi Hưng Mẫu 4",
           "isPrimary": true
         }
       ],
@@ -6381,7 +6381,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6402,10 +6402,10 @@
     },
     {
       "id": "phu-kien-5",
-      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 5",
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu 5",
       "slug": "phu-kien-5",
-      "description": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
       "price": 340000,
       "originalPrice": 460000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6413,7 +6413,7 @@
         {
           "id": "phu-kien-5:img0",
           "url": "/placeholder.jpg",
-          "alt": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 5",
+          "alt": "Ấm Tử Sa Nghi Hưng Mẫu 5",
           "isPrimary": true
         }
       ],
@@ -6453,7 +6453,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6474,10 +6474,10 @@
     },
     {
       "id": "phu-kien-6",
-      "name": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 6",
+      "name": "Ấm Tử Sa Nghi Hưng Mẫu 6",
       "slug": "phu-kien-6",
-      "description": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Ấm Tử Sa được chế tác thủ công tinh xảo, chất đất nguyên khoáng giúp tôn lên hương vị của trà. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
+      "shortDescription": "Ấm Tử Sa được chế tác thủ công, chất đất nguyên khoáng giúp tôn lên hương vị của trà.",
       "price": 1400000,
       "originalPrice": 1580000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6485,7 +6485,7 @@
         {
           "id": "phu-kien-6:img0",
           "url": "/placeholder.jpg",
-          "alt": "Ấm Tử Sa Nghi Hưng Mẫu Tinh Xảo Số 6",
+          "alt": "Ấm Tử Sa Nghi Hưng Mẫu 6",
           "isPrimary": true
         }
       ],
@@ -6525,7 +6525,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6546,10 +6546,10 @@
     },
     {
       "id": "phu-kien-7",
-      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 7",
+      "name": "Bộ Chén Tống Trà Đạo Mẫu 7",
       "slug": "phu-kien-7",
-      "description": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
+      "shortDescription": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
       "price": 1840000,
       "originalPrice": 1980000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6557,7 +6557,7 @@
         {
           "id": "phu-kien-7:img0",
           "url": "/placeholder.jpg",
-          "alt": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 7",
+          "alt": "Bộ Chén Tống Trà Đạo Mẫu 7",
           "isPrimary": true
         }
       ],
@@ -6597,7 +6597,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6618,10 +6618,10 @@
     },
     {
       "id": "phu-kien-8",
-      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 8",
+      "name": "Bộ Chén Tống Trà Đạo Mẫu 8",
       "slug": "phu-kien-8",
-      "description": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
+      "shortDescription": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
       "price": 960000,
       "originalPrice": 1040000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6629,7 +6629,7 @@
         {
           "id": "phu-kien-8:img0",
           "url": "/placeholder.jpg",
-          "alt": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 8",
+          "alt": "Bộ Chén Tống Trà Đạo Mẫu 8",
           "isPrimary": true
         }
       ],
@@ -6669,7 +6669,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6690,10 +6690,10 @@
     },
     {
       "id": "phu-kien-9",
-      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 9",
+      "name": "Bộ Chén Tống Trà Đạo Mẫu 9",
       "slug": "phu-kien-9",
-      "description": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
+      "shortDescription": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
       "price": 1550000,
       "originalPrice": 1690000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6701,7 +6701,7 @@
         {
           "id": "phu-kien-9:img0",
           "url": "/placeholder.jpg",
-          "alt": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 9",
+          "alt": "Bộ Chén Tống Trà Đạo Mẫu 9",
           "isPrimary": true
         }
       ],
@@ -6741,7 +6741,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6762,10 +6762,10 @@
     },
     {
       "id": "phu-kien-10",
-      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 10",
+      "name": "Bộ Chén Tống Trà Đạo Mẫu 10",
       "slug": "phu-kien-10",
-      "description": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
+      "shortDescription": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
       "price": 1300000,
       "originalPrice": 1370000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6773,7 +6773,7 @@
         {
           "id": "phu-kien-10:img0",
           "url": "/placeholder.jpg",
-          "alt": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 10",
+          "alt": "Bộ Chén Tống Trà Đạo Mẫu 10",
           "isPrimary": true
         }
       ],
@@ -6813,7 +6813,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6834,10 +6834,10 @@
     },
     {
       "id": "phu-kien-11",
-      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 11",
+      "name": "Bộ Chén Tống Trà Đạo Mẫu 11",
       "slug": "phu-kien-11",
-      "description": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
+      "shortDescription": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
       "price": 1930000,
       "originalPrice": 2020000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6845,7 +6845,7 @@
         {
           "id": "phu-kien-11:img0",
           "url": "/placeholder.jpg",
-          "alt": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 11",
+          "alt": "Bộ Chén Tống Trà Đạo Mẫu 11",
           "isPrimary": true
         }
       ],
@@ -6885,7 +6885,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",
@@ -6906,10 +6906,10 @@
     },
     {
       "id": "phu-kien-12",
-      "name": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 12",
+      "name": "Bộ Chén Tống Trà Đạo Mẫu 12",
       "slug": "phu-kien-12",
-      "description": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
-      "shortDescription": "Bộ chén tống cao cấp, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn. Sự lựa chọn hoàn hảo cho không gian trà đạo.",
+      "description": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
+      "shortDescription": "Bộ chén tống, thiết kế thanh lịch, là điểm nhấn không thể thiếu trên bàn trà của bạn.",
       "price": 850000,
       "originalPrice": 940000,
       "origin": "Việt Nam/Nghi Hưng",
@@ -6917,7 +6917,7 @@
         {
           "id": "phu-kien-12:img0",
           "url": "/placeholder.jpg",
-          "alt": "Bộ Chén Tống Trà Đạo Mẫu Tinh Xảo Số 12",
+          "alt": "Bộ Chén Tống Trà Đạo Mẫu 12",
           "isPrimary": true
         }
       ],
@@ -6957,7 +6957,7 @@
       "specifications": [
         {
           "label": "Chất liệu",
-          "value": "Gốm sứ cao cấp/Tử sa"
+          "value": "Gốm sứ / Tử sa"
         },
         {
           "label": "Xuất xứ",

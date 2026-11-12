@@ -31,7 +31,7 @@ const ANNOUNCEMENT_KEY = "sipvy-page-announcement-dismissed"
 const NAV_ITEMS = [
   { href: "/", label: "Trang chủ" },
   { href: "/san-pham", label: "Sản phẩm" },
-  { href: "/tra-cho-genz", label: "Trà cho GenZ" },
+  { href: "/tra-cho-genz", label: "Trà cho người trẻ" },
   { href: "/qua-tang", label: "Quà tặng" },
   { href: "/qua-tet", label: "Quà Tết" },
   { href: "/hieu-ve-tra", label: "Hiểu về trà" },
@@ -51,7 +51,7 @@ const MOBILE_NAV_GROUPS = [
     label: "Khám phá",
     items: [
       { href: "/", label: "Trang chủ" },
-      { href: "/tra-cho-genz", label: "Trà cho GenZ" },
+      { href: "/tra-cho-genz", label: "Trà cho người trẻ" },
       { href: "/hieu-ve-tra", label: "Hiểu về trà" },
         ],
   },
@@ -329,7 +329,7 @@ export default function Header() {
               </span>
               <span className="hidden md:inline">🚚 Giao hàng toàn quốc 2–5 ngày làm việc</span>
               <Link href="/qua-tet" className="font-medium text-amber-300 hover:text-amber-200">
-                ⚡ Sale Quà Tết -20% cho đơn đặt trước
+                🎁 Quà Tết 2026: đặt sớm để kịp giao
               </Link>
               <Button
                 variant="ghost"

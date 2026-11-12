@@ -28,9 +28,9 @@ import TrustSection from "@/components/storefront/trust-section"
 import { MarketingButtonLink } from "@/components/storefront/marketing-link"
 
 export const metadata: Metadata = {
-  title: "SIPVY - Trà Việt thượng hạng | Trà Cổ Thụ, Oolong, Sen Tây Hồ",
+  title: "SIPVY - Trà Việt cho người trẻ | Cổ Thụ, Oolong, Sen Tây Hồ",
   description:
-    "Mua trà Việt Nam thượng hạng tại SIPVY: trà cổ thụ Hà Giang, oolong hương lan, sen Tây Hồ, trà lài. Giao hàng toàn quốc 2–5 ngày làm việc. Đổi trả 7 ngày.",
+    "SIPVY là trà Việt cho người trẻ: dễ pha, dễ uống, hợp nhịp sống mỗi ngày. Trà cổ thụ, oolong, sen Tây Hồ, trà lài. Giao hàng toàn quốc 2–5 ngày làm việc. Đổi trả 7 ngày.",
   keywords: [
     "trà việt nam",
     "trà cổ thụ",
@@ -38,7 +38,8 @@ export const metadata: Metadata = {
     "trà sen tây hồ",
     "trà lài",
     "mua trà online",
-    "trà thượng hạng",
+    "trà cho người trẻ",
+    "cold brew",
     "quà tặng trà",
     "sipvy",
   ],
@@ -46,9 +47,9 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "SIPVY - Trà Việt thượng hạng",
+    title: "SIPVY - Trà Việt cho người trẻ",
     description:
-      "Khám phá bộ sưu tập trà Việt thượng hạng: trà cổ thụ Hà Giang, oolong hương lan, sen Tây Hồ. Giao hàng toàn quốc.",
+      "Trà Việt dễ pha, dễ uống, hợp nhịp sống mỗi ngày: trà cổ thụ, oolong, sen Tây Hồ. Giao hàng toàn quốc.",
     url: "/",
     type: "website",
     images: [
@@ -56,7 +57,7 @@ export const metadata: Metadata = {
         url: "/banner/banner_tra-1200.webp",
         width: 1200,
         height: 676,
-        alt: "SIPVY - Trà Việt thượng hạng",
+        alt: "SIPVY - Trà Việt cho người trẻ",
       },
     ],
   },
@@ -73,15 +74,15 @@ const FALLBACK_CATEGORY_IMG: Record<string, string> = {
 
 const trustBadges = [
   { icon: Truck, title: "Giao hàng toàn quốc", desc: "Dự kiến 2–5 ngày làm việc" },
-  { icon: ShieldCheck, title: "Trà tuyển từ vùng đặc sản", desc: "Nguồn gốc rõ ràng, đóng gói cẩn thận" },
+  { icon: ShieldCheck, title: "Trà Việt từ vùng trà đặc sản", desc: "Thông tin nguồn gốc ghi trên từng sản phẩm" },
   { icon: RefreshCw, title: "Đổi trả 7 ngày", desc: "Khi sản phẩm lỗi do nhà sản xuất" },
   { icon: Headphones, title: `Hỗ trợ ${SITE_CONTACT.supportHours}`, desc: `Hotline ${SITE_CONTACT.hotline}` },
 ]
 
 const knowledgeSteps = [
-  { n: "01", t: "Nguồn gốc và phân loại", d: "Trà cổ thụ, trà mới, oolong, trà ướp hương" },
-  { n: "02", t: "Cách pha chuẩn", d: "Nhiệt độ nước, tỉ lệ trà, thời gian hãm cho từng loại" },
-  { n: "03", t: "Nghệ thuật thưởng trà", d: "Từ trà đạo Việt đến cách thưởng thức hằng ngày" },
+  { n: "01", t: "Chọn trà hợp gu", d: "Trà cổ thụ, trà xanh, oolong, trà ướp hương" },
+  { n: "02", t: "Pha dễ, không cần rành", d: "Nhiệt độ nước, tỉ lệ trà, thời gian hãm cho từng loại" },
+  { n: "03", t: "Thưởng trà mỗi ngày", d: "Cold brew, trà đá, trà nóng cho bàn làm việc" },
 ]
 
 export default function Home() {
@@ -164,7 +165,7 @@ export default function Home() {
         <StorefrontContainer className="relative flex min-h-[60svh] items-center justify-center py-12 md:min-h-[65svh] md:py-20 lg:min-h-[70svh] lg:py-24">
           <div className="relative w-full max-w-3xl text-center">
             <h1 className="mb-6 text-4xl font-bold tracking-tight text-green-950 md:text-5xl lg:text-6xl">
-              Trà Việt thượng hạng, trao trọn tinh hoa
+              Trà Việt cho người trẻ, nhấp một ngụm là vào nhịp
             </h1>
             <HeroSearch />
             <div className="mt-6 flex flex-col justify-center gap-3 sm:flex-row">
@@ -200,7 +201,7 @@ export default function Home() {
             <SectionHeading
               align="center"
               title="Khám phá theo danh mục"
-              description="Mỗi dòng trà mang một câu chuyện riêng, một hương vị riêng cho từng dịp"
+              description="Mỗi dòng trà một hương vị riêng, chọn theo gu và theo lúc bạn cần"
             />
 
             <ul className="grid grid-cols-2 gap-4 md:grid-cols-4 md:gap-5">
@@ -242,7 +243,7 @@ export default function Home() {
               </span>
             }
             title="Sản phẩm nổi bật"
-            description="Những dòng trà được SIPVY tuyển chọn cho bạn"
+            description="Những dòng trà SIPVY gợi ý để bạn bắt đầu"
             action={
               <Button asChild variant="outline" className="rounded-full border-stone-300 text-stone-800">
                 <Link href="/san-pham">
@@ -322,9 +323,9 @@ export default function Home() {
           <div className="grid items-center gap-10 md:grid-cols-2 lg:gap-14">
             <div className="order-2 md:order-1">
               <SectionHeading
-                eyebrow="Văn hoá trà"
-                title="Hiểu về trà — Thưởng trà đúng cách"
-                description="Trà không chỉ là thức uống, mà là cả một nghệ thuật. Khám phá nguồn gốc các loại trà Việt và cách pha để mỗi tách trà đều trọn vẹn hương vị."
+                eyebrow="Hiểu về trà"
+                title="Pha trà dễ hơn bạn nghĩ"
+                description="Không cần biết trà, vẫn pha được tách ngon. Xem nhanh các loại trà Việt và cách pha để mỗi lần nhấp đều đúng vị."
                 className="mb-7"
               />
               <ol className="mb-7 space-y-5">
@@ -354,7 +355,7 @@ export default function Home() {
               <div className="relative aspect-[4/5] overflow-hidden rounded-2xl shadow-md md:aspect-[3/4]">
                 <Image
                   src="/banner/hieu-ve-tra.jpg"
-                  alt="Nghệ thuật thưởng trà"
+                  alt="Đồi trà xanh"
                   fill
                   sizes="(max-width: 768px) 100vw, 50vw"
                   className="object-cover"
@@ -377,8 +378,8 @@ export default function Home() {
                     <Gift className="h-3 w-3" aria-hidden="true" /> Bộ sưu tập đặc biệt
                   </span>
                 }
-                title="Quà Tết SIPVY 2026 — Tinh hoa trà Việt"
-                description="Hộp quà tặng sang trọng, đóng gói cao cấp, kèm thiệp chúc mừng cá nhân hóa. Đặt sớm để được hỗ trợ thiết kế và giao hàng ưu tiên."
+                title="Quà Tết SIPVY 2026 — Trà Việt đón Tết"
+                description="Hộp quà trà gọn đẹp, kèm thiệp cá nhân hóa. Đặt sớm để được hỗ trợ thiết kế và có thêm thời gian giao hàng."
                 className="mb-6"
               />
               <div className="flex flex-wrap gap-3">
@@ -409,8 +410,8 @@ export default function Home() {
                 <Image src="/banner/hieu-ve-tra.jpg" alt="" fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" />
               </div>
               <div className="absolute -bottom-4 -left-4 max-w-[200px] rounded-xl bg-white p-4 shadow-lg">
-                <p className="text-2xl font-bold text-amber-800">-20%</p>
-                <p className="text-xs text-stone-700">Cho đơn đặt trước Tết</p>
+                <p className="text-2xl font-bold text-amber-800">Đặt sớm</p>
+                <p className="text-xs text-stone-700">Để kịp giao trước Tết</p>
               </div>
             </div>
           </div>
@@ -422,8 +423,8 @@ export default function Home() {
         source="home"
         className="bg-gradient-to-br from-stone-50 to-amber-50/30"
         icon={<Gift className="h-6 w-6" aria-hidden="true" />}
-        title="Đăng ký nhận ưu đãi 10%"
-        description="Đăng ký nhận tin để cập nhật bộ sưu tập mới, mẹo pha trà và ưu đãi từ SIPVY."
+        title="Nhận tin từ SIPVY"
+        description="Đăng ký để cập nhật trà mới, mẹo pha trà và công thức cold brew qua email."
       />
     </>
   )

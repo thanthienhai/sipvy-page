@@ -19,11 +19,11 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "SIPVY - Trà Việt thượng hạng | Trà Cổ Thụ, Oolong, Sen Tây Hồ",
+    default: "SIPVY - Trà Việt cho người trẻ | Cổ Thụ, Oolong, Sen Tây Hồ",
     template: "%s | SIPVY",
   },
   description:
-    "SIPVY - Thương hiệu trà Việt cao cấp. Mua trà cổ thụ Hà Giang, oolong hương lan, sen Tây Hồ, trà lài thượng hạng. Giao hàng toàn quốc, miễn phí từ 500.000₫.",
+    "SIPVY - Trà Việt cho người trẻ: dễ pha, dễ uống, hợp nhịp sống mỗi ngày. Trà cổ thụ, oolong, sen Tây Hồ, trà lài. Giao hàng toàn quốc, miễn phí từ 500.000₫.",
   authors: [{ name: "SIPVY" }],
   creator: "SIPVY",
   publisher: "SIPVY",
@@ -38,14 +38,14 @@ export const metadata: Metadata = {
     locale: "vi_VN",
     url: SITE_URL,
     siteName: "SIPVY",
-    title: "SIPVY - Trà Việt thượng hạng",
-    description: "Khám phá bộ sưu tập trà Việt thượng hạng: trà cổ thụ, oolong, sen Tây Hồ. Giao hàng toàn quốc.",
-    images: [{ url: withBase("/banner/banner_tra-1200.webp"), width: 1200, height: 630, alt: "SIPVY - Trà Việt thượng hạng" }],
+    title: "SIPVY - Trà Việt cho người trẻ",
+    description: "Trà Việt dễ pha, dễ uống, hợp nhịp sống mỗi ngày: trà cổ thụ, oolong, sen Tây Hồ. Giao hàng toàn quốc.",
+    images: [{ url: withBase("/banner/banner_tra-1200.webp"), width: 1200, height: 630, alt: "SIPVY - Trà Việt cho người trẻ" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "SIPVY - Trà Việt thượng hạng",
-    description: "Khám phá bộ sưu tập trà Việt thượng hạng: cổ thụ, oolong, sen Tây Hồ.",
+    title: "SIPVY - Trà Việt cho người trẻ",
+    description: "Trà Việt dễ pha, dễ uống: cổ thụ, oolong, sen Tây Hồ.",
     images: [withBase("/banner/banner_tra-1200.webp")],
   },
   robots: { index: true, follow: true },

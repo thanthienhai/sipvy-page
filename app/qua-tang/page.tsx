@@ -37,13 +37,13 @@ import TrustSection from "@/components/storefront/trust-section"
 import { MarketingButtonLink } from "@/components/storefront/marketing-link"
 
 export const metadata: Metadata = {
-  title: "Quà tặng trà cao cấp | Quà tặng doanh nghiệp & cá nhân",
+  title: "Quà tặng trà | Quà tặng doanh nghiệp & cá nhân",
   description:
-    "Hộp quà trà SIPVY thượng hạng cho doanh nghiệp, đối tác, sự kiện. Thiết kế hộp riêng theo thương hiệu, kèm thiệp cá nhân hoá. Báo giá nhanh trong 24h.",
+    "Hộp quà trà SIPVY cho bạn bè, đồng nghiệp, đối tác và sự kiện. Hỗ trợ thiết kế hộp riêng theo thương hiệu, kèm thiệp cá nhân hoá. Báo giá nhanh trong 24h.",
   alternates: { canonical: "/qua-tang" },
   openGraph: {
-    title: "Quà tặng trà cao cấp SIPVY",
-    description: "Hộp quà trà cao cấp cho doanh nghiệp và cá nhân",
+    title: "Quà tặng trà SIPVY",
+    description: "Hộp quà trà gọn đẹp cho bạn bè, đồng nghiệp và doanh nghiệp",
     url: "/qua-tang",
     images: [{ url: "/banner/banner_tra-1200.webp", width: 1200, height: 676, alt: "Quà tặng trà SIPVY" }],
   },
@@ -64,7 +64,7 @@ const SERVICES = [
   {
     icon: Palette,
     title: "Thiết kế riêng",
-    desc: "Đội ngũ designer hỗ trợ thiết kế hộp, nhãn in logo, lời nhắn theo nhận diện thương hiệu",
+    desc: "SIPVY hỗ trợ thiết kế hộp, nhãn in logo, lời nhắn theo nhận diện thương hiệu của bạn",
   },
   {
     icon: MessageSquare,
@@ -111,13 +111,13 @@ export default function GiftPage() {
           </Badge>
 
           <h1 className="mb-5 max-w-3xl text-4xl font-bold leading-tight tracking-tight text-stone-900 md:text-5xl lg:text-6xl">
-            Tặng trà — Tặng cả
-            <span className="block text-green-800">tinh hoa văn hoá Việt</span>
+            Tặng trà — Tặng một
+            <span className="block text-green-800">khoảng nghỉ cho người thương</span>
           </h1>
 
           <p className="mb-7 max-w-2xl text-base leading-relaxed text-stone-700 md:text-lg">
-            Hộp quà trà SIPVY: thiết kế tinh tế, đóng gói cao cấp, kèm thiệp cá nhân hoá.
-            Lựa chọn hoàn hảo cho mọi dịp — từ tri ân khách hàng đến quà biếu gia đình.
+            Hộp quà trà SIPVY: gọn đẹp, dễ tặng, kèm thiệp cá nhân hoá.
+            Hợp nhiều dịp — từ quà sinh nhật cho bạn bè đến quà tri ân khách hàng.
           </p>
 
           <div className="flex flex-wrap gap-3">
@@ -149,7 +149,7 @@ export default function GiftPage() {
       {/* ============ OCCASIONS ============ */}
       <section className="storefront-section border-b border-stone-100 bg-white">
         <StorefrontContainer>
-          <SectionHeading align="center" eyebrow="Mọi dịp ý nghĩa" title="Phù hợp cho mọi khoảnh khắc đặc biệt" />
+          <SectionHeading align="center" eyebrow="Mọi dịp" title="Gợi ý cho những dịp bạn cần một món quà" />
           <ul className="grid grid-cols-2 gap-2 sm:grid-cols-4 md:grid-cols-8 md:gap-3">
             {OCCASIONS.map((o) => {
               const Icon = o.icon

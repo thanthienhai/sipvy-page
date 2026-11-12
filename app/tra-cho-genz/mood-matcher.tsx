@@ -35,11 +35,11 @@ const MOODS: MoodData[] = [
   },
   {
     key: "chill",
-    label: "Xả Stress, Relax",
+    label: "Chill Buổi Tối",
     sub: "Trà thảo mộc dịu nhẹ buổi tối",
-    badge: "Chế độ: Anti-Stress Calm",
+    badge: "Chế độ: Chill Tối",
     title: "Trà thảo mộc dịu nhẹ buổi tối",
-    desc: "Trà thảo mộc hương thơm nhẹ, không chứa trà nên dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm sau một ngày dài.",
+    desc: "Trà thảo mộc hương thơm nhẹ, không chứa lá trà nên hợp cho buổi tối. Hãm nóng và thưởng thức chậm sau một ngày dài.",
     slug: "tra-tra-thao-moc-35",
     prepTime: "3 phút hãm nóng",
     tip: "Mẹo nhỏ: Thưởng thức lúc 21:00 tối kết hợp nghe playlist Lofi chill.",
@@ -64,7 +64,7 @@ const MOODS: MoodData[] = [
     desc: "Ô Long thơm dịu, hậu ngọt. Pha đậm rồi thêm sữa và đá để có ly trà sữa mộc tại bàn làm việc.",
     slug: "tra-tra-o-long-21",
     prepTime: "5 phút tại bàn làm việc",
-    tip: "Mẹo nhỏ: Dùng sữa tươi thanh trùng + 1 thìa mật ong nguyên chất, ngon ngậy mà cực lành mạnh.",
+    tip: "Mẹo nhỏ: Dùng sữa tươi thanh trùng + 1 thìa mật ong, béo ngậy và dễ uống.",
   },
 ]
 
@@ -117,13 +117,13 @@ export default function MoodMatcher() {
         
         <div className="text-center max-w-2xl mx-auto mb-10">
           <span className="text-xs uppercase tracking-[0.2em] font-extrabold text-emerald-600 block mb-1">
-            Cá Nhân Hoá Theo Cảm Xúc
+            Chọn Theo Tâm Trạng
           </span>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
             Hôm nay tâm trạng bạn thế nào?
           </h2>
           <p className="text-slate-600 text-sm mt-2">
-            Chọn trạng thái hiện tại, SIPVY sẽ gợi ý thức uống hoàn hảo nhất cùng công thức thưởng thức:
+            Chọn trạng thái hiện tại, SIPVY gợi ý một loại trà cùng cách thưởng thức:
           </p>
         </div>
 

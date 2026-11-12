@@ -85,7 +85,7 @@ export default function ProductCatalog() {
           ...(categoryName ? [{ label: categoryName }] : []),
         ]}
         title={pageTitle}
-        description={`${total} sản phẩm — trà thượng hạng từ vùng đặc sản, giao hàng toàn quốc`}
+        description={`${total} sản phẩm — trà Việt dễ pha, dễ uống, giao hàng toàn quốc`}
       />
 
       {/* ============ MAIN ============ */}

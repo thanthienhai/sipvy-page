@@ -8,11 +8,11 @@ import StorefrontContainer from "@/components/storefront/storefront-container"
 export const metadata: Metadata = {
   title: "Sản phẩm trà | Trà cổ thụ, Oolong, Sen Tây Hồ",
   description:
-    "Khám phá toàn bộ sản phẩm trà thượng hạng SIPVY: trà cổ thụ Hà Giang, oolong hương lan, sen Tây Hồ, trà lài. Đa dạng kích cỡ, giao hàng toàn quốc.",
+    "Toàn bộ sản phẩm trà SIPVY: trà cổ thụ, oolong, sen Tây Hồ, trà lài. Dễ pha, dễ uống, đa dạng kích cỡ, giao hàng toàn quốc.",
   alternates: { canonical: "/san-pham/" },
   openGraph: {
     title: "Sản phẩm trà SIPVY",
-    description: "Toàn bộ sản phẩm trà thượng hạng SIPVY",
+    description: "Toàn bộ sản phẩm trà Việt SIPVY",
     url: "/san-pham/",
   },
 }

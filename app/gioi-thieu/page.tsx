@@ -14,28 +14,28 @@ import TrustSection from "@/components/storefront/trust-section"
 import { MarketingButtonLink } from "@/components/storefront/marketing-link"
 
 export const metadata: Metadata = {
-  title: "Về SIPVY | Trà Việt thượng hạng",
-  description: "Câu chuyện SIPVY và hành trình tuyển chọn trà Việt thượng hạng từ những vùng trà đặc sản.",
+  title: "Về SIPVY | Trà Việt cho người trẻ",
+  description: "Câu chuyện SIPVY: mang trà Việt đến gần hơn với người trẻ, dễ pha, dễ uống, hợp nhịp sống mỗi ngày.",
   alternates: { canonical: "/gioi-thieu" },
   openGraph: {
-    title: "Về SIPVY | Trà Việt thượng hạng",
+    title: "Về SIPVY | Trà Việt cho người trẻ",
     description: "Câu chuyện thương hiệu trà Việt SIPVY.",
     url: "/gioi-thieu",
   },
 }
 
 const coreValues = [
-  { icon: Leaf, title: "Chất Lượng", description: "Cam kết mang đến sản phẩm trà chất lượng cao nhất" },
-  { icon: Heart, title: "Tận Tâm", description: "Phục vụ khách hàng với sự tận tâm và chuyên nghiệp" },
-  { icon: Users, title: "Đoàn Kết", description: "Xây dựng đội ngũ đoàn kết và hỗ trợ lẫn nhau" },
-  { icon: Award, title: "Uy Tín", description: "Xây dựng thương hiệu uy tín và đáng tin cậy" },
+  { icon: Leaf, title: "Chất Lượng", description: "Chọn lọc kỹ, mô tả đúng sản phẩm, nói đúng những gì mình có" },
+  { icon: Heart, title: "Tận Tâm", description: "Lắng nghe, tư vấn gần gũi, hỗ trợ khi bạn cần" },
+  { icon: Users, title: "Gần Gũi", description: "Nói chuyện đơn giản, dễ hiểu, không cần rành về trà" },
+  { icon: Award, title: "Minh Bạch", description: "Thông tin sản phẩm, giá và chính sách rõ ràng" },
 ]
 
 const sourcingProcess = [
-  { title: "Khảo sát vùng trồng", description: "Tìm hiểu và lựa chọn những vùng trồng trà chất lượng cao" },
-  { title: "Chọn lọc nguyên liệu", description: "Kiểm tra và chọn lọc từng lá trà theo tiêu chuẩn nghiêm ngặt" },
-  { title: "Chế biến truyền thống", description: "Áp dụng phương pháp chế biến truyền thống kết hợp công nghệ" },
-  { title: "Kiểm định chất lượng", description: "Kiểm tra chất lượng cuối cùng trước khi đưa ra thị trường" },
+  { title: "Tìm hiểu vùng trà", description: "Tìm hiểu và lựa chọn các vùng trà Việt Nam" },
+  { title: "Chọn lọc nguyên liệu", description: "Kiểm tra và chọn lọc nguyên liệu theo tiêu chí của SIPVY" },
+  { title: "Chế biến", description: "Chế biến theo từng dòng trà, từ trà sao đến trà ướp hương" },
+  { title: "Kiểm định chất lượng", description: "Kiểm tra lại trước khi đóng gói và giao đến bạn" },
 ]
 
 export default function AboutPage() {
@@ -50,7 +50,7 @@ export default function AboutPage() {
         variant="subtle"
         breadcrumbs={[{ href: "/", label: "Trang chủ" }, { label: "Giới thiệu" }]}
         title="Về SIPVY"
-        description="Câu chuyện về hành trình mang hương vị trà Việt Nam đến với thế giới"
+        description="Câu chuyện về việc mang hương vị trà Việt đến gần hơn với người trẻ"
       />
 
       {/* ============ STORY ============ */}
@@ -59,14 +59,13 @@ export default function AboutPage() {
           <div>
             <SectionHeading title="Hành trình của SIPVY" className="mb-6" />
             <p className="mb-4 leading-relaxed text-stone-700">
-              SIPVY được thành lập với sứ mệnh mang đến những tách trà thượng hạng nhất từ các vùng đất nổi tiếng
-              của Việt Nam. Chúng tôi tin rằng trà không chỉ là thức uống, mà còn là cầu nối văn hóa, là nghệ thuật
-              sống và là cách để con người kết nối với nhau.
+              SIPVY được thành lập với mong muốn mang trà Việt đến gần hơn với người trẻ: dễ pha, dễ uống và hợp với
+              nhịp sống mỗi ngày. Chúng tôi tin trà không cần nghi thức cầu kỳ, chỉ cần một khoảng nghỉ nhỏ để bạn
+              nhấp một ngụm và kết nối với người bên cạnh.
             </p>
             <p className="mb-6 leading-relaxed text-stone-700">
-              Từ những cây trà cổ thụ hàng trăm năm tuổi ở Hà Giang, đến những búp trà non tơ ở Thái Nguyên,
-              mỗi sản phẩm của SIPVY đều được chọn lọc kỹ lưỡng và chế biến theo phương pháp truyền thống
-              kết hợp với công nghệ hiện đại.
+              Từ trà cổ thụ ở Hà Giang đến trà búp ở Thái Nguyên, mỗi sản phẩm của SIPVY được chọn lọc từ các vùng
+              trà Việt Nam, kèm hướng dẫn pha rõ ràng để bạn tự pha được tách trà vừa gu.
             </p>
             <div className="flex flex-col gap-4 sm:flex-row">
               <MarketingButtonLink
@@ -91,7 +90,7 @@ export default function AboutPage() {
           <div className="relative h-[320px] overflow-hidden rounded-lg md:h-[400px]">
             <Image
               src="/banner/hieu-ve-tra.jpg"
-              alt="Vườn trà SIPVY"
+              alt="Đồi trà xanh"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"
               className="object-cover"
@@ -110,8 +109,8 @@ export default function AboutPage() {
               </div>
               <h3 className="mb-4 text-xl font-medium text-green-900">Sứ Mệnh</h3>
               <p className="leading-relaxed text-stone-700">
-                Mang đến những sản phẩm trà chất lượng cao nhất, bảo tồn và phát huy giá trị văn hóa trà
-                Việt Nam, đồng thời tạo ra những trải nghiệm thưởng trà đáng nhớ cho khách hàng trên toàn thế giới.
+                Mang trà Việt đến gần hơn với người trẻ bằng sản phẩm dễ pha, dễ uống và cách nói chuyện
+                gần gũi, để thưởng trà trở thành một thói quen nhẹ nhàng mỗi ngày.
               </p>
             </CardContent>
           </Card>
@@ -123,8 +122,8 @@ export default function AboutPage() {
               </div>
               <h3 className="mb-4 text-xl font-medium text-green-900">Tầm Nhìn</h3>
               <p className="leading-relaxed text-stone-700">
-                Trở thành thương hiệu trà Việt Nam hàng đầu được yêu thích và tin tưởng trên thị trường quốc tế,
-                góp phần nâng tầm vị thế của trà Việt Nam trên bản đồ trà thế giới.
+                Trở thành thương hiệu trà Việt được người trẻ chọn uống mỗi ngày, góp phần để trà Việt
+                có chỗ đứng trong thói quen của thế hệ mới.
               </p>
             </CardContent>
           </Card>
@@ -219,7 +218,7 @@ export default function AboutPage() {
           <div className="rounded-xl bg-green-800 p-8 text-center text-white">
             <h2 className="mb-4 text-2xl font-medium">Kết nối với SIPVY</h2>
             <p className="mb-6 text-green-50">
-              Hãy cùng chúng tôi lan tỏa văn hóa trà Việt Nam đến khắp nơi trên thế giới
+              Có câu hỏi về trà hay về đơn hàng? Nhắn SIPVY, tụi mình trả lời bạn sớm nhất có thể
             </p>
             <ul className="flex flex-col justify-center gap-4 sm:flex-row">
               <li className="flex items-center justify-center gap-2">

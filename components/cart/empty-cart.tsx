@@ -25,7 +25,7 @@ export default function EmptyCart() {
       icon: '🪷'
     },
     {
-      name: 'Trà cho GenZ',
+      name: 'Trà cho người trẻ',
       description: 'Hương vị hiện đại cho thế hệ trẻ',
       href: '/tra-cho-genz',
       icon: '🧋'
@@ -45,7 +45,7 @@ export default function EmptyCart() {
         </h2>
         
         <p className="text-gray-600 mb-6 max-w-md mx-auto">
-          Hãy khám phá bộ sưu tập trà thượng hạng của SIPVY và thêm những sản phẩm yêu thích vào giỏ hàng
+          Hãy khám phá các dòng trà của SIPVY và thêm những sản phẩm yêu thích vào giỏ hàng
         </p>
 
         {/* Quick Actions */}
@@ -95,7 +95,7 @@ export default function EmptyCart() {
             <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mb-3">
               <Star className="w-6 h-6 text-green-600" />
             </div>
-            <h4 className="font-medium text-green-900 mb-1">Chất lượng cao cấp</h4>
+            <h4 className="font-medium text-green-900 mb-1">Chọn lọc từ vùng trà Việt</h4>
             <p className="text-gray-600 text-center">
               Trà được chọn lọc kỹ lưỡng từ những vùng trồng trà nổi tiếng
             </p>

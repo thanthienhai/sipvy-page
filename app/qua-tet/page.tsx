@@ -29,13 +29,13 @@ import TrustSection from "@/components/storefront/trust-section"
 import { MarketingButtonLink } from "@/components/storefront/marketing-link"
 
 export const metadata: Metadata = {
-  title: "Quà Tết 2026 - Hộp quà trà thượng hạng cao cấp | SIPVY",
+  title: "Quà Tết 2026 - Hộp quà trà gọn đẹp, kèm thiệp | SIPVY",
   description:
-    "Bộ sưu tập quà Tết SIPVY 2026: hộp quà trà cổ thụ, oolong, sen Tây Hồ. Đóng gói sang trọng, thiệp viết tay, hỗ trợ in logo doanh nghiệp. Đặt sớm giảm 20%.",
+    "Quà Tết SIPVY 2026: hộp quà trà cổ thụ, oolong, sen Tây Hồ, kèm thiệp cá nhân hoá, hỗ trợ in logo doanh nghiệp. Đặt sớm để kịp giao trước Tết.",
   alternates: { canonical: "/qua-tet" },
   openGraph: {
-    title: "Quà Tết SIPVY 2026 — Tinh hoa trà Việt",
-    description: "Hộp quà Tết cao cấp, thiết kế tinh tế, dành cho gia đình & doanh nghiệp",
+    title: "Quà Tết SIPVY 2026 — Trà Việt đón Tết",
+    description: "Hộp quà trà Tết gọn đẹp, dành cho gia đình, bạn bè và doanh nghiệp",
     url: "/qua-tet",
     images: [{ url: "/banner/banner_tra-1200.webp", width: 1200, height: 676, alt: "Quà Tết trà SIPVY" }],
   },
@@ -44,8 +44,8 @@ export const metadata: Metadata = {
 const SERVICES = [
   {
     icon: Gift,
-    title: "Đóng gói cao cấp",
-    desc: "Hộp gỗ sơn mài hoặc hộp giấy mỹ thuật, lót lụa, ruy băng truyền thống — sẵn sàng để tặng.",
+    title: "Đóng gói chỉn chu",
+    desc: "Hộp quà gọn đẹp, có thể kèm ruy băng và thiệp — nhận về là tặng được ngay.",
   },
   {
     icon: PenLine,
@@ -54,7 +54,7 @@ const SERVICES = [
   },
   {
     icon: Truck,
-    title: "Giao đúng hẹn Tết",
+    title: "Giao hàng dịp Tết",
     desc: "Thời gian giao dự kiến 2–5 ngày làm việc; đặt sớm để kịp dịp Tết. Hỗ trợ giao đến nhiều địa chỉ trong cùng đơn.",
   },
   {
@@ -65,8 +65,8 @@ const SERVICES = [
 ]
 
 const TIMELINE = [
-  { date: "Đến 15/12 (Âm)", label: "Ưu đãi sớm", desc: "Giảm 20% cho mọi đơn quà Tết" },
-  { date: "16/12 - 20/12 (Âm)", label: "Giai đoạn chính", desc: "Giá niêm yết, đặt sớm để kịp giao" },
+  { date: "Đến 15/12 (Âm)", label: "Đặt sớm", desc: "Nhiều thời gian nhất để chọn hộp, viết thiệp và giao" },
+  { date: "16/12 - 20/12 (Âm)", label: "Giai đoạn chính", desc: "Vẫn nhận đơn, đặt sớm để kịp giao" },
   { date: "21/12 - 26/12 (Âm)", label: "Hạn cuối doanh nghiệp", desc: "Đặt đơn doanh nghiệp số lượng lớn" },
   { date: "27/12 (Âm)", label: "Ngừng nhận đơn mới", desc: "Tập trung giao các đơn đã đặt" },
 ]
@@ -104,12 +104,12 @@ export default function TetGiftsPage() {
 
           <h1 className="mb-5 max-w-3xl text-4xl font-bold leading-tight tracking-tight text-white md:text-5xl lg:text-6xl">
             Quà Tết 2026
-            <span className="mt-1 block text-amber-300">Tinh hoa trà Việt</span>
+            <span className="mt-1 block text-amber-300">Trà Việt đón Tết</span>
           </h1>
 
           <p className="mb-8 max-w-2xl text-base leading-relaxed text-stone-300 md:text-lg">
-            Hộp quà trà SIPVY tuyển chọn — đóng gói trang trọng, thiệp viết tay,
-            sẵn sàng cho mọi mối quan hệ quan trọng trong dịp năm mới.
+            Hộp quà trà SIPVY gọn đẹp, kèm thiệp cá nhân hoá,
+            để gửi lời chúc đến bạn bè, người thân và đối tác dịp năm mới.
           </p>
 
           <div className="flex flex-wrap items-center gap-3">
@@ -135,7 +135,7 @@ export default function TetGiftsPage() {
           <div className="mt-10 inline-flex items-center gap-3 rounded-full border border-amber-400/30 bg-amber-300/10 px-5 py-3 backdrop-blur-sm">
             <Sparkles className="h-4 w-4 text-amber-300" aria-hidden="true" />
             <p className="text-sm text-stone-200">
-              <span className="font-bold text-amber-300">Ưu đãi đặt sớm:</span> Giảm 20% cho đơn trước 15/12 Âm lịch
+              <span className="font-bold text-amber-300">Đặt sớm:</span> chốt đơn trước 15/12 Âm lịch để kịp giao và kịp viết thiệp
             </p>
           </div>
         </StorefrontContainer>
@@ -147,9 +147,9 @@ export default function TetGiftsPage() {
           <div className="mx-auto max-w-3xl text-center">
             <SectionHeading
               align="center"
-              eyebrow="Giá trị của một hộp quà SIPVY"
-              title="Một món quà — Một thông điệp"
-              description="Tết là dịp để gửi gắm lòng biết ơn. Mỗi hộp quà SIPVY không chỉ là sản phẩm — đó là sự chỉn chu trong từng chi tiết: trà được tuyển tay, hộp được thiết kế riêng, thiệp viết tay với mực truyền thống. Trao đi một hộp quà SIPVY là trao đi sự trân trọng."
+              eyebrow="Một hộp quà SIPVY"
+              title="Một món quà — Một lời chúc"
+              description="Tết là dịp để nói lời cảm ơn. Một hộp trà gọn đẹp, một tấm thiệp ghi đúng tên người nhận, thế là đủ để món quà có chút riêng tư. Chọn combo, chọn lời chúc, SIPVY lo phần còn lại."
               className="mb-0"
             />
           </div>
@@ -216,7 +216,7 @@ export default function TetGiftsPage() {
               align="center"
               eyebrow="Lịch đặt quà Tết"
               title="Đặt sớm — nhận quà sớm"
-              description="Đơn càng sớm, ưu đãi càng cao và bạn càng an tâm về thời gian giao"
+              description="Đơn càng sớm, bạn càng rộng thời gian chọn hộp và nhận hàng"
             />
             <ol className="space-y-3">
               {TIMELINE.map((t, i) => (

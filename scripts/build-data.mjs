@@ -20,6 +20,38 @@ const FALLBACK_BY_CATEGORY = {
 const fixImage = (url, categoryId) =>
   url.includes("images.unsplash.com") ? FALLBACK_BY_CATEGORY[categoryId] : url
 
+
+// ---- Định vị "trà cho người trẻ": bỏ từ so sánh tuyệt đối, công dụng sức khỏe (xem docs/brand-guideline.md).
+// Chỉ áp dụng khi build; data/seed-data.json (nguồn) giữ nguyên.
+const nfc = (t) => String(t).normalize("NFC")
+const re = (parts, flags) => new RegExp(parts.map(nfc).join(""), flags)
+const STRIP_WORDS = re([String.raw`\s+(Thượng Hạng|Cao Cấp|Tinh Xảo)`], "g")
+const MAU_SO = re([String.raw`\s+Mẫu\s+Số\s+(\d+)$`])
+const SO = re([String.raw`\s+Số\s+(\d+)$`])
+const cleanName = (name) =>
+  nfc(name)
+    .replace(STRIP_WORDS, "")
+    .replace(MAU_SO, " Mẫu $1")
+    .replace(SO, " — Loại $1")
+    .trim()
+
+const DESCRIPTION_BY_CATEGORY = {
+  "tra-shan-tuyet": "Trà Shan Tuyết hái từ những cây chè cổ thụ trên núi cao Tây Bắc. Vị đậm, hậu ngọt, dễ pha một ấm hay một bình lớn.",
+  "tra-xanh": "Trà xanh Tân Cương Thái Nguyên với hương cốm non, vị chát nhẹ và hậu ngọt. Pha nhanh, hợp uống lúc làm việc.",
+  "tra-o-long": "Trà Ô Long lên men bán phần, hương hoa cỏ nhẹ và vị ngọt dịu. Uống nóng hay ủ lạnh đều hợp.",
+  "tra-sen": "Trà Sen ướp thủ công với hoa sen tươi, hương sen thanh nhẹ. Một món trà Việt dễ uống cho buổi chiều.",
+  "tra-thao-moc": "Trà thảo mộc hương thơm nhẹ, không chứa trà, dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm.",
+}
+const ADVICE = re([String.raw`\s*Sự lựa chọn hoàn hảo cho không gian trà đạo\.`])
+const cleanDescription = (text, categoryId) =>
+  DESCRIPTION_BY_CATEGORY[categoryId] ??
+  nfc(text || "")
+    .replace(ADVICE, "")
+    .replace(nfc("Bộ chén tống cao cấp"), nfc("Bộ chén tống"))
+    .replace(nfc("chế tác thủ công tinh xảo"), nfc("chế tác thủ công"))
+    .trim()
+const cleanSpec = (spec) => ({ ...spec, value: nfc(spec.value).replace(/^100%\s+/, "").replace(nfc("Gốm sứ cao cấp/Tử sa"), nfc("Gốm sứ / Tử sa")) })
+
 const categories = seed.categories.map((c) => ({ id: c.slug, name: c.name, slug: c.slug }))
 const catBySlug = Object.fromEntries(categories.map((c) => [c.slug, c]))
 
@@ -39,10 +71,10 @@ const products = seed.products.map((p) => {
   const spec = (labels) => p.specifications?.find((s) => labels.includes(s.label))?.value
   return {
     id: p.slug,
-    name: p.name,
+    name: cleanName(p.name),
     slug: p.slug,
-    description: p.shortDescription,
-    shortDescription: p.shortDescription,
+    description: cleanDescription(p.shortDescription, p.categoryId),
+    shortDescription: cleanDescription(p.shortDescription, p.categoryId),
     price: Math.min(...variants.map((v) => v.price)),
     originalPrice: p.originalPrice,
     origin: spec(["Xuất xứ"]),
@@ -51,7 +83,7 @@ const products = seed.products.map((p) => {
     images: [...new Set(p.images.map((url) => fixImage(url, p.categoryId)))].map((url, i) => ({
       id: `${p.slug}:img${i}`,
       url,
-      alt: p.name,
+      alt: cleanName(p.name),
       isPrimary: i === 0,
     })),
     category: catBySlug[p.categoryId],
@@ -59,7 +91,7 @@ const products = seed.products.map((p) => {
     variants,
     inStock: true,
     stockQuantity: 100,
-    specifications: p.specifications ?? [],
+    specifications: (p.specifications ?? []).map(cleanSpec),
     brewingInstructions: p.brewingInstructions ?? [],
     reviews: [],
     relatedProducts: [],

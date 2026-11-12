@@ -20,13 +20,13 @@ import { MarketingButtonLink } from "@/components/storefront/marketing-link"
 import BrewFinder from "./brew-finder"
 
 export const metadata: Metadata = {
-  title: "Hiểu về trà - Cẩm nang trà Việt từ A đến Z",
+  title: "Hiểu về trà - Cách pha trà dễ, đúng vị",
   description:
-    "Cẩm nang đầy đủ về trà Việt: phân loại trà (xanh, oolong, đen, hương hoa), hướng dẫn pha trà chuẩn, nhiệt độ - thời gian, lợi ích sức khoẻ và nghệ thuật thưởng trà.",
+    "Hướng dẫn pha trà dễ hiểu cho người mới: phân loại trà (xanh, oolong, đen, hương hoa), nhiệt độ nước, thời gian hãm, tỉ lệ trà và cách thưởng thức hằng ngày.",
   alternates: { canonical: "/hieu-ve-tra" },
   openGraph: {
-    title: "Hiểu về trà — Cẩm nang trà Việt",
-    description: "Phân loại, cách pha, lợi ích sức khoẻ và văn hoá thưởng trà",
+    title: "Hiểu về trà — Pha trà dễ, đúng vị",
+    description: "Phân loại trà, cách pha và thói quen thưởng trà mỗi ngày",
     url: "/hieu-ve-tra",
   },
 }
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
 const TEA_TYPES = [
   {
     name: "Trà Xanh",
-    desc: "Không lên men, giữ nguyên hương vị tươi mát. Giàu chất chống oxy hoá EGCG.",
+    desc: "Không lên men, giữ hương vị tươi mát, vị thanh. Hợp pha nóng hoặc ủ lạnh.",
     temp: "75–85°C",
     time: "1–2 phút",
     swatch: "bg-green-700",
@@ -48,14 +48,14 @@ const TEA_TYPES = [
   },
   {
     name: "Trà Đen",
-    desc: "Lên men hoàn toàn, vị đậm đà, hậu ngọt. Hợp với sữa và đường nâu (trà sữa).",
+    desc: "Lên men hoàn toàn, vị đậm, hậu ngọt. Hợp pha cùng sữa để làm trà sữa tại nhà.",
     temp: "95–100°C",
     time: "3–5 phút",
     swatch: "bg-stone-700",
   },
   {
     name: "Trà Hương Hoa",
-    desc: "Ướp hương sen, lài, hoa cúc. Phổ biến nhất là sen Tây Hồ truyền thống.",
+    desc: "Ướp hương sen, lài, hoa cúc. Thơm nhẹ, dễ uống, hợp cho người mới.",
     temp: "80–90°C",
     time: "2–3 phút",
     swatch: "bg-orange-700",
@@ -77,17 +77,17 @@ const BREWING_GUIDE = [
   },
   {
     title: "Pha lại nhiều lần",
-    desc: "Trà chất lượng cao có thể pha 5–7 lần. Mỗi lần tăng thời gian hãm thêm 10–20 giây; vị trà sẽ đổi qua từng lần pha.",
+    desc: "Nhiều loại trà có thể pha 5–7 lần. Mỗi lần tăng thời gian hãm thêm 10–20 giây; vị trà sẽ đổi qua từng lần pha.",
   },
 ]
 
 const BENEFITS = [
-  { icon: Zap, title: "Tăng tập trung", desc: "L-theanine và caffeine giúp tỉnh táo, tập trung." },
-  { icon: Heart, title: "Tim mạch", desc: "Polyphenol là nhóm chất được nghiên cứu về sức khoẻ tim mạch." },
-  { icon: Leaf, title: "Lối sống lành mạnh", desc: "Trà không đường là lựa chọn nhẹ nhàng thay đồ uống nhiều đường." },
-  { icon: Sparkles, title: "Chất chống oxy hoá", desc: "Giàu polyphenol, nhóm chất chống oxy hoá tự nhiên." },
-  { icon: ShieldCheck, title: "Fluoride tự nhiên", desc: "Trà có chứa fluoride tự nhiên với hàm lượng nhỏ." },
-  { icon: Moon, title: "Thư giãn", desc: "Trà hoa cúc, trà lài hương dịu, hợp để thư giãn buổi tối." },
+  { icon: Zap, title: "Có caffeine", desc: "Trà xanh, oolong, trà đen đều có caffeine; lượng khác nhau tuỳ loại và cách pha." },
+  { icon: Heart, title: "Uống cùng bạn bè", desc: "Một ấm trà nhỏ là cớ hay để ngồi lại với nhau." },
+  { icon: Leaf, title: "Tự chọn độ ngọt", desc: "Pha tại nhà nên bạn tự quyết định thêm đường, mật hay để nguyên vị trà." },
+  { icon: Sparkles, title: "Một lá trà, nhiều vị", desc: "Cùng một loài cây, cách chế biến khác nhau cho vị rất khác nhau." },
+  { icon: ShieldCheck, title: "Pha lạnh cũng được", desc: "Cold brew: ủ trà trong nước lạnh vài giờ cho vị êm, ít chát." },
+  { icon: Moon, title: "Buổi tối nhẹ nhàng", desc: "Trà thảo mộc hoặc trà hương dịu là lựa chọn quen thuộc cho buổi tối." },
 ]
 
 const TEMPERATURE_TABLE = [
@@ -104,7 +104,7 @@ const QUICK_NAV = [
   { href: "#cach-pha", label: "4 bước cơ bản" },
   { href: "#bang-tra", label: "Bảng tra nhanh" },
   { href: "#phan-loai", label: "Phân loại trà" },
-  { href: "#suc-khoe", label: "Trà & sức khoẻ" },
+  { href: "#suc-khoe", label: "Trà mỗi ngày" },
 ]
 
 const eyebrowClass = "text-xs font-semibold uppercase tracking-[0.16em] text-green-700"
@@ -123,7 +123,7 @@ export default function TeaKnowledgePage() {
           <Breadcrumb tone="dark" className="mb-10 md:mb-12" items={[{ href: "/", label: "Trang chủ" }, { label: "Hiểu về trà" }]} />
 
           <Badge className="border-0 bg-amber-300 text-amber-950 hover:bg-amber-300">
-            <Leaf className="mr-1 h-3.5 w-3.5" aria-hidden="true" /> Cẩm nang trà Việt
+            <Leaf className="mr-1 h-3.5 w-3.5" aria-hidden="true" /> Pha trà cho người mới
           </Badge>
 
           <h1 className="mt-4 max-w-[18ch] text-[clamp(2.25rem,5.4vw,4rem)] font-semibold leading-[1.05] tracking-tight text-white">
@@ -254,10 +254,10 @@ export default function TeaKnowledgePage() {
       {/* ============ HEALTH ============ */}
       <StorefrontContainer className="pt-16 md:pt-20">
         <section id="suc-khoe" aria-labelledby="health-heading" className="scroll-mt-24 rounded-[28px] bg-[#f3f1ea] p-6 md:p-12">
-          <p className={eyebrowClass}>Trà và sức khoẻ</p>
+          <p className={eyebrowClass}>Trà mỗi ngày</p>
           <h2 id="health-heading" className={headingClass}>6 điều thú vị về trà</h2>
           <p className="mt-2.5 text-sm leading-relaxed text-stone-600">
-            Thông tin mang tính tham khảo về thói quen thưởng trà, không thay thế tư vấn của bác sĩ.
+            Thông tin tham khảo về thói quen thưởng trà, không phải lời khuyên y tế hay công dụng của sản phẩm.
           </p>
           <ul className="mt-7 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
             {BENEFITS.map((b) => {
@@ -330,7 +330,7 @@ export default function TeaKnowledgePage() {
           <div className="max-w-xl">
             <h2 id="cta-heading" className="text-[clamp(1.6rem,3vw,2.1rem)] font-semibold leading-tight tracking-tight">Sẵn sàng thưởng thức?</h2>
             <p className="mt-2.5 text-base leading-relaxed text-green-100">
-              Khám phá bộ sưu tập trà SIPVY — tuyển từ các vùng trà đặc sản Việt Nam.
+              Chọn một gói trà SIPVY và pha thử ngay hôm nay.
             </p>
           </div>
           <MarketingButtonLink

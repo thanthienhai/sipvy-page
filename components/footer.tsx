@@ -62,8 +62,8 @@ export default function Footer() {
             </Link>
 
             <p className="text-sm text-green-100/90 leading-relaxed mb-5 max-w-sm">
-              Thương hiệu trà Việt cao cấp — mang hương vị trà thượng hạng từ vùng đặc sản
-              đến tách trà của bạn.
+              Trà Việt cho người trẻ — dễ pha, dễ uống,
+              hợp nhịp sống mỗi ngày.
             </p>
 
             {/* Social */}

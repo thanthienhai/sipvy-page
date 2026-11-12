@@ -17,7 +17,7 @@ const RECIPES: Recipe[] = [
   {
     tag: "Giải nhiệt & Sảng khoái",
     title: "Cold Brew Oolong Táo & Bạc Hà",
-    desc: "Thức uống sảng khoái đánh bay uể oải buổi chiều. Ủ lạnh giúp chiết xuất trọn vẹn vị ngọt axit amin tự nhiên mà không tiết ra vị đắng chát của tanin.",
+    desc: "Thức uống mát lạnh cho buổi chiều làm việc. Ủ lạnh cho vị êm, ít chát.",
     time: "Ủ 6-8 tiếng qua đêm",
     img: "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800&auto=format&fit=crop&q=80",
     thumb: "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=80&auto=format&fit=crop&q=80",
@@ -28,9 +28,9 @@ const RECIPES: Recipe[] = [
     ],
   },
   {
-    tag: "Tập trung & Tỉnh táo",
+    tag: "Matcha đá",
     title: "Matcha Oat Milk Latte Đá 60s",
-    desc: "Năng lượng bền bỉ không gây crash năng lượng. Bột matcha nghiền mịn hoà quyện cùng sữa yến mạch béo ngậy thơm ngon tuyệt hảo.",
+    desc: "Matcha đá béo nhẹ, pha trong chốc lát. Bột matcha mịn hoà cùng sữa yến mạch, thơm và dễ uống.",
     time: "60 giây chuẩn bị",
     img: "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=800&auto=format&fit=crop&q=80",
     thumb: "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=80&auto=format&fit=crop&q=80",
@@ -41,16 +41,16 @@ const RECIPES: Recipe[] = [
     ],
   },
   {
-    tag: "Gu Healthy 0g Hoá Chất",
+    tag: "Trà sữa tại nhà",
     title: "Trà Sữa Cổ Thụ Mật Mía Mộc",
-    desc: "Thoả mãn cơn thèm trà sữa mà vẫn giữ vóc dáng thon gọn. Vị đậm đà từ lá trà cổ thụ hàng trăm năm tuổi quyện cùng sữa tươi thanh trùng.",
+    desc: "Thoả cơn thèm trà sữa ngay tại nhà, tự chọn độ ngọt. Vị đậm từ lá trà cổ thụ quyện cùng sữa tươi thanh trùng.",
     time: "5 phút hãm nóng",
     img: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80",
     thumb: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80",
     steps: [
       "Hãm 1 túi Hồng Trà Cổ Thụ với 100ml nước sôi 95°C trong 5 phút để lấy cốt trà đậm đà.",
       "Thêm 1 thìa mật mía hoặc đường hoa dừa tự nhiên khuấy tan.",
-      "Thêm 100ml sữa tươi không đường và đá viên mát lạnh. Thơm đậm vị trà không quán nào sánh bằng!",
+      "Thêm 100ml sữa tươi không đường và đá viên mát lạnh. Thơm đậm vị trà, thêm đá là uống ngay!",
     ],
   },
 ]
@@ -68,7 +68,7 @@ export default function QuickRecipes() {
             Trở thành Barista tại bàn làm việc
           </span>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
-            3 công thức pha trong 3 phút
+            3 công thức dễ làm tại nhà
           </h2>
           <p className="text-slate-600 text-sm mt-2">
             Không cần máy móc hay quy trình rườm rà. Chọn công thức bạn thích để xem ngay cách làm:

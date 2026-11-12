@@ -42,7 +42,7 @@ const FAQ = [
   },
   {
     q: "Làm sao biết trà của SIPVY là thật, không pha trộn?",
-    a: "Mọi sản phẩm SIPVY đều có tem chống giả, mã QR truy xuất nguồn gốc. Trà được tuyển trực tiếp từ vùng đặc sản (Hà Giang, Mộc Châu, Bảo Lộc...) và sao thủ công theo phương pháp truyền thống.",
+    a: "Mọi sản phẩm SIPVY đều có tem chống giả, mã QR truy xuất nguồn gốc. Trà được chọn từ các vùng trà Việt Nam (Hà Giang, Mộc Châu, Bảo Lộc...).",
   },
   {
     q: "Tôi có thể đặt quà tặng doanh nghiệp với số lượng lớn không?",
