@@ -17,7 +17,7 @@ const SHOP_LINKS = [
   { href: "/san-pham?category=tra-co-thu", label: "Trà cổ thụ" },
   { href: "/san-pham?category=tra-oolong", label: "Trà oolong" },
   { href: "/san-pham?category=tra-huong-hoa", label: "Trà hương hoa" },
-  { href: "/qua-tang", label: "Quà tặng doanh nghiệp" },
+  { href: "/qua-tang", label: "Quà tặng" },
   { href: "/qua-tet", label: "Quà Tết" },
 ]
 

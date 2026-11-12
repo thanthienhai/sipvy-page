@@ -394,14 +394,14 @@ export default function Home() {
                   <ArrowRight className="ml-2 h-4 w-4" aria-hidden="true" />
                 </MarketingButtonLink>
                 <MarketingButtonLink
-                  href="/lien-he"
-                  label="Đặt riêng cho doanh nghiệp"
+                  href="/qua-tang"
+                  label="Xem quà tặng"
                   location="home_tet_banner"
                   size="lg"
                   variant="outline"
                   className="h-12 rounded-full border-stone-400/40 bg-transparent px-7 text-white hover:bg-white/10 hover:text-white"
                 >
-                  Đặt riêng cho doanh nghiệp
+                  Xem quà tặng
                 </MarketingButtonLink>
               </div>
             </div>

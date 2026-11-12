@@ -4,28 +4,27 @@ import type { Metadata } from "next"
 import {
   ChevronRight,
   Gift,
-  Crown,
-  Building2,
   Heart,
   Sparkles,
   Phone,
   ArrowRight,
-  Palette,
   Truck,
   MessageSquare,
   GraduationCap,
-  Handshake,
   Cake,
   Moon,
-  Store,
+  Home,
+  Users,
+  Briefcase,
+  PackageCheck,
+  MessageCircle,
 } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { getPublishedCombos } from "@/lib/data/combos"
-import type { StorefrontCombo } from "@/lib/data/combos"
 import { getLandingProductCards } from "@/lib/data/products"
-import { PROOF_STATS, SITE_CONTACT, publishable } from "@/lib/site-config"
+import { SITE_CONTACT } from "@/lib/site-config"
 import { ComboGrid } from "@/components/combo/combo-grid"
 import Breadcrumb from "@/components/storefront/breadcrumb"
 import EditorialHero from "@/components/storefront/editorial-hero"
@@ -37,44 +36,51 @@ import TrustSection from "@/components/storefront/trust-section"
 import { MarketingButtonLink } from "@/components/storefront/marketing-link"
 
 export const metadata: Metadata = {
-  title: "Quà tặng trà | Quà tặng doanh nghiệp & cá nhân",
+  title: "Quà tặng trà cho người thân, bạn bè | SIPVY",
   description:
-    "Hộp quà trà SIPVY cho bạn bè, đồng nghiệp, đối tác và sự kiện. Hỗ trợ thiết kế hộp riêng theo thương hiệu, kèm thiệp cá nhân hoá. Báo giá nhanh trong 24h.",
+    "Tìm quà biếu, quà tặng gọn đẹp: hộp trà dễ pha cho bạn bè, người yêu, bố mẹ, đồng nghiệp. Kèm thiệp lời nhắn, giao đến tận tay người nhận.",
   alternates: { canonical: "/qua-tang" },
   openGraph: {
     title: "Quà tặng trà SIPVY",
-    description: "Hộp quà trà gọn đẹp cho bạn bè, đồng nghiệp và doanh nghiệp",
+    description: "Hộp quà trà gọn đẹp để tặng bạn bè, người yêu, bố mẹ, đồng nghiệp",
     url: "/qua-tang",
-    images: [{ url: "/og.png", width: 1200, height: 676, alt: "Quà tặng trà SIPVY" }],
+    images: [{ url: "/og.png", width: 1200, height: 630, alt: "Quà tặng trà SIPVY" }],
   },
 }
 
 const OCCASIONS = [
   { icon: Sparkles, label: "Quà Tết", href: "/qua-tet" },
-  { icon: Heart, label: "Quà cưới" },
-  { icon: GraduationCap, label: "Tốt nghiệp" },
-  { icon: Handshake, label: "Tri ân khách" },
-  { icon: Crown, label: "Mừng thọ" },
   { icon: Cake, label: "Sinh nhật" },
+  { icon: Home, label: "Tân gia" },
+  { icon: GraduationCap, label: "Tốt nghiệp" },
+  { icon: Heart, label: "Kỷ niệm" },
+  { icon: MessageCircle, label: "Cảm ơn" },
+  { icon: Users, label: "Biếu bố mẹ" },
   { icon: Moon, label: "Trung Thu" },
-  { icon: Store, label: "Khai trương" },
+]
+
+const RECIPIENTS = [
+  { icon: Users, title: "Tặng bạn bè", desc: "Hộp nhỏ, dễ pha, uống ngay không cần dụng cụ cầu kỳ. Hợp quà sinh nhật, tân gia, tốt nghiệp." },
+  { icon: Heart, title: "Tặng người yêu", desc: "Một hộp trà gọn đẹp kèm vài dòng của riêng bạn. Nhẹ nhàng, không cần dịp đặc biệt." },
+  { icon: Home, title: "Biếu bố mẹ, ông bà", desc: "Chọn các dòng trà quen vị như Shan Tuyết, sen, ô long. Hộp chắc chắn, dễ cất, dễ dùng." },
+  { icon: Briefcase, title: "Đồng nghiệp, sếp", desc: "Quà tinh tế, vừa phải, không quá cầu kỳ. Hợp cảm ơn, chia tay dự án hay đầu năm." },
 ]
 
 const SERVICES = [
   {
-    icon: Palette,
-    title: "Thiết kế riêng",
-    desc: "SIPVY hỗ trợ thiết kế hộp, nhãn in logo, lời nhắn theo nhận diện thương hiệu của bạn",
+    icon: PackageCheck,
+    title: "Đóng gói sẵn để tặng",
+    desc: "Hộp quà gọn đẹp, có thể kèm ruy băng. Nhận về là tặng được ngay.",
   },
   {
     icon: MessageSquare,
-    title: "Thiệp cá nhân hoá",
-    desc: "Thiệp viết tay hoặc khắc laser, tuỳ chỉnh từng tên người nhận khác nhau",
+    title: "Thiệp kèm lời nhắn",
+    desc: "Bạn viết lời nhắn trong ghi chú đơn, SIPVY ghi vào thiệp theo tên người nhận.",
   },
   {
     icon: Truck,
-    title: "Giao đa địa điểm",
-    desc: "Giao đến nhiều địa chỉ trong cùng một đơn hàng, thời gian giao dự kiến 2–5 ngày làm việc",
+    title: "Giao đến người nhận",
+    desc: "Điền địa chỉ người nhận ngay trong đơn. Thời gian giao dự kiến 2–5 ngày làm việc, nên đặt sớm hơn dịp tặng vài ngày.",
   },
 ]
 
@@ -84,7 +90,7 @@ export default function GiftPage() {
     8,
   )
   const combos = getPublishedCombos(6)
-  const businessProof = publishable([PROOF_STATS.businessClients])[0]
+  const hasCombos = combos.length > 0
 
   return (
     <>
@@ -107,40 +113,40 @@ export default function GiftPage() {
 
           <Badge className="mb-4 rounded-full border border-amber-200 bg-amber-50 text-amber-900 hover:bg-amber-50">
             <Sparkles className="mr-1.5 h-3 w-3" aria-hidden="true" />
-            Bộ sưu tập quà tặng
+            Quà biếu, quà tặng
           </Badge>
 
           <h1 className="mb-5 max-w-3xl text-4xl font-bold leading-tight tracking-tight text-stone-900 md:text-5xl lg:text-6xl">
-            Tặng trà — Tặng một
-            <span className="block text-green-800">khoảng nghỉ cho người thương</span>
+            Quà trà dễ tặng
+            <span className="block text-green-800">cho người bạn quý</span>
           </h1>
 
           <p className="mb-7 max-w-2xl text-base leading-relaxed text-stone-700 md:text-lg">
-            Hộp quà trà SIPVY: gọn đẹp, dễ tặng, kèm thiệp cá nhân hoá.
-            Hợp nhiều dịp — từ quà sinh nhật cho bạn bè đến quà tri ân khách hàng.
+            Chưa biết tặng gì? Một hộp trà gọn đẹp, kèm thiệp lời nhắn của bạn là đủ.
+            Hợp quà sinh nhật, tân gia, tốt nghiệp, cảm ơn, hay biếu bố mẹ.
           </p>
 
           <div className="flex flex-wrap gap-3">
             <MarketingButtonLink
               href="#packages"
-              label="Xem các gói quà"
+              label="Chọn quà theo người nhận"
               location="gift_hero"
               size="lg"
               className="h-12 rounded-full bg-green-800 px-7 text-white shadow-md hover:bg-green-900"
             >
               <Gift className="mr-2 h-4 w-4" aria-hidden="true" />
-              Xem các gói quà
+              Chọn quà theo người nhận
             </MarketingButtonLink>
             <MarketingButtonLink
               href="#quote"
-              label="Báo giá doanh nghiệp"
+              label="Nhờ SIPVY gợi ý"
               location="gift_hero"
               size="lg"
               variant="outline"
               className="h-12 rounded-full border-stone-300 px-7 text-stone-700 hover:bg-stone-100"
             >
-              <Building2 className="mr-2 h-4 w-4" aria-hidden="true" />
-              Báo giá doanh nghiệp
+              <MessageCircle className="mr-2 h-4 w-4" aria-hidden="true" />
+              Nhờ SIPVY gợi ý
             </MarketingButtonLink>
           </div>
         </StorefrontContainer>
@@ -149,7 +155,7 @@ export default function GiftPage() {
       {/* ============ OCCASIONS ============ */}
       <section className="storefront-section border-b border-stone-100 bg-white">
         <StorefrontContainer>
-          <SectionHeading align="center" eyebrow="Mọi dịp" title="Gợi ý cho những dịp bạn cần một món quà" />
+          <SectionHeading align="center" eyebrow="Dịp nào cũng có" title="Bạn đang cần quà cho dịp gì?" />
           <ul className="grid grid-cols-2 gap-2 sm:grid-cols-4 md:grid-cols-8 md:gap-3">
             {OCCASIONS.map((o) => {
               const Icon = o.icon
@@ -181,22 +187,44 @@ export default function GiftPage() {
         </StorefrontContainer>
       </section>
 
-      {/* ============ COMBOS ============ */}
-      <ProductRail
-        id="packages"
-        className="bg-stone-50"
-        eyebrow="Combo quà tặng có sẵn"
-        title="Chọn combo phù hợp với mục đích"
-        description="Giá và tình trạng còn hàng được cập nhật theo tồn kho thực tế của từng sản phẩm trong combo."
-      >
-        <ComboGrid combos={combos} />
-      </ProductRail>
+      {/* ============ TẶNG AI ============ */}
+      <section id="packages" className="storefront-section bg-stone-50">
+        <StorefrontContainer>
+          <SectionHeading align="center" eyebrow="Tặng ai?" title="Chọn quà theo người nhận" />
+          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {RECIPIENTS.map((r) => {
+              const Icon = r.icon
+              return (
+                <li key={r.title} className="rounded-xl border border-stone-200 bg-white p-6">
+                  <div className="mb-3 inline-flex h-11 w-11 items-center justify-center rounded-full bg-amber-50 text-amber-800">
+                    <Icon className="h-5 w-5" aria-hidden="true" />
+                  </div>
+                  <h3 className="mb-1.5 font-bold text-stone-900">{r.title}</h3>
+                  <p className="text-sm leading-relaxed text-stone-600">{r.desc}</p>
+                </li>
+              )
+            })}
+          </ul>
+        </StorefrontContainer>
+      </section>
+
+      {/* ============ COMBOS (chỉ hiện khi đã có combo) ============ */}
+      {hasCombos && (
+        <ProductRail
+          className="bg-white"
+          eyebrow="Combo quà tặng có sẵn"
+          title="Chọn combo phù hợp"
+          description="Giá và tình trạng còn hàng được cập nhật theo từng sản phẩm trong combo."
+        >
+          <ComboGrid combos={combos} />
+        </ProductRail>
+      )}
 
       {display.length > 0 && (
         <ProductRail
-          className="bg-white"
-          title="Sản phẩm quà tặng"
-          description="Lựa chọn riêng lẻ cho bộ quà của bạn"
+          className={hasCombos ? "bg-stone-50" : "bg-white"}
+          title="Trà để làm quà"
+          description="Chọn từng hộp trà, hoặc nhắn SIPVY để ghép hộp riêng theo ngân sách của bạn."
           action={
             <Button asChild variant="outline" className="rounded-full border-stone-300 text-stone-800">
               <Link href="/san-pham">
@@ -216,7 +244,11 @@ export default function GiftPage() {
       )}
 
       {/* ============ SERVICES ============ */}
-      <TrustSection title="Dịch vụ kèm theo" description="Mọi thứ bạn cần để hộp quà thật chỉn chu" className="bg-stone-50">
+      <TrustSection
+        title="Để món quà thật chỉn chu"
+        description="Bạn chọn trà, phần còn lại SIPVY lo"
+        className={hasCombos ? "bg-white" : "bg-stone-50"}
+      >
         <ul className="grid gap-5 md:grid-cols-3 md:gap-6">
           {SERVICES.map((s) => {
             const Icon = s.icon
@@ -233,16 +265,16 @@ export default function GiftPage() {
         </ul>
       </TrustSection>
 
-      {/* ============ QUOTE CTA ============ */}
+      {/* ============ CTA ============ */}
       <section id="quote" className="storefront-section bg-green-900 text-stone-100">
         <StorefrontContainer>
           <div className="mx-auto max-w-3xl text-center">
-            <Building2 className="mx-auto mb-4 h-12 w-12 text-amber-300" aria-hidden="true" />
+            <Gift className="mx-auto mb-4 h-12 w-12 text-amber-300" aria-hidden="true" />
             <SectionHeading
               tone="inverse"
               align="center"
-              title="Báo giá quà doanh nghiệp trong 24h"
-              description="Liên hệ ngay để được tư vấn thiết kế riêng. Hỗ trợ in logo, đóng gói theo nhận diện thương hiệu, giao hàng đến nhiều địa chỉ."
+              title="Chưa biết chọn gì? Nhắn SIPVY"
+              description="Cho SIPVY biết bạn tặng ai, dịp gì và ngân sách khoảng bao nhiêu. SIPVY gợi ý hộp phù hợp để bạn chốt nhanh."
               className="mb-8"
             />
             <div className="flex flex-wrap justify-center gap-3">
@@ -254,21 +286,16 @@ export default function GiftPage() {
               </Button>
               <MarketingButtonLink
                 href="/lien-he"
-                label="Gửi yêu cầu báo giá"
+                label="Nhờ gợi ý quà"
                 location="gift_quote"
                 size="lg"
                 variant="outline"
                 className="h-12 rounded-full border-stone-400/40 bg-transparent px-7 text-white hover:bg-white/10 hover:text-white"
               >
-                Gửi yêu cầu báo giá
+                Nhờ gợi ý quà
                 <ArrowRight className="ml-2 h-4 w-4" aria-hidden="true" />
               </MarketingButtonLink>
             </div>
-            {businessProof && (
-              <p className="mt-6 text-xs text-stone-300">
-                <strong className="text-stone-100">{businessProof.value}</strong> {businessProof.label.toLowerCase()} trên toàn quốc
-              </p>
-            )}
           </div>
         </StorefrontContainer>
       </section>
