@@ -423,7 +423,7 @@ export default function Home() {
         className="bg-gradient-to-br from-stone-50 to-amber-50/30"
         icon={<Gift className="h-6 w-6" aria-hidden="true" />}
         title="Đăng ký nhận ưu đãi 10%"
-        description="Đăng ký nhận tin để cập nhật bộ sưu tập mới, mẹo pha trà và mã giảm giá độc quyền."
+        description="Đăng ký nhận tin để cập nhật bộ sưu tập mới, mẹo pha trà và ưu đãi từ SIPVY."
       />
     </>
   )

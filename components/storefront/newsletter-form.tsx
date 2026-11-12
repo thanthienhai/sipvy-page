@@ -46,7 +46,7 @@ export default function NewsletterForm({ source = "website", className }: Newsle
         consent,
       })
       setDone(true)
-      toast({ title: "Đăng ký thành công", description: "Mã giảm giá sẽ được gửi qua email của bạn." })
+      toast({ title: "Đăng ký thành công", description: "SIPVY sẽ gửi ưu đãi và cẩm nang qua email của bạn." })
     } catch (err) {
       const message = err instanceof Error ? err.message : "Lỗi đăng ký, vui lòng thử lại"
       setError(message)
@@ -63,7 +63,7 @@ export default function NewsletterForm({ source = "website", className }: Newsle
         className={cn("flex items-center justify-center gap-2 rounded-full border-2 border-green-200 bg-green-100 px-6 py-3 font-medium text-green-900", className)}
       >
         <CheckCircle2 className="h-5 w-5 shrink-0" aria-hidden="true" />
-        Cảm ơn bạn đã đăng ký! Mã giảm giá sẽ được gửi qua email.
+        Cảm ơn bạn đã đăng ký! SIPVY sẽ gửi ưu đãi và cẩm nang qua email.
       </div>
     )
   }
@@ -80,7 +80,7 @@ export default function NewsletterForm({ source = "website", className }: Newsle
           className="absolute -left-[9999px] h-px w-px opacity-0"
           aria-hidden="true"
         />
-        <label htmlFor={emailId} className="sr-only">Email nhận tin và mã giảm giá</label>
+        <label htmlFor={emailId} className="sr-only">Email nhận tin ưu đãi</label>
         <Mail className="pointer-events-none absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-stone-600" aria-hidden="true" />
         <input
           id={emailId}

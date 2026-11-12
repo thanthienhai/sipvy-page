@@ -6,6 +6,8 @@ import Link from "next/link"
 import { useCart } from "@/contexts/cart-context"
 import { toast } from "@/hooks/use-toast"
 import { Button } from "@/components/ui/button"
+import { getProductBySlug } from "@/lib/data/products"
+import { formatVnd } from "@/lib/format"
 
 interface MoodData {
   key: string
@@ -14,102 +16,97 @@ interface MoodData {
   badge: string
   title: string
   desc: string
-  productName: string
   slug: string
-  price: number
-  priceFormatted: string
   prepTime: string
   tip: string
-  img: string
-  avatar: string
 }
 
 const MOODS: MoodData[] = [
   {
     key: "deadline",
     label: "Cày Deadline",
-    sub: "Tỉnh táo êm đềm 6 tiếng, không run tay",
+    sub: "Trà đậm vị cho buổi làm việc dài",
     badge: "Chế độ: Deadline Slayer",
-    title: "Matcha Shan Tuyết & Cold Brew Đậm Vị",
-    desc: "Lượng caffeine tự nhiên từ búp chè cổ thụ kết hợp L-Theanine giải phóng năng lượng từ từ, giúp bạn ngồi lì 5-6 tiếng tập trung cao độ mà không hề bị run tay hay mệt lả sau đó.",
-    productName: "Bột Matcha Shan Tuyết Cổ Thụ (50g)",
+    title: "Shan Tuyết đậm vị cho buổi làm việc dài",
+    desc: "Trà Shan Tuyết cổ thụ hậu vị đậm, ngọt dịu. Hợp để pha một bình lớn đặt cạnh bàn làm việc.",
     slug: "tra-tra-shan-tuyet-1",
-    price: 185000,
-    priceFormatted: "185.000đ",
     prepTime: "60 giây đánh bọt",
     tip: "Mẹo nhỏ: Pha cùng sữa yến mạch (Oat milk) thêm chút đá viên để có ly latte chuẩn quán.",
-    img: "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=800&auto=format&fit=crop&q=80",
-    avatar: "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=160&auto=format&fit=crop&q=80",
   },
   {
     key: "chill",
     label: "Xả Stress, Relax",
-    sub: "Thư giãn đầu óc, an thần ngủ sâu",
+    sub: "Trà thảo mộc dịu nhẹ buổi tối",
     badge: "Chế độ: Anti-Stress Calm",
-    title: "Trà Hoa Cúc Tiến Vua & Kỷ Tử Đỏ",
-    desc: "0% caffeine, hương thơm hoa cúc dịu nhẹ làm giãn các cơ bắp căng thẳng sau 8 tiếng dán mắt vào màn hình máy tính. Giúp an thần và đi vào giấc ngủ sâu êm ái.",
-    productName: "Trà Thảo Mộc Hoa Cúc & Táo Đỏ",
+    title: "Trà thảo mộc dịu nhẹ buổi tối",
+    desc: "Trà thảo mộc hương thơm nhẹ, không chứa trà nên dễ uống vào buổi tối. Hãm nóng và thưởng thức chậm sau một ngày dài.",
     slug: "tra-tra-thao-moc-35",
-    price: 139000,
-    priceFormatted: "139.000đ",
     prepTime: "3 phút hãm nóng",
     tip: "Mẹo nhỏ: Thưởng thức lúc 21:00 tối kết hợp nghe playlist Lofi chill.",
-    img: "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=800&auto=format&fit=crop&q=80",
-    avatar: "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=160&auto=format&fit=crop&q=80",
   },
   {
     key: "glow",
-    label: "Skincare & Đẹp Da",
-    sub: "Vị thanh nhẹ, hậu ngọt dịu",
-    badge: "Chế độ: Inner Glow",
-    title: "Bạch Trà Shan Tuyết Đỉnh Tây Côn Lĩnh",
+    label: "Nhẹ Nhàng Thanh Vị",
+    sub: "Vị thanh, hậu ngọt dịu",
+    badge: "Chế độ: Thanh Vị",
+    title: "Shan Tuyết thanh nhẹ, hậu ngọt",
     desc: "Hương vị thanh nhẹ, hậu ngọt dịu từ búp mầm Shan Tuyết Tây Côn Lĩnh. Hợp để thưởng thức nhẹ nhàng trong ngày.",
-    productName: "Bạch Trà Shan Tuyết Búp Mầm (15 túi)",
     slug: "tra-tra-shan-tuyet-1",
-    price: 165000,
-    priceFormatted: "165.000đ",
     prepTime: "Ủ lạnh 4 tiếng",
     tip: "Mẹo nhỏ: Thả thêm 2 lát dưa chuột hoặc chanh vàng vào bình nước để thêm hương thơm mát.",
-    img: "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=800&auto=format&fit=crop&q=80",
-    avatar: "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=160&auto=format&fit=crop&q=80",
   },
   {
     key: "milktea",
     label: "Thèm Trà Sữa",
-    sub: "Đậm vị béo mộc, 0g béo hoá học",
-    badge: "Chế độ: Gu Trà Sữa Healthy 0g Hoá Chất",
-    title: "Hồng Trà Cổ Thụ Tà Xùa Đậm Vị",
-    desc: "Thoả mãn cơn thèm trà sữa mà không lo tăng cân! Cốt trà hái từ búp chè lên men tự nhiên cực kỳ dậy mùi thơm mật ong và hoa quả chín, quyện cùng sữa tươi là đỉnh nóc kịch trần.",
-    productName: "Set Tự Pha Trà Sữa Cổ Thụ (15 túi)",
+    sub: "Thơm dịu, hợp pha cùng sữa",
+    badge: "Chế độ: Trà Sữa Mộc",
+    title: "Ô Long thơm dịu, hợp pha cùng sữa",
+    desc: "Ô Long thơm dịu, hậu ngọt. Pha đậm rồi thêm sữa và đá để có ly trà sữa mộc tại bàn làm việc.",
     slug: "tra-tra-o-long-21",
-    price: 119000,
-    priceFormatted: "119.000đ",
     prepTime: "5 phút tại bàn làm việc",
     tip: "Mẹo nhỏ: Dùng sữa tươi thanh trùng + 1 thìa mật ong nguyên chất, ngon ngậy mà cực lành mạnh.",
-    img: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80",
-    avatar: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=160&auto=format&fit=crop&q=80",
   },
 ]
+
+/** Lấy tên, giá, ảnh từ danh mục thật (không viết cứng giá ở đây). */
+function resolveProduct(slug: string) {
+  const product = getProductBySlug(slug)
+  if (!product) return null
+  const variant = product.weight[0]
+  return {
+    product,
+    variant,
+    name: `${product.name}${variant ? ` (${variant.weight})` : ""}`,
+    price: variant?.price ?? product.price,
+    image: product.images?.[0]?.url ?? "/products/placeholder.jpg",
+  }
+}
 
 export default function MoodMatcher() {
   const [selectedKey, setSelectedKey] = useState("deadline")
   const { addToCart } = useCart()
 
-  const current = MOODS.find((m) => m.key === selectedKey) || MOODS[0]
+  const mood = MOODS.find((m) => m.key === selectedKey) || MOODS[0]
+  const resolved = resolveProduct(mood.slug)
+  if (!resolved) return null
+  const current = { ...mood, productName: resolved.name, priceFormatted: formatVnd(resolved.price), img: resolved.image }
 
   const handleQuickAdd = () => {
+    const { product, variant } = resolved
     addToCart({
-      productId: current.slug,
-      variantId: `${current.slug}-default`,
-      name: current.productName,
-      slug: current.slug,
-      price: current.price,
-      weight: "Tiêu chuẩn",
-      image: current.img,
+      productId: product.id,
+      variantId: variant?.id ?? `${product.id}:0`,
+      name: product.name,
+      slug: product.slug,
+      sku: variant?.sku,
+      price: resolved.price,
+      weight: variant?.weight ?? "Tiêu chuẩn",
+      boxType: variant?.boxType,
+      image: resolved.image,
       quantity: 1,
     })
     toast({
-      title: "Đã thêm vào giỏ hàng!",
+      title: "Đã thêm vào giỏ hàng",
       description: `${current.productName} (${current.priceFormatted})`,
     })
   }
@@ -147,7 +144,7 @@ export default function MoodMatcher() {
               >
                 <div className="relative w-14 h-14 rounded-xl overflow-hidden shrink-0 border border-slate-200">
                   <Image
-                    src={mood.avatar}
+                    src={resolveProduct(mood.slug)?.image ?? "/products/placeholder.jpg"}
                     alt={mood.label}
                     fill
                     sizes="60px"

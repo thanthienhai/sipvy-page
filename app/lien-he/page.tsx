@@ -57,8 +57,8 @@ const FAQ = [
     a: "Hiện tại chúng tôi chỉ bán online và đang xây dựng cửa hàng trải nghiệm đầu tiên tại Hà Nội. Bạn có thể đặt hẹn tham quan kho/xưởng tại Bắc Ninh qua hotline.",
   },
   {
-    q: "Có chương trình thành viên hoặc tích điểm không?",
-    a: "Có. Khi đăng ký tài khoản, bạn tự động trở thành thành viên SIPVY. Mỗi đơn hàng tích 1% giá trị về ví, có thể dùng cho lần mua sau. Sinh nhật được tặng voucher 10%.",
+    q: "Đặt hàng trên website như thế nào?",
+    a: "Thêm sản phẩm vào giỏ, điền thông tin nhận hàng và gửi yêu cầu. SIPVY sẽ gọi hoặc nhắn xác nhận đơn, phí giao hàng và cách thanh toán (COD hoặc chuyển khoản). Website không thanh toán online và không cần tạo tài khoản.",
   },
 ]
 
@@ -66,7 +66,7 @@ const CONTACT_CHANNELS = [
   {
     icon: MessageCircle,
     title: "Messenger / Zalo",
-    description: "Hỏi nhanh về sản phẩm, tồn kho, mã giảm giá.",
+    description: "Hỏi nhanh về sản phẩm, tồn kho, đơn hàng.",
     cta: "Nhắn tin ngay",
     href: "https://m.me/sipvy",
     badge: "Nhanh nhất",

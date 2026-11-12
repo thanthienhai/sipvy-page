@@ -89,7 +89,7 @@ export default function ReturnPolicyPage() {
           "Bước 1: Gửi mã đơn, mô tả lỗi và ảnh/video qua hotline hoặc email.",
           "Bước 2: SIPVY xác minh trong tối đa 2 ngày làm việc và hướng dẫn đóng gói.",
           "Bước 3: Đổi sản phẩm hoặc hoàn tiền theo kết quả xác minh; SIPVY chịu phí vận chuyển khi lỗi thuộc về SIPVY/đối tác.",
-          "Khoản hoàn tiền được xử lý về phương thức thanh toán ban đầu; thời gian ngân hàng/cổng thanh toán ghi có thường 3–7 ngày làm việc."
+          "Với đơn đã chuyển khoản, khoản hoàn tiền được chuyển lại về tài khoản ngân hàng bạn cung cấp, thường trong 3–7 ngày làm việc. Đơn COD chưa thanh toán thì không phát sinh hoàn tiền."
         ]
       },
       {

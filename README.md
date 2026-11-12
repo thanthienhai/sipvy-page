@@ -75,8 +75,8 @@ Lưu ý kỹ thuật: trình duyệt gửi bằng `fetch(..., { mode: "no-cors" 
 ## Cần rà trước khi công bố
 
 - **Ảnh sản phẩm là ảnh mẫu.** Dữ liệu seed gốc dùng ảnh Unsplash (đa số đã chết), nên script thay bằng 6 ảnh có sẵn theo danh mục. Cần ảnh thật.
-- **Trang "Trà cho GenZ"** có sản phẩm và giá viết cứng (ví dụ "Bột Matcha 185.000đ") không khớp danh mục. Khách thêm các món này vào giỏ thì đơn mang giá viết cứng. Cần đồng bộ hoặc bỏ.
-- **Đăng ký nhận tin** hứa "mã giảm giá gửi qua email". Không có gì tự gửi, SIPVY phải gửi thủ công từ danh sách trong Sheet.
-- **Chính sách bảo mật / điều khoản** được sao nguyên từ hệ thống đầy đủ; còn nhắc tới tài khoản, thanh toán online… cần sửa cho đúng với bản tĩnh.
+- **Trang "Trà cho GenZ"**: gợi ý theo tâm trạng đã lấy tên, giá, ảnh từ danh mục thật. Trình tự mix hộp có giá viết cứng đã bị gỡ. Phần mô tả, công thức pha và lời bình trên trang vẫn là nội dung marketing sao từ bản gốc, cần rà.
+- **Đăng ký nhận tin**: không có mã giảm giá tự động. SIPVY gửi ưu đãi thủ công từ danh sách trong Sheet.
+- **Chính sách bảo mật / điều khoản / đổi trả** đã sửa cho đúng bản tĩnh (không tài khoản, không thanh toán online). Nên nhờ người am hiểu pháp lý đọc lại trước khi công bố.
 - Dữ liệu cá nhân (tên, SĐT, địa chỉ) lưu ở Google Sheet của bạn: giới hạn quyền chia sẻ Sheet, và có dòng đồng ý xử lý dữ liệu (đã có trong form).
 - Một số nội dung giữ nguyên từ bản gốc ("Sale Quà Tết -20%", mốc ưu đãi theo ngày âm lịch…), hãy chắc chúng còn đúng.

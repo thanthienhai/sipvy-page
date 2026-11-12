@@ -11,7 +11,7 @@ const POLICIES = [
   { href: "/chinh-sach-van-chuyen", title: "Chính sách vận chuyển", summary: "Giao 2–5 ngày, miễn phí từ 500.000₫" },
   { href: "/chinh-sach-doi-tra", title: "Chính sách đổi trả", summary: "Đổi hoặc hoàn tiền trong 7 ngày" },
   { href: "/chinh-sach-bao-mat", title: "Chính sách bảo mật", summary: "Cách SIPVY bảo vệ dữ liệu của bạn" },
-  { href: "/dieu-khoan", title: "Điều khoản sử dụng", summary: "Tài khoản, đặt hàng và thanh toán" },
+  { href: "/dieu-khoan", title: "Điều khoản sử dụng", summary: "Đặt hàng, thanh toán và sử dụng website" },
 ] as const
 
 type PolicyHref = (typeof POLICIES)[number]["href"]

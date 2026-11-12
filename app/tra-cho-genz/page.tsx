@@ -17,7 +17,6 @@ import ProductRail from "@/components/storefront/product-rail"
 import StorefrontContainer from "@/components/storefront/storefront-container"
 
 import MoodMatcher from "./mood-matcher"
-import CustomBoxBuilder from "./custom-box-builder"
 import QuickRecipes from "./quick-recipes"
 
 export const metadata: Metadata = {
@@ -44,13 +43,13 @@ export default function GenZPage() {
       {/* ============ TOP PROMO BAR ============ */}
       <div className="bg-gradient-to-r from-emerald-800 via-emerald-700 to-teal-700 text-white text-xs py-2.5 px-4 text-center font-medium flex items-center justify-center gap-2.5">
         <span className="inline-block px-2 py-0.5 rounded-full bg-white/20 text-white font-bold text-[10px] uppercase tracking-wider">
-          Ưu đãi Gen Z
+          Trà cho Gen Z
         </span>
         <span>
-          Tặng <strong>Bình Cold Brew Borosilicate 450ml</strong> cho đơn từ 299k. Freeship hoả tốc nội thành.
+          Chọn trà theo tâm trạng, thêm vào giỏ và gửi yêu cầu đặt hàng. SIPVY liên hệ xác nhận từng đơn.
         </span>
-        <a href="#mix-box" className="underline underline-offset-4 hover:text-emerald-200 font-semibold ml-1">
-          Tự mix combo ngay →
+        <a href="#mood-matcher" className="underline underline-offset-4 hover:text-emerald-200 font-semibold ml-1">
+          Chọn trà ngay →
         </a>
       </div>
 
@@ -131,7 +130,7 @@ export default function GenZPage() {
                   </a>
                 </Button>
                 <Button asChild size="lg" variant="outline" className="h-12 rounded-xl border-slate-300 bg-white hover:bg-slate-50 text-slate-900 font-bold text-sm px-7">
-                  <a href="#mix-box">Tự mix combo cá nhân</a>
+                  <a href="#products">Xem sản phẩm</a>
                 </Button>
               </div>
 
@@ -247,9 +246,6 @@ export default function GenZPage() {
 
       {/* ============ INTERACTIVE 1: MOOD MATCHER ============ */}
       <MoodMatcher />
-
-      {/* ============ INTERACTIVE 2: CUSTOM BOX BUILDER ============ */}
-      <CustomBoxBuilder />
 
       {/* ============ INTERACTIVE 3: QUICK RECIPES ============ */}
       <QuickRecipes />
