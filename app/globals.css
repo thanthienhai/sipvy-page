@@ -333,3 +333,14 @@
   }
 }
 
+
+/* Trang Quà Tết: lồng đèn đung đưa nhẹ */
+@keyframes tet-sway {
+  0%, 100% { transform: rotate(-4deg); }
+  50% { transform: rotate(4deg); }
+}
+.tet-sway { transform-origin: top center; animation: tet-sway 4s ease-in-out infinite; }
+.tet-sway-slow { animation-duration: 5.5s; }
+@media (prefers-reduced-motion: reduce) {
+  .tet-sway { animation: none; }
+}

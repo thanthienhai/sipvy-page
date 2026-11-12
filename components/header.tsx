@@ -329,7 +329,7 @@ export default function Header() {
               </span>
               <span className="hidden md:inline">🚚 Giao hàng toàn quốc 2–5 ngày làm việc</span>
               <Link href="/qua-tet" className="font-medium text-amber-300 hover:text-amber-200">
-                🎁 Quà Tết 2026: đặt sớm để kịp giao
+                🎁 Quà Tết 2027: đặt sớm để kịp giao
               </Link>
               <Button
                 variant="ghost"

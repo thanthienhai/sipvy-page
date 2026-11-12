@@ -378,7 +378,7 @@ export default function Home() {
                     <Gift className="h-3 w-3" aria-hidden="true" /> Bộ sưu tập đặc biệt
                   </span>
                 }
-                title="Quà Tết SIPVY 2026 — Trà Việt đón Tết"
+                title="Quà Tết SIPVY 2027 — Chén trà đầu xuân"
                 description="Hộp quà trà gọn đẹp, kèm thiệp cá nhân hóa. Đặt sớm để được hỗ trợ thiết kế và có thêm thời gian giao hàng."
                 className="mb-6"
               />
