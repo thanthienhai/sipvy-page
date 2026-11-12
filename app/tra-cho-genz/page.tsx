@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     title: "Trà cho người trẻ | SIPVY",
     description: "Cold brew, matcha, trà sữa mộc: pha nhanh tại bàn làm việc, tự chọn độ ngọt",
     url: "/tra-cho-genz",
-    images: [{ url: "/banner/banner_tra-1200.webp", width: 1200, height: 676, alt: "Trà SIPVY cho người trẻ" }],
+    images: [{ url: "/og.png", width: 1200, height: 676, alt: "Trà SIPVY cho người trẻ" }],
   },
 }
 
@@ -86,7 +86,7 @@ export default function GenZPage() {
                 <span className="px-3.5 py-1.5 bg-white border border-slate-200 rounded-xl text-xs text-slate-800 font-semibold flex items-center gap-2 shadow-2xs">
                   <span className="relative w-5 h-5 rounded-md overflow-hidden shrink-0">
                     <Image
-                      src="https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=60&auto=format&fit=crop&q=80"
+                      src="/art/cat-xanh.svg"
                       alt="Cold brew"
                       fill
                       sizes="20px"
@@ -98,7 +98,7 @@ export default function GenZPage() {
                 <span className="px-3.5 py-1.5 bg-white border border-slate-200 rounded-xl text-xs text-slate-800 font-semibold flex items-center gap-2 shadow-2xs">
                   <span className="relative w-5 h-5 rounded-md overflow-hidden shrink-0">
                     <Image
-                      src="https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=60&auto=format&fit=crop&q=80"
+                      src="/art/cat-o-long.svg"
                       alt="Matcha"
                       fill
                       sizes="20px"
@@ -110,7 +110,7 @@ export default function GenZPage() {
                 <span className="px-3.5 py-1.5 bg-white border border-slate-200 rounded-xl text-xs text-slate-800 font-semibold flex items-center gap-2 shadow-2xs">
                   <span className="relative w-5 h-5 rounded-md overflow-hidden shrink-0">
                     <Image
-                      src="https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=60&auto=format&fit=crop&q=80"
+                      src="/art/cat-thao-moc.svg"
                       alt="Tea leaf"
                       fill
                       sizes="20px"
@@ -153,7 +153,7 @@ export default function GenZPage() {
                 <div className="relative bg-white p-4 sm:p-5 rounded-3xl shadow-xl border border-slate-200/80 overflow-hidden">
                   <div className="relative h-[380px] sm:h-[420px] rounded-2xl overflow-hidden group">
                     <Image
-                      src="https://images.unsplash.com/photo-1556881286-fc6915169721?w=800&auto=format&fit=crop&q=80"
+                      src="/art/story.svg"
                       alt="Ly Cold Brew Trà thảo mộc tươi mát"
                       fill
                       priority
@@ -185,7 +185,7 @@ export default function GenZPage() {
                     <div className="flex items-center gap-3">
                       <div className="relative w-10 h-10 rounded-xl overflow-hidden shrink-0 border border-emerald-200">
                         <Image
-                          src="https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=80&auto=format&fit=crop&q=80"
+                          src="/art/cat-sen.svg"
                           alt="Cold brew step"
                           fill
                           sizes="40px"
@@ -263,7 +263,7 @@ export default function GenZPage() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div className="relative group rounded-2xl overflow-hidden aspect-square bg-slate-100">
               <Image
-                src="https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=500&auto=format&fit=crop&q=80"
+                src="/art/story.svg"
                 alt="Desk setup 1"
                 fill
                 sizes="(max-width: 768px) 50vw, 25vw"
@@ -276,7 +276,7 @@ export default function GenZPage() {
 
             <div className="relative group rounded-2xl overflow-hidden aspect-square bg-slate-100">
               <Image
-                src="https://images.unsplash.com/photo-1498804103079-a6351b050096?w=500&auto=format&fit=crop&q=80"
+                src="/art/cat-shan-tuyet.svg"
                 alt="Desk setup 2"
                 fill
                 sizes="(max-width: 768px) 50vw, 25vw"
@@ -289,7 +289,7 @@ export default function GenZPage() {
 
             <div className="relative group rounded-2xl overflow-hidden aspect-square bg-slate-100">
               <Image
-                src="https://images.unsplash.com/photo-1544816155-12df9643f363?w=500&auto=format&fit=crop&q=80"
+                src="/art/cat-xanh.svg"
                 alt="Desk setup 3"
                 fill
                 sizes="(max-width: 768px) 50vw, 25vw"
@@ -302,7 +302,7 @@ export default function GenZPage() {
 
             <div className="relative group rounded-2xl overflow-hidden aspect-square bg-slate-100">
               <Image
-                src="https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=500&auto=format&fit=crop&q=80"
+                src="/art/cat-o-long.svg"
                 alt="Desk setup 4"
                 fill
                 sizes="(max-width: 768px) 50vw, 25vw"

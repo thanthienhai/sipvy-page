@@ -78,7 +78,7 @@ function resolveProduct(slug: string) {
     variant,
     name: `${product.name}${variant ? ` (${variant.weight})` : ""}`,
     price: variant?.price ?? product.price,
-    image: product.images?.[0]?.url ?? "/products/placeholder.jpg",
+    image: product.images?.[0]?.url ?? "/art/cat-xanh.svg",
   }
 }
 
@@ -144,7 +144,7 @@ export default function MoodMatcher() {
               >
                 <div className="relative w-14 h-14 rounded-xl overflow-hidden shrink-0 border border-slate-200">
                   <Image
-                    src={resolveProduct(mood.slug)?.image ?? "/products/placeholder.jpg"}
+                    src={resolveProduct(mood.slug)?.image ?? "/art/cat-xanh.svg"}
                     alt={mood.label}
                     fill
                     sizes="60px"

@@ -116,7 +116,7 @@ export default function TeaKnowledgePage() {
     <div className="bg-stone-50/70">
       {/* ============ HERO ============ */}
       <section className="relative overflow-hidden bg-green-950 text-stone-100">
-        <Image src="/banner/hieu-ve-tra.jpg" alt="" fill sizes="100vw" className="object-cover opacity-30" priority />
+        <Image src="/art/hero.svg" alt="" fill sizes="100vw" className="object-cover opacity-30" priority />
         <div className="absolute inset-0 bg-green-950/55" aria-hidden="true" />
 
         <StorefrontContainer className="relative pb-14 pt-8 md:pb-20">

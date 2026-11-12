@@ -1,5 +1,6 @@
 "use client"
 
+import { LogoMark } from "@/components/brand/logo-mark"
 import { useCallback, useEffect, useRef, useState } from "react"
 import Image from "next/image"
 import Link from "next/link"
@@ -90,8 +91,8 @@ function MobileNavSheet({ open, onOpenChange, pathname, onCloseAutoFocus }: Mobi
       >
         <SheetHeader className="pr-8 text-left">
           <SheetTitle className="flex items-center gap-2 text-green-900">
-            <Image src="/logo.png" alt="" width={28} height={28} className="rounded-full" />
-            SIPVY
+            <LogoMark className="h-7 w-7" />
+            <span className="font-extrabold lowercase tracking-tight">sipvy</span>
           </SheetTitle>
           <SheetDescription className="sr-only">Điều hướng cửa hàng SIPVY</SheetDescription>
         </SheetHeader>
@@ -347,15 +348,9 @@ export default function Header() {
         <div className="container mx-auto px-4 md:px-6">
           <div className="flex h-16 items-center justify-between gap-3 md:gap-6">
             <Link href="/" aria-label="SIPVY - Trang chủ" className="group flex shrink-0 items-center gap-2">
-              <Image
-                src="/logo.png"
-                alt=""
-                width={40}
-                height={40}
-                className="h-10 w-10 rounded-full shadow-sm transition-shadow group-hover:shadow-md"
-              />
-              <span className="text-xl font-bold tracking-tight text-green-800 transition-colors group-hover:text-green-900 md:text-2xl">
-                SIPVY
+              <LogoMark className="h-10 w-10 transition-transform group-hover:-rotate-6" />
+              <span className="text-2xl font-extrabold lowercase tracking-tight text-green-900 transition-colors group-hover:text-green-700 md:text-3xl">
+                sipvy
               </span>
             </Link>
 
@@ -416,8 +411,8 @@ export default function Header() {
         >
           <div className="container mx-auto flex h-14 items-center gap-2 px-4 md:gap-4 md:px-6">
             <Link href="/" aria-label="SIPVY - Trang chủ" className="group flex shrink-0 items-center gap-2">
-              <Image src="/logo.png" alt="" width={32} height={32} className="h-8 w-8 rounded-full" />
-              <span className="hidden text-lg font-bold tracking-tight text-green-800 sm:inline">SIPVY</span>
+              <LogoMark className="h-8 w-8" />
+              <span className="hidden text-xl font-extrabold lowercase tracking-tight text-green-900 sm:inline">sipvy</span>
             </Link>
 
             <form onSubmit={handleSearch} role="search" className="relative hidden max-w-xl flex-1 sm:flex">

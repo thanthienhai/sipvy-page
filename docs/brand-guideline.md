@@ -90,3 +90,11 @@ Tên "SIPVY" gợi chữ "sip" (nhấp một ngụm): nhẹ, thong thả, không
 - Đặt tên sản phẩm theo vùng/hương vị khi có dữ liệu xác thực (mục 7).
 - Hình ảnh, bao bì, bảng màu thể hiện sự trẻ trung (hiện site vẫn tông xanh lá đậm và nền trầm).
 - Menu "Trà cho GenZ" đổi thành "Trà cho người trẻ" (đã đổi chữ; đường dẫn `/tra-cho-genz` giữ nguyên để không gãy liên kết).
+
+## 9. Nhận diện hình ảnh (v1.1)
+
+- **Màu:** matcha tươi làm chủ đạo (`green`/`emerald`/`teal` trong `tailwind.config.ts` đều trỏ cùng thang matcha: 600 `#588f15`, 800 `#385a15`, 900 `#2f4b16`), đào/cam (`amber`: 300 `#ffab76`, 500 `#f56d2a`) làm điểm nhấn cho nút và nhãn. Nền kem rất nhạt `--background`. Bo góc lớn hơn (`--radius: 0.75rem`).
+- **Font:** Be Vietnam Pro (400–800), thiết kế cho tiếng Việt, tròn và thân thiện hơn Inter. Tiêu đề dùng đậm 700–800.
+- **Logo:** dấu hiệu giọt trà + lá (`components/brand/logo-mark.tsx`, `public/logo.svg`) và chữ `sipvy` viết thường, đậm. Favicon `app/icon.svg`, `app/apple-icon.png`, ảnh chia sẻ `public/og.png`.
+- **Ảnh:** hiện là **minh hoạ phẳng** vẽ bằng SVG (`public/art/`), mỗi danh mục có 4 biến thể. Không phải ảnh chụp sản phẩm. Tái tạo bằng `node scripts/make-brand-assets.mjs`, rồi `npm run build:data`.
+- **Khi có ảnh thật:** bỏ vào `public/products/`, trỏ `images` của từng sản phẩm tới đó (đường dẫn bắt đầu bằng `/` được giữ nguyên). Phong cách ảnh nên là: ánh sáng tự nhiên, ly/túi trà trên bàn làm việc hoặc cầm tay, màu nền pastel, không dùng ảnh đồi chè cổ điển.

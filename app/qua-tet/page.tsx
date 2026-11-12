@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: "Quà Tết SIPVY 2026 — Trà Việt đón Tết",
     description: "Hộp quà trà Tết gọn đẹp, dành cho gia đình, bạn bè và doanh nghiệp",
     url: "/qua-tet",
-    images: [{ url: "/banner/banner_tra-1200.webp", width: 1200, height: 676, alt: "Quà Tết trà SIPVY" }],
+    images: [{ url: "/og.png", width: 1200, height: 676, alt: "Quà Tết trà SIPVY" }],
   },
 }
 
@@ -83,7 +83,7 @@ export default function TetGiftsPage() {
       <EditorialHero contained={false} className="bg-stone-900 text-stone-100">
         <div className="absolute inset-0 opacity-30">
           <Image
-            src="/banner/banner_tra-1600.webp"
+            src="/art/hero.svg"
             alt=""
             fill
             priority

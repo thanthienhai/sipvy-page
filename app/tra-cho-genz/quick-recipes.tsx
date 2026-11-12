@@ -19,8 +19,8 @@ const RECIPES: Recipe[] = [
     title: "Cold Brew Oolong Táo & Bạc Hà",
     desc: "Thức uống mát lạnh cho buổi chiều làm việc. Ủ lạnh cho vị êm, ít chát.",
     time: "Ủ 6-8 tiếng qua đêm",
-    img: "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800&auto=format&fit=crop&q=80",
-    thumb: "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=80&auto=format&fit=crop&q=80",
+    img: "/art/cat-xanh.svg",
+    thumb: "/art/cat-o-long.svg",
     steps: [
       "Thả 1 túi lọc Oolong Lạc Dương vào bình thuỷ tinh 400ml.",
       "Rót nước lọc nguội hoặc nước suối đầy bình, đậy nắp kín.",
@@ -32,8 +32,8 @@ const RECIPES: Recipe[] = [
     title: "Matcha Oat Milk Latte Đá 60s",
     desc: "Matcha đá béo nhẹ, pha trong chốc lát. Bột matcha mịn hoà cùng sữa yến mạch, thơm và dễ uống.",
     time: "60 giây chuẩn bị",
-    img: "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=800&auto=format&fit=crop&q=80",
-    thumb: "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=80&auto=format&fit=crop&q=80",
+    img: "/art/cat-thao-moc.svg",
+    thumb: "/art/cat-sen.svg",
     steps: [
       "Lấy 1 thìa (khoảng 2g) bột Matcha Shan Tuyết hoà cùng 40ml nước ấm 70°C.",
       "Dùng cây đánh bọt cầm tay khuấy đều trong 20 giây đến khi sủi bọt mịn.",
@@ -45,8 +45,8 @@ const RECIPES: Recipe[] = [
     title: "Trà Sữa Cổ Thụ Mật Mía Mộc",
     desc: "Thoả cơn thèm trà sữa ngay tại nhà, tự chọn độ ngọt. Vị đậm từ lá trà cổ thụ quyện cùng sữa tươi thanh trùng.",
     time: "5 phút hãm nóng",
-    img: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80",
-    thumb: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80",
+    img: "/art/story.svg",
+    thumb: "/art/cat-shan-tuyet.svg",
     steps: [
       "Hãm 1 túi Hồng Trà Cổ Thụ với 100ml nước sôi 95°C trong 5 phút để lấy cốt trà đậm đà.",
       "Thêm 1 thìa mật mía hoặc đường hoa dừa tự nhiên khuấy tan.",

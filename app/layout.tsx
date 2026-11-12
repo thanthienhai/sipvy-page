@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next"
-import { Inter } from "next/font/google"
+import { Be_Vietnam_Pro } from "next/font/google"
 import "./globals.css"
 
 import { Providers } from "@/components/providers"
@@ -10,8 +10,9 @@ import ClientOnlyHtml from "@/components/ClientOnlyHtml"
 import { Toaster } from "@/components/ui/toaster"
 import { SITE_URL, withBase } from "@/lib/config"
 
-const inter = Inter({
+const inter = Be_Vietnam_Pro({
   subsets: ["latin", "vietnamese"],
+  weight: ["400", "500", "600", "700", "800"],
   variable: "--font-sans",
   display: "swap",
 })
@@ -28,11 +29,6 @@ export const metadata: Metadata = {
   creator: "SIPVY",
   publisher: "SIPVY",
   applicationName: "SIPVY",
-  icons: {
-    icon: [{ url: withBase("/logo.png"), sizes: "any" }],
-    apple: withBase("/logo.png"),
-    shortcut: withBase("/logo.png"),
-  },
   openGraph: {
     type: "website",
     locale: "vi_VN",
@@ -40,13 +36,13 @@ export const metadata: Metadata = {
     siteName: "SIPVY",
     title: "SIPVY - Trà Việt cho người trẻ",
     description: "Trà Việt dễ pha, dễ uống, hợp nhịp sống mỗi ngày: trà cổ thụ, oolong, sen Tây Hồ. Giao hàng toàn quốc.",
-    images: [{ url: withBase("/banner/banner_tra-1200.webp"), width: 1200, height: 630, alt: "SIPVY - Trà Việt cho người trẻ" }],
+    images: [{ url: withBase("/og.png"), width: 1200, height: 630, alt: "SIPVY - Trà Việt cho người trẻ" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "SIPVY - Trà Việt cho người trẻ",
     description: "Trà Việt dễ pha, dễ uống: cổ thụ, oolong, sen Tây Hồ.",
-    images: [withBase("/banner/banner_tra-1200.webp")],
+    images: [withBase("/og.png")],
   },
   robots: { index: true, follow: true },
 }

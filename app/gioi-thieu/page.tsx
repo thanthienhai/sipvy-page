@@ -89,7 +89,7 @@ export default function AboutPage() {
           </div>
           <div className="relative h-[320px] overflow-hidden rounded-lg md:h-[400px]">
             <Image
-              src="/banner/hieu-ve-tra.jpg"
+              src="/art/story.svg"
               alt="Đồi trà xanh"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"

@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     title: "Quà tặng trà SIPVY",
     description: "Hộp quà trà gọn đẹp cho bạn bè, đồng nghiệp và doanh nghiệp",
     url: "/qua-tang",
-    images: [{ url: "/banner/banner_tra-1200.webp", width: 1200, height: 676, alt: "Quà tặng trà SIPVY" }],
+    images: [{ url: "/og.png", width: 1200, height: 676, alt: "Quà tặng trà SIPVY" }],
   },
 }
 
@@ -92,7 +92,7 @@ export default function GiftPage() {
       <EditorialHero contained={false} className="border-b border-stone-200 bg-stone-50">
         <div className="absolute right-0 top-0 h-full w-1/2 opacity-25">
           <Image
-            src="/banner/banner_tra-1600.webp"
+            src="/art/hero.svg"
             alt=""
             fill
             className="object-cover"

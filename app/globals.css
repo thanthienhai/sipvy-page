@@ -34,9 +34,9 @@
 
 /* Enhanced focus styles for better accessibility */
 .focus-enhanced:focus-visible {
-  outline: 2px solid #10b981;
+  outline: 2px solid #588f15;
   outline-offset: 2px;
-  box-shadow: 0 0 0 4px rgba(16, 185, 129, 0.1);
+  box-shadow: 0 0 0 4px rgba(88, 143, 21, 0.15);
 }
 
 /* Header specific animations */
@@ -80,26 +80,26 @@
 @layer base {
   :root {
     font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
-    --background: 0 0% 100%;
-    --foreground: 20 14.3% 4.1%;
+    --background: 45 60% 99%;
+    --foreground: 90 30% 8%;
     --card: 0 0% 100%;
     --card-foreground: 20 14.3% 4.1%;
     --popover: 0 0% 100%;
     --popover-foreground: 20 14.3% 4.1%;
-    --primary: 35 95% 55%;
-    --primary-foreground: 60 9.1% 97.8%;
-    --secondary: 152 45% 50%;
+    --primary: 88 72% 31%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 88 55% 52%;
     --secondary-foreground: 0 0% 100%;
     --muted: 60 4.8% 95.9%;
     --muted-foreground: 25 5.3% 44.7%;
-    --accent: 35 100% 95%;
+    --accent: 24 100% 95%;
     --accent-foreground: 24 9.8% 10%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 60 9.1% 97.8%;
     --border: 20 5.9% 90%;
     --input: 20 5.9% 90%;
-    --ring: 35 95% 55%;
-    --radius: 0.5rem;
+    --ring: 88 72% 31%;
+    --radius: 0.75rem;
     --storefront-content-max: 80rem;
     --storefront-gutter: 1rem;
     --storefront-section-space: 3rem;
